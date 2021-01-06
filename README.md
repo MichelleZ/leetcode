@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./algorithms/cpp/validParentheses/validParentheses.cpp), [Python](./algorithms/python/validParentheses/validParentheses.py) | Easy |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./algorithms/cpp/removeNthNodeFromEndofList/removeNthNodeFromEndofList.cpp), [Python](./algorithms/python/removeNthNodeFromEndofList/removeNthNodeFromEndofList.py) | Medium |
+| 18 | [4 Sum](https://leetcode.com/problems/4sum/) | [C++](./algorithms/cpp/4Sum/4Sum.cpp), [Python](./algorithms/python/4Sum/4Sum.py) | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./algorithms/cpp/letterCombinationsofaPhoneNumber/letterCombinationsofaPhoneNumber.cpp), [Python](./algorithms/python/letterCombinationsofaPhoneNumber/letterCombinationsofaPhoneNumber.py) | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./algorithms/cpp/3SumClosest/3SumClosest.cpp), [Python](./algorithms/python/3SumClosest/3SumClosest.py) | Medium |
 | 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [C++](./algorithms/cpp/3Sum/3Sum.cpp), [Python](./algorithms/python/3Sum/3Sum.py) | Medium |
