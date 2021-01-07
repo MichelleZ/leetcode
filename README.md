@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [C++](./algorithms/cpp/substringwithConcatenationofAllWords/substringwithConcatenationofAllWords.cpp), [Python](./algorithms/python/substringwithConcatenationofAllWords/substringwithConcatenationofAllWords.py) | Hard |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./algorithms/cpp/divideTwoIntegers/divideTwoIntegers.cpp), [Python](./algorithms/python/divideTwoIntegers/divideTwoIntegers.py) | Medium |
+| 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [C++](./algorithms/cpp/implementstrStr/implementstrStr.cpp), [Python](./algorithms/python/implementstrStr/implementstrStr.py) | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./algorithms/cpp/removeElement/removeElement.cpp), [Python](./algorithms/python/removeElement/removeElement.py) | Easy |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./algorithms/cpp/removeDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.cpp), [Python](./algorithms/python/removeDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.py) | Easy |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./algorithms/cpp/reverseNodesink-Group/reverseNodesink-Group.cpp), [Python](./algorithms/python/reverseNodesink-Group/reverseNodesink-Group.py) | Hard |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./algorithms/cpp/swapNodesinPairs/swapNodesinPairs.cpp), [Python](./algorithms/python/swapNodesinPairs/swapNodesinPairs.py) | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./algorithms/cpp/mergekSortedLists/mergekSortedLists.cpp), [Python](./algorithms/python/mergekSortedLists/mergekSortedLists.py) | Hard |
