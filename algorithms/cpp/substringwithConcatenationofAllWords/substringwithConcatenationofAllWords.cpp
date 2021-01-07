@@ -2,6 +2,14 @@
 // Author: Miao Zhang
 // Date:   2021-01-07
 
+/************************************************************************
+ * sliding window
+ * words_dict == {word: cnt}
+ * left is from 0 to s.size - lenOfWord * numsOfWords + 1
+ * right is from left to lenOfWord * numsOfWords
+ * cur_dict collects the contents from left to right
+************************************************************************/
+
 class Solution {
 public:
     vector<int> findSubstring(string s, vector<string>& words) {
