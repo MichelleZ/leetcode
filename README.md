@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./algorithms/cpp/searchInsertPosition/searchInsertPosition.cpp), [Python](./algorithms/python/searchInsertPosition/searchInsertPosition.py) | Easy |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](./algorithms/cpp/findFirstandLastPositionofElementinSortedArray/findFirstandLastPositionofElementinSortedArray.cpp), [Python](./algorithms/python/findFirstandLastPositionofElementinSortedArray/findFirstandLastPositionofElementinSortedArray.py) | Medium |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./algorithms/cpp/searchinRotatedSortedArray/searchinRotatedSortedArray.cpp), [Python](./algorithms/python/searchinRotatedSortedArray/searchinRotatedSortedArray.py) | Medium |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](./algorithms/cpp/longestValidParentheses/longestValidParentheses.cpp), [Python](./algorithms/python/longestValidParentheses/longestValidParentheses.py) | Hard |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](./algorithms/cpp/nextPermutation/nextPermutation.cpp), [Python](./algorithms/python/nextPermutation/nextPermutation.py) | Medium |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [C++](./algorithms/cpp/substringwithConcatenationofAllWords/substringwithConcatenationofAllWords.cpp), [Python](./algorithms/python/substringwithConcatenationofAllWords/substringwithConcatenationofAllWords.py) | Hard |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./algorithms/cpp/divideTwoIntegers/divideTwoIntegers.cpp), [Python](./algorithms/python/divideTwoIntegers/divideTwoIntegers.py) | Medium |
 | 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [C++](./algorithms/cpp/implementstrStr/implementstrStr.cpp), [Python](./algorithms/python/implementstrStr/implementstrStr.py) | Easy |
