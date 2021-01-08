@@ -3,6 +3,8 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./algorithms/cpp/trappingRainWater/trappingRainWater.cpp), [Python](./algorithms/python/trappingRainWater/trappingRainWater.py) | Hard |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](./algorithms/cpp/firstMissingPositive/firstMissingPositive.cpp), [Python](./algorithms/python/firstMissingPositive/firstMissingPositive.py) | Hard |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [C++](./algorithms/cpp/combinationSumII/combinationSumII.cpp), [Python](./algorithms/python/combinationSumII/combinationSumII.py) | Medium |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./algorithms/cpp/combinationSum/combinationSum.cpp), [Python](./algorithms/python/combinationSum/combinationSum.py) | Medium |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./algorithms/cpp/countandSay/countandSay.cpp), [Python](./algorithms/python/countandSay/countandSay.py) | Easy |
