@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [C++](./algorithms/cpp/combinationSumII/combinationSumII.cpp), [Python](./algorithms/python/combinationSumII/combinationSumII.py) | Medium |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./algorithms/cpp/combinationSum/combinationSum.cpp), [Python](./algorithms/python/combinationSum/combinationSum.py) | Medium |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./algorithms/cpp/countandSay/countandSay.cpp), [Python](./algorithms/python/countandSay/countandSay.py) | Easy |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C++](./algorithms/cpp/sudokuSolver/sudokuSolver.cpp), [Python](./algorithms/python/sudokuSolver/sudokuSolver.py) | Hard |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./algorithms/cpp/validSudoku/validSudoku.cpp), [Python](./algorithms/python/validSudoku/validSudoku.py) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./algorithms/cpp/searchInsertPosition/searchInsertPosition.cpp), [Python](./algorithms/python/searchInsertPosition/searchInsertPosition.py) | Easy |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](./algorithms/cpp/findFirstandLastPositionofElementinSortedArray/findFirstandLastPositionofElementinSortedArray.cpp), [Python](./algorithms/python/findFirstandLastPositionofElementinSortedArray/findFirstandLastPositionofElementinSortedArray.py) | Medium |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./algorithms/cpp/searchinRotatedSortedArray/searchinRotatedSortedArray.cpp), [Python](./algorithms/python/searchinRotatedSortedArray/searchinRotatedSortedArray.py) | Medium |
