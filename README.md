@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [C++](./algorithms/cpp/jumpGameII/jumpGameII.cpp), [Python](./algorithms/python/jumpGameII/jumpGameII.py) | Hard |
+| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [C++](./algorithms/cpp/wildcardMatching/wildcardMatching.cpp), [Python](./algorithms/python/wildcardMatching/wildcardMatching.py) | Hard |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./algorithms/cpp/multiplyStrings/multiplyStrings.cpp), [Python](./algorithms/python/multiplyStrings/multiplyStrings.py) | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./algorithms/cpp/trappingRainWater/trappingRainWater.cpp), [Python](./algorithms/python/trappingRainWater/trappingRainWater.py) | Hard |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](./algorithms/cpp/firstMissingPositive/firstMissingPositive.cpp), [Python](./algorithms/python/firstMissingPositive/firstMissingPositive.py) | Hard |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [C++](./algorithms/cpp/combinationSumII/combinationSumII.cpp), [Python](./algorithms/python/combinationSumII/combinationSumII.py) | Medium |
