@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./algorithms/cpp/jumpGame/jumpGame.cpp), [Python](./algorithms/python/jumpGame/jumpGame.py) | Medium |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./algorithms/cpp/spiralMatrix/spiralMatrix.cpp), [Python](./algorithms/python/spiralMatrix/spiralMatrix.py) | Medium |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./algorithms/cpp/maximumSubarray/maximumSubarray.cpp), [Python](./algorithms/python/maximumSubarray/maximumSubarray.py) | Easy |
+| 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](./algorithms/cpp/N-QueensII/N-QueensII.cpp), [Python](./algorithms/python/N-QueensII/N-QueensII.py) | Hard |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [C++](./algorithms/cpp/N-Queens/N-Queens.cpp), [Python](./algorithms/python/N-Queens/N-Queens.py) | Hard |
 | 50 | [Powx, n](https://leetcode.com/problems/powx-n/) | [C++](./algorithms/cpp/pow/pow.cpp), [Python](./algorithms/python/pow/pow.py) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./algorithms/cpp/groupAnagrams/groupAnagrams.cpp), [Python](./algorithms/python/groupAnagrams/groupAnagrams.py) | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [C++](./algorithms/cpp/rotateImage/rotateImage.cpp), [Python](./algorithms/python/rotateImage/rotateImage.py) | Medium |
