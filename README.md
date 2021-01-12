@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 50 | [Powx, n](https://leetcode.com/problems/powx-n/) | [C++](./algorithms/cpp/pow/pow.cpp), [Python](./algorithms/python/pow/pow.py) | Medium |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./algorithms/cpp/groupAnagrams/groupAnagrams.cpp), [Python](./algorithms/python/groupAnagrams/groupAnagrams.py) | Medium |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [C++](./algorithms/cpp/rotateImage/rotateImage.cpp), [Python](./algorithms/python/rotateImage/rotateImage.py) | Medium |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [C++](./algorithms/cpp/permutationsII/permutationsII.cpp), [Python](./algorithms/python/permutationsII/permutationsII.py) | Medium |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [C++](./algorithms/cpp/permutations/permutations.cpp), [Python](./algorithms/python/permutations/permutations.py) | Medium |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [C++](./algorithms/cpp/jumpGameII/jumpGameII.cpp), [Python](./algorithms/python/jumpGameII/jumpGameII.py) | Hard |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [C++](./algorithms/cpp/wildcardMatching/wildcardMatching.cpp), [Python](./algorithms/python/wildcardMatching/wildcardMatching.py) | Hard |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./algorithms/cpp/multiplyStrings/multiplyStrings.cpp), [Python](./algorithms/python/multiplyStrings/multiplyStrings.py) | Medium |
