@@ -3,6 +3,13 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C++](./algorithms/cpp/addBinary/addBinary.cpp), [Python](./algorithms/python/addBinary/addBinary.py) | Easy |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](./algorithms/cpp/plusOne/plusOne.cpp), [Python](./algorithms/python/plusOne/plusOne.py) | Easy |
+| 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./algorithms/cpp/validNumber/validNumber.cpp), [Python](./algorithms/python/validNumber/validNumber.py) | Hard |
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](./algorithms/cpp/minimumPathSum/minimumPathSum.cpp), [Python](./algorithms/python/minimumPathSum/minimumPathSum.py) | Medium |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](./algorithms/cpp/uniquePathsII/uniquePathsII.cpp), [Python](./algorithms/python/uniquePathsII/uniquePathsII.py) | Medium |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](./algorithms/cpp/uniquePaths/uniquePaths.cpp), [Python](./algorithms/python/uniquePaths/uniquePaths.py) | Medium |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./algorithms/cpp/rotateList/rotateList.cpp), [Python](./algorithms/python/rotateList/rotateList.py) | Medium |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./algorithms/cpp/permutationSequence/permutationSequence.cpp), [Python](./algorithms/python/permutationSequence/permutationSequence.py) | Hard |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./algorithms/cpp/spiralMatrixII/spiralMatrixII.cpp), [Python](./algorithms/python/spiralMatrixII/spiralMatrixII.py) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./algorithms/cpp/lengthofLastWord/lengthofLastWord.cpp), [Python](./algorithms/python/lengthofLastWord/lengthofLastWord.py) | Easy |
