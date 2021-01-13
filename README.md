@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/cpp/climbingStairs/climbingStairs.cpp), [Python](./algorithms/python/climbingStairs/climbingStairs.py) | Medium |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./algorithms/cpp/sqrtx/sqrtx.cpp), [Python](./algorithms/python/sqrtx/sqrtx.py) | Easy |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](./algorithms/cpp/textJustification/textJustification.cpp), [Python](./algorithms/python/textJustification/textJustification.py) | Hard |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C++](./algorithms/cpp/addBinary/addBinary.cpp), [Python](./algorithms/python/addBinary/addBinary.py) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](./algorithms/cpp/plusOne/plusOne.cpp), [Python](./algorithms/python/plusOne/plusOne.py) | Easy |
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./algorithms/cpp/validNumber/validNumber.cpp), [Python](./algorithms/python/validNumber/validNumber.py) | Hard |
