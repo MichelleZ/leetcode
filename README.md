@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](./algorithms/cpp/maximalRectangle/maximalRectangle.cpp), [Python](./algorithms/python/maximalRectangle/maximalRectangle.py) | Hard |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./algorithms/cpp/largestRectangleinHistogram/largestRectangleinHistogram.cpp), [Python](./algorithms/python/largestRectangleinHistogram/largestRectangleinHistogram.py) | Hard |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [C++](./algorithms/cpp/removeDuplicatesfromSortedList/removeDuplicatesfromSortedList.cpp), [Python](./algorithms/python/removeDuplicatesfromSortedList/removeDuplicatesfromSortedList.py) | Easy |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](./algorithms/cpp/removeDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.cpp), [Python](./algorithms/python/removeDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.py) | Medium |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](./algorithms/cpp/searchinRotatedSortedArrayII/searchinRotatedSortedArrayII.cpp), [Python](./algorithms/python/searchinRotatedSortedArrayII/searchinRotatedSortedArrayII.py) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./algorithms/cpp/removeDuplicatesfromSortedArrayII/removeDuplicatesfromSortedArrayII.cpp), [Python](./algorithms/python/removeDuplicatesfromSortedArrayII/removeDuplicatesfromSortedArrayII.py) | Medium |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./algorithms/cpp/wordSearch/wordSearch.cpp), [Python](./algorithms/python/wordSearch/wordSearch.py) | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](./algorithms/cpp/subsets/subsets.cpp), [Python](./algorithms/python/subsets/subsets.py) | Medium |
