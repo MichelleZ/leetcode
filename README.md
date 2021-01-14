@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./algorithms/cpp/wordSearch/wordSearch.cpp), [Python](./algorithms/python/wordSearch/wordSearch.py) | Medium |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](./algorithms/cpp/subsets/subsets.cpp), [Python](./algorithms/python/subsets/subsets.py) | Medium |
+| 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](./algorithms/cpp/combinations/combinations.cpp), [Python](./algorithms/python/combinations/combinations.py) | Medium |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./algorithms/cpp/minimumWindowSubstring/minimumWindowSubstring.cpp), [Python](./algorithms/python/minimumWindowSubstring/minimumWindowSubstring.py) | Hard |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./algorithms/cpp/sortColors/sortColors.cpp), [Python](./algorithms/python/sortColors/sortColors.py) | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./algorithms/cpp/searcha2DMatrix/searcha2DMatrix.cpp), [Python](./algorithms/python/searcha2DMatrix/searcha2DMatrix.py) | Medium |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./algorithms/cpp/setMatrixZeroes/setMatrixZeroes.cpp), [Python](./algorithms/python/setMatrixZeroes/setMatrixZeroes.py) | Medium |
