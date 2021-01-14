@@ -3,6 +3,7 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./algorithms/cpp/removeDuplicatesfromSortedArrayII/removeDuplicatesfromSortedArrayII.cpp), [Python](./algorithms/python/removeDuplicatesfromSortedArrayII/removeDuplicatesfromSortedArrayII.py) | Medium |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./algorithms/cpp/wordSearch/wordSearch.cpp), [Python](./algorithms/python/wordSearch/wordSearch.py) | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](./algorithms/cpp/subsets/subsets.cpp), [Python](./algorithms/python/subsets/subsets.py) | Medium |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](./algorithms/cpp/combinations/combinations.cpp), [Python](./algorithms/python/combinations/combinations.py) | Medium |
