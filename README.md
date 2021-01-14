@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./algorithms/cpp/sortColors/sortColors.cpp), [Python](./algorithms/python/sortColors/sortColors.py) | Medium |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./algorithms/cpp/searcha2DMatrix/searcha2DMatrix.cpp), [Python](./algorithms/python/searcha2DMatrix/searcha2DMatrix.py) | Medium |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./algorithms/cpp/setMatrixZeroes/setMatrixZeroes.cpp), [Python](./algorithms/python/setMatrixZeroes/setMatrixZeroes.py) | Medium |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [C++](./algorithms/cpp/editDistance/editDistance.cpp), [Python](./algorithms/python/editDistance/editDistance.py) | Hard |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [C++](./algorithms/cpp/simplifyPath/simplifyPath.cpp), [Python](./algorithms/python/simplifyPath/simplifyPath.py) | Medium |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/cpp/climbingStairs/climbingStairs.cpp), [Python](./algorithms/python/climbingStairs/climbingStairs.py) | Medium |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./algorithms/cpp/sqrtx/sqrtx.cpp), [Python](./algorithms/python/sqrtx/sqrtx.py) | Easy |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](./algorithms/cpp/textJustification/textJustification.cpp), [Python](./algorithms/python/textJustification/textJustification.py) | Hard |
