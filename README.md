@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [C++](./algorithms/cpp/uniqueBinarySearchTreesII/uniqueBinarySearchTreesII.cpp), [Python](./algorithms/python/uniqueBinarySearchTreesII/uniqueBinarySearchTreesII.py) | Medium |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./algorithms/cpp/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp), [Python](./algorithms/python/binaryTreeInorderTraversal/binaryTreeInorderTraversal.py) | Medium |
+| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [C++](./algorithms/cpp/restoreIPAddresses/restoreIPAddresses.cpp), [Python](./algorithms/python/restoreIPAddresses/restoreIPAddresses.py) | Medium |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./algorithms/cpp/reverseLinkedListII/reverseLinkedListII.cpp), [Python](./algorithms/python/reverseLinkedListII/reverseLinkedListII.py) | Medium |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [C++](./algorithms/cpp/decodeWays/decodeWays.cpp), [Python](./algorithms/python/decodeWays/decodeWays.py) | Medium |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [C++](./algorithms/cpp/subsetsII/subsetsII.cpp), [Python](./algorithms/python/subsetsII/subsetsII.py) | Medium |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [C++](./algorithms/cpp/grayCode/grayCode.cpp), [Python](./algorithms/python/grayCode/grayCode.py) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./algorithms/cpp/mergeSortedArray/mergeSortedArray.cpp), [Python](./algorithms/python/mergeSortedArray/mergeSortedArray.py) | Easy |
