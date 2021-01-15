@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [C++](./algorithms/cpp/subsetsII/subsetsII.cpp), [Python](./algorithms/python/subsetsII/subsetsII.py) | Medium |
+| 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [C++](./algorithms/cpp/grayCode/grayCode.cpp), [Python](./algorithms/python/grayCode/grayCode.py) | Medium |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./algorithms/cpp/mergeSortedArray/mergeSortedArray.cpp), [Python](./algorithms/python/mergeSortedArray/mergeSortedArray.py) | Easy |
+| 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./algorithms/cpp/scrambleString/scrambleString.cpp), [Python](./algorithms/python/scrambleString/scrambleString.py) | Hard |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./algorithms/cpp/partitionList/partitionList.cpp), [Python](./algorithms/python/partitionList/partitionList.py) | Medium |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](./algorithms/cpp/maximalRectangle/maximalRectangle.cpp), [Python](./algorithms/python/maximalRectangle/maximalRectangle.py) | Hard |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./algorithms/cpp/largestRectangleinHistogram/largestRectangleinHistogram.cpp), [Python](./algorithms/python/largestRectangleinHistogram/largestRectangleinHistogram.py) | Hard |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [C++](./algorithms/cpp/removeDuplicatesfromSortedList/removeDuplicatesfromSortedList.cpp), [Python](./algorithms/python/removeDuplicatesfromSortedList/removeDuplicatesfromSortedList.py) | Easy |
