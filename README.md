@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./algorithms/cpp/sameTree/sameTree.cpp), [Python](./algorithms/python/sameTree/sameTree.py) | Easy |
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./algorithms/cpp/recoverBinarySearchTree/recoverBinarySearchTree.cpp), [Python](./algorithms/python/recoverBinarySearchTree/recoverBinarySearchTree.py) | Hard |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./algorithms/cpp/validateBinarySearchTree/validateBinarySearchTree.cpp), [Python](./algorithms/python/validateBinarySearchTree/validateBinarySearchTree.py) | Medium |
+| 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [C++](./algorithms/cpp/interleavingString/interleavingString.cpp), [Python](./algorithms/python/interleavingString/interleavingString.py) | Hard |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [C++](./algorithms/cpp/uniqueBinarySearchTrees/uniqueBinarySearchTrees.cpp), [Python](./algorithms/python/uniqueBinarySearchTrees/uniqueBinarySearchTrees.py) | Medium |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [C++](./algorithms/cpp/uniqueBinarySearchTreesII/uniqueBinarySearchTreesII.cpp), [Python](./algorithms/python/uniqueBinarySearchTreesII/uniqueBinarySearchTreesII.py) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./algorithms/cpp/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp), [Python](./algorithms/python/binaryTreeInorderTraversal/binaryTreeInorderTraversal.py) | Medium |
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [C++](./algorithms/cpp/restoreIPAddresses/restoreIPAddresses.cpp), [Python](./algorithms/python/restoreIPAddresses/restoreIPAddresses.py) | Medium |
