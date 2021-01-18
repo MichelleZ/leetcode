@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./algorithms/cpp/constructBinaryTreefromPreorderandInorderTraversal/constructBinaryTreefromPreorderandInorderTraversal.cpp), [Python](./algorithms/python/constructBinaryTreefromPreorderandInorderTraversal/constructBinaryTreefromPreorderandInorderTraversal.py) | Medium |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./algorithms/cpp/maximumDepthofBinaryTree/maximumDepthofBinaryTree.cpp), [Python](./algorithms/python/maximumDepthofBinaryTree/maximumDepthofBinaryTree.py) | Easy |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](./algorithms/cpp/binaryTreeZigzagLevelOrderTraversal/binaryTreeZigzagLevelOrderTraversal.cpp), [Python](./algorithms/python/binaryTreeZigzagLevelOrderTraversal/binaryTreeZigzagLevelOrderTraversal.py) | Medium |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./algorithms/cpp/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.cpp), [Python](./algorithms/python/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.py) | Medium |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./algorithms/cpp/symmetricTree/symmetricTree.cpp), [Python](./algorithms/python/symmetricTree/symmetricTree.py) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./algorithms/cpp/sameTree/sameTree.cpp), [Python](./algorithms/python/sameTree/sameTree.py) | Easy |
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./algorithms/cpp/recoverBinarySearchTree/recoverBinarySearchTree.cpp), [Python](./algorithms/python/recoverBinarySearchTree/recoverBinarySearchTree.py) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./algorithms/cpp/validateBinarySearchTree/validateBinarySearchTree.cpp), [Python](./algorithms/python/validateBinarySearchTree/validateBinarySearchTree.py) | Medium |
