@@ -3,7 +3,12 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
-| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./algorithms/cpp/balancedBinaryTree/balancedBinaryTree.cpp), [Python](./algorithms/python/convertSortedListtoBinarySearchTree/balancedBinaryTree/balancedBinaryTree.py) | Easy |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C++](./algorithms/cpp/distinctSubsequences/distinctSubsequences.cpp), [Python](./algorithms/python/distinctSubsequences/distinctSubsequences.py) | Medium |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./algorithms/cpp/flattenBinaryTreetoLinkedList/flattenBinaryTreetoLinkedList.cpp), [Python](./algorithms/python/flattenBinaryTreetoLinkedList/flattenBinaryTreetoLinkedList.py) | Medium |
+| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./algorithms/cpp/pathSumII/pathSumII.cpp), [Python](./algorithms/python/pathSumII/pathSumII.py) | Medium |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./algorithms/cpp/pathSum/pathSum.cpp), [Python](./algorithms/python/pathSum/pathSum.py) | Easy |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./algorithms/cpp/minimumDepthofBinaryTree/minimumDepthofBinaryTree.cpp), [Python](./algorithms/python/minimumDepthofBinaryTree/minimumDepthofBinaryTree.py) | Easy |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./algorithms/cpp/balancedBinaryTree/balancedBinaryTree.cpp), [Python](./algorithms/python/balancedBinaryTree/balancedBinaryTree.py) | Easy |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C++](./algorithms/cpp/convertSortedListtoBinarySearchTree/convertSortedListtoBinarySearchTree.cpp), [Python](./algorithms/python/convertSortedListtoBinarySearchTree/convertSortedListtoBinarySearchTree.py) | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./algorithms/cpp/convertSortedArraytoBinarySearchTree/convertSortedArraytoBinarySearchTree.cpp), [Python](./algorithms/python/convertSortedArraytoBinarySearchTree/convertSortedArraytoBinarySearchTree.py) | Easy |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [C++](./algorithms/cpp/binaryTreeLevelOrderTraversalII/binaryTreeLevelOrderTraversalII.cpp), [Python](./algorithms/python/binaryTreeLevelOrderTraversalII/binaryTreeLevelOrderTraversalII.py) | Easy |
