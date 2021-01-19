@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [C++](./algorithms/cpp/triangle/triangle.cpp), [Python](./algorithms/python/triangle/triangle.py) | Medium |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](./algorithms/cpp/pascalsTriangleII/pascalsTriangleII.cpp), [Python](./algorithms/python/pascalsTriangleII/pascalsTriangleII.py) | Easy |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](./algorithms/cpp/pascalsTriangle/pascalsTriangle.cpp), [Python](./algorithms/python/pascalsTriangle/pascalsTriangle.py) | Easy |
+| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [C++](./algorithms/cpp/populatingNextRightPointersinEachNodeII/populatingNextRightPointersinEachNodeII.cpp), [Python](./algorithms/python/populatingNextRightPointersinEachNodeII/populatingNextRightPointersinEachNodeII.py) | Medium |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [C++](./algorithms/cpp/populatingNextRightPointersinEachNode/populatingNextRightPointersinEachNode.cpp), [Python](./algorithms/python/populatingNextRightPointersinEachNode/populatingNextRightPointersinEachNode.py) | Medium |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C++](./algorithms/cpp/distinctSubsequences/distinctSubsequences.cpp), [Python](./algorithms/python/distinctSubsequences/distinctSubsequences.py) | Medium |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./algorithms/cpp/flattenBinaryTreetoLinkedList/flattenBinaryTreetoLinkedList.cpp), [Python](./algorithms/python/flattenBinaryTreetoLinkedList/flattenBinaryTreetoLinkedList.py) | Medium |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./algorithms/cpp/pathSumII/pathSumII.cpp), [Python](./algorithms/python/pathSumII/pathSumII.py) | Medium |
