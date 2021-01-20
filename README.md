@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [C++](./algorithms/cpp/surroundedRegions/surroundedRegions.cpp), [Python](./algorithms/python/surroundedRegions/surroundedRegions.py) | Medium |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [C++](./algorithms/cpp/sumRoottoLeafNumbers/sumRoottoLeafNumbers.cpp), [Python](./algorithms/python/sumRoottoLeafNumbers/sumRoottoLeafNumbers.py) | Medium |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./algorithms/cpp/longestConsecutiveSequence/longestConsecutiveSequence.cpp), [Python](./algorithms/python/longestConsecutiveSequence/longestConsecutiveSequence.py) | Hard |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [C++](./algorithms/cpp/wordLadder/wordLadder.cpp), [Python](./algorithms/python/wordLadder/wordLadder.py) | Hard |
+| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [C++](./algorithms/cpp/wordLadderII/wordLadderII.cpp), [Python](./algorithms/python/wordLadderII/wordLadderII.py) | Hard |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./algorithms/cpp/validPalindrome/validPalindrome.cpp), [Python](./algorithms/python/validPalindrome/validPalindrome.py) | Easy |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./algorithms/cpp/binaryTreeMaximumPathSum/binaryTreeMaximumPathSum.cpp), [Python](./algorithms/python/binaryTreeMaximumPathSum/binaryTreeMaximumPathSum.py) | Hard |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./algorithms/cpp/bestTimetoBuyandSellStockIII/bestTimetoBuyandSellStockIII.cpp), [Python](./algorithms/python/bestTimetoBuyandSellStockIII/bestTimetoBuyandSellStockIII.py) | Hard |
