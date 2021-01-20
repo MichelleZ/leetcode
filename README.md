@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./algorithms/cpp/validPalindrome/validPalindrome.cpp), [Python](./algorithms/python/validPalindrome/validPalindrome.py) | Easy |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./algorithms/cpp/binaryTreeMaximumPathSum/binaryTreeMaximumPathSum.cpp), [Python](./algorithms/python/binaryTreeMaximumPathSum/binaryTreeMaximumPathSum.py) | Hard |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./algorithms/cpp/bestTimetoBuyandSellStockIII/bestTimetoBuyandSellStockIII.cpp), [Python](./algorithms/python/bestTimetoBuyandSellStockIII/bestTimetoBuyandSellStockIII.py) | Hard |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./algorithms/cpp/bestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.cpp), [Python](./algorithms/python/bestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.py) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./algorithms/cpp/bestTimetoBuyandSellStock/bestTimetoBuyandSellStock.cpp), [Python](./algorithms/python/bestTimetoBuyandSellStock/bestTimetoBuyandSellStock.py) | Easy |
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [C++](./algorithms/cpp/triangle/triangle.cpp), [Python](./algorithms/python/triangle/triangle.py) | Medium |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](./algorithms/cpp/pascalsTriangleII/pascalsTriangleII.cpp), [Python](./algorithms/python/pascalsTriangleII/pascalsTriangleII.py) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](./algorithms/cpp/pascalsTriangle/pascalsTriangle.cpp), [Python](./algorithms/python/pascalsTriangle/pascalsTriangle.py) | Easy |
