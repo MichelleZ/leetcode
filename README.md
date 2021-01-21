@@ -3,6 +3,16 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [C++](./algorithms/cpp/wordBreakII/wordBreakII.cpp), [Python](./algorithms/python/wordBreakII/wordBreakII.py) | Hard |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [C++](./algorithms/cpp/wordBreak/wordBreak.cpp), [Python](./algorithms/python/wordBreak/wordBreak.py) | Medium |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./algorithms/cpp/copyListwithRandomPointer/copyListwithRandomPointer.cpp), [Python](./algorithms/python/copyListwithRandomPointer/copyListwithRandomPointer.py) | Medium |
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [C++](./algorithms/cpp/singleNumberII/singleNumberII.cpp), [Python](./algorithms/python/singleNumberII/singleNumberII.py) | Medium |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](./algorithms/cpp/singleNumber/singleNumber.cpp), [Python](./algorithms/python/singleNumber/singleNumber.py) | Easy |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | [C++](./algorithms/cpp/candy/candy.cpp), [Python](./algorithms/python/candy/candy.py) | Hard |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [C++](./algorithms/cpp/gasStation/gasStation.cpp), [Python](./algorithms/python/gasStation/gasStation.py) | Medium |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [C++](./algorithms/cpp/cloneGraph/cloneGraph.cpp), [Python](./algorithms/python/cloneGraph/cloneGraph.py) | Medium |
+| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./algorithms/cpp/palindromePartitioningII/palindromePartitioningII.cpp), [Python](./algorithms/python/palindromePartitioningII/palindromePartitioningII.py) | Hard |
+| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [C++](./algorithms/cpp/palindromePartitioning/palindromePartitioning.cpp), [Python](./algorithms/python/palindromePartitioning/palindromePartitioning.py) | Medium |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [C++](./algorithms/cpp/surroundedRegions/surroundedRegions.cpp), [Python](./algorithms/python/surroundedRegions/surroundedRegions.py) | Medium |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [C++](./algorithms/cpp/sumRoottoLeafNumbers/sumRoottoLeafNumbers.cpp), [Python](./algorithms/python/sumRoottoLeafNumbers/sumRoottoLeafNumbers.py) | Medium |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./algorithms/cpp/longestConsecutiveSequence/longestConsecutiveSequence.cpp), [Python](./algorithms/python/longestConsecutiveSequence/longestConsecutiveSequence.py) | Hard |
