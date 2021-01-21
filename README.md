@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./algorithms/cpp/binaryTreePostorderTraversal/binaryTreePostorderTraversal.cpp), [Python](./algorithms/python/binaryTreePostorderTraversal/binaryTreePostorderTraversal.py) | Medium |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./algorithms/cpp/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp), [Python](./algorithms/python/binaryTreePreorderTraversal/binaryTreePreorderTraversal.py) | Medium |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./algorithms/cpp/reorderList/reorderList.cpp), [Python](./algorithms/python/reorderList/reorderList.py) | Medium |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./algorithms/cpp/linkedListCycleII/linkedListCycleII.cpp), [Python](./algorithms/python/linkedListCycleII/linkedListCycleII.py) | Medium |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./algorithms/cpp/linkedListCycle/linkedListCycle.cpp), [Python](./algorithms/python/linkedListCycle/linkedListCycle.py) | Easy |
 | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [C++](./algorithms/cpp/wordBreakII/wordBreakII.cpp), [Python](./algorithms/python/wordBreakII/wordBreakII.py) | Hard |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [C++](./algorithms/cpp/wordBreak/wordBreak.cpp), [Python](./algorithms/python/wordBreak/wordBreak.py) | Medium |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./algorithms/cpp/copyListwithRandomPointer/copyListwithRandomPointer.cpp), [Python](./algorithms/python/copyListwithRandomPointer/copyListwithRandomPointer.py) | Medium |
