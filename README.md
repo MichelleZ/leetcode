@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./algorithms/cpp/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp), [Python](./algorithms/python/evaluateReversePolishNotation/evaluateReversePolishNotation.py) | Medium |
+| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [C++](./algorithms/cpp/maxPointsonaLine/maxPointsonaLine.cpp), [Python](./algorithms/python/maxPointsonaLine/maxPointsonaLine.py) | Hard |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [C++](./algorithms/cpp/sortList/sortList.cpp), [Python](./algorithms/python/sortList/sortList.py) | Medium |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [C++](./algorithms/cpp/insertionSortList/insertionSortList.cpp), [Python](./algorithms/python/insertionSortList/insertionSortList.py) | Medium |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./algorithms/cpp/lRUCache/lRUCache.cpp), [Python](./algorithms/python/lRUCache/lRUCache.py) | Medium |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./algorithms/cpp/binaryTreePostorderTraversal/binaryTreePostorderTraversal.cpp), [Python](./algorithms/python/binaryTreePostorderTraversal/binaryTreePostorderTraversal.py) | Medium |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./algorithms/cpp/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp), [Python](./algorithms/python/binaryTreePreorderTraversal/binaryTreePreorderTraversal.py) | Medium |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./algorithms/cpp/reorderList/reorderList.cpp), [Python](./algorithms/python/reorderList/reorderList.py) | Medium |
