@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./algorithms/cpp/minStack/minStack.cpp), [Python](./algorithms/python/minStack/minStack.py) | Easy |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./algorithms/cpp/findMinimuminRotatedSortedArrayII/findMinimuminRotatedSortedArrayII.cpp), [Python](./algorithms/python/findMinimuminRotatedSortedArrayII/findMinimuminRotatedSortedArrayII.py) | Hard |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./algorithms/cpp/findMinimuminRotatedSortedArray/findMinimuminRotatedSortedArray.cpp), [Python](./algorithms/python/findMinimuminRotatedSortedArray/findMinimuminRotatedSortedArray.py) | Medium |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./algorithms/cpp/maximumProductSubarray/maximumProductSubarray.cpp), [Python](./algorithms/python/maximumProductSubarray/maximumProductSubarray.py) | Medium |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./algorithms/cpp/reverseWordsinaString/reverseWordsinaString.cpp), [Python](./algorithms/python/reverseWordsinaString/reverseWordsinaString.py) | Medium |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./algorithms/cpp/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp), [Python](./algorithms/python/evaluateReversePolishNotation/evaluateReversePolishNotation.py) | Medium |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [C++](./algorithms/cpp/maxPointsonaLine/maxPointsonaLine.cpp), [Python](./algorithms/python/maxPointsonaLine/maxPointsonaLine.py) | Hard |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [C++](./algorithms/cpp/sortList/sortList.cpp), [Python](./algorithms/python/sortList/sortList.py) | Medium |
