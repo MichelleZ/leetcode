@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./algorithms/cpp/compareVersionNumbers/compareVersionNumbers.cpp), [Python](./algorithms/python/compareVersionNumbers/compareVersionNumbers.py) | Medium |
+| 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [C++](./algorithms/cpp/maximumGap/maximumGap.cpp), [Python](./algorithms/python/maximumGap/maximumGap.py) | Hard |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./algorithms/cpp/findPeakElement/findPeakElement.cpp), [Python](./algorithms/python/findPeakElement/findPeakElement.py) | Medium |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./algorithms/cpp/intersectionofTwoLinkedLists/intersectionofTwoLinkedLists.cpp), [Python](./algorithms/python/intersectionofTwoLinkedLists/intersectionofTwoLinkedLists.py) | Easy |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./algorithms/cpp/minStack/minStack.cpp), [Python](./algorithms/python/minStack/minStack.py) | Easy |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./algorithms/cpp/findMinimuminRotatedSortedArrayII/findMinimuminRotatedSortedArrayII.cpp), [Python](./algorithms/python/findMinimuminRotatedSortedArrayII/findMinimuminRotatedSortedArrayII.py) | Hard |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./algorithms/cpp/findMinimuminRotatedSortedArray/findMinimuminRotatedSortedArray.cpp), [Python](./algorithms/python/findMinimuminRotatedSortedArray/findMinimuminRotatedSortedArray.py) | Medium |
