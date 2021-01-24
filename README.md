@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./algorithms/cpp/dungeonGame/dungeonGame.cpp), [Python](./algorithms/python/dungeonGame/dungeonGame.py) | Hard |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./algorithms/cpp/binarySearchTreeIterator/binarySearchTreeIterator.cpp), [Python](./algorithms/python/binarySearchTreeIterator/binarySearchTreeIterator.py) | Medium |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./algorithms/cpp/factorialTrailingZeroes/factorialTrailingZeroes.cpp), [Python](./algorithms/python/factorialTrailingZeroes/factorialTrailingZeroes.py) | Easy |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./algorithms/cpp/excelSheetColumnNumber/excelSheetColumnNumber.cpp), [Python](./algorithms/python/excelSheetColumnNumber/excelSheetColumnNumber.py) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/cpp/majorityElement/majorityElement.cpp), [Python](./algorithms/python/majorityElement/majorityElement.py) | Easy |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/cpp/excelSheetColumnTitle/excelSheetColumnTitle.cpp), [Python](./algorithms/python/excelSheetColumnTitle/excelSheetColumnTitle.py) | Easy |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./algorithms/cpp/twoSumII-Inputarrayissorted/twoSumII-Inputarrayissorted.cpp), [Python](./algorithms/python/twoSumII-Inputarrayissorted/twoSumII-Inputarrayissorted.py) | Easy |
