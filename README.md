@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/cpp/majorityElement/majorityElement.cpp), [Python](./algorithms/python/majorityElement/majorityElement.py) | Easy |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/cpp/excelSheetColumnTitle/excelSheetColumnTitle.cpp), [Python](./algorithms/python/excelSheetColumnTitle/excelSheetColumnTitle.py) | Easy |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./algorithms/cpp/twoSumII-Inputarrayissorted/twoSumII-Inputarrayissorted.cpp), [Python](./algorithms/python/twoSumII-Inputarrayissorted/twoSumII-Inputarrayissorted.py) | Easy |
+| 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./algorithms/cpp/fractiontoRecurringDecimal/fractiontoRecurringDecimal.cpp), [Python](./algorithms/python/fractiontoRecurringDecimal/fractiontoRecurringDecimal.py) | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./algorithms/cpp/compareVersionNumbers/compareVersionNumbers.cpp), [Python](./algorithms/python/compareVersionNumbers/compareVersionNumbers.py) | Medium |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [C++](./algorithms/cpp/maximumGap/maximumGap.cpp), [Python](./algorithms/python/maximumGap/maximumGap.py) | Hard |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./algorithms/cpp/findPeakElement/findPeakElement.cpp), [Python](./algorithms/python/findPeakElement/findPeakElement.py) | Medium |
