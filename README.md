@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./algorithms/cpp/reverseBits/reverseBits.cpp), [Python](./algorithms/python/reverseBits/reverseBits.py) | Easy |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./algorithms/cpp/rotateArray/rotateArray.cpp), [Python](./algorithms/python/rotateArray/rotateArray.py) | Medium |
+| 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./algorithms/cpp/bestTimetoBuyandSellStockIV/bestTimetoBuyandSellStockIV.cpp), [Python](./algorithms/python/bestTimetoBuyandSellStockIV/bestTimetoBuyandSellStockIV.py) | Hard |
+| 180 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [C++](./algorithms/cpp/repeatedDNASequences/repeatedDNASequences.cpp), [Python](./algorithms/python/repeatedDNASequences/repeatedDNASequences.py) | Medium |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./algorithms/cpp/largestNumber/largestNumber.cpp), [Python](./algorithms/python/largestNumber/largestNumber.py) | Medium |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./algorithms/cpp/dungeonGame/dungeonGame.cpp), [Python](./algorithms/python/dungeonGame/dungeonGame.py) | Hard |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./algorithms/cpp/binarySearchTreeIterator/binarySearchTreeIterator.cpp), [Python](./algorithms/python/binarySearchTreeIterator/binarySearchTreeIterator.py) | Medium |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./algorithms/cpp/factorialTrailingZeroes/factorialTrailingZeroes.cpp), [Python](./algorithms/python/factorialTrailingZeroes/factorialTrailingZeroes.py) | Easy |
