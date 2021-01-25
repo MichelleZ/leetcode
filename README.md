@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./algorithms/cpp/isomorphicStrings/isomorphicStrings.cpp), [Python](./algorithms/python/isomorphicStrings/isomorphicStrings.py) | Easy |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./algorithms/cpp/countPrimes/countPrimes.cpp), [Python](./algorithms/python/countPrimes/countPrimes.py) | Easy |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./algorithms/cpp/removeLinkedListElements/removeLinkedListElements.cpp), [Python](./algorithms/python/removeLinkedListElements/removeLinkedListElements.py) | Easy |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/cpp/happyNumber/happyNumber.cpp), [Python](./algorithms/python/happyNumber/happyNumber.py) | Easy |
+| 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C++](./algorithms/cpp/bitwiseANDofNumbersRange/bitwiseANDofNumbersRange.cpp), [Python](./algorithms/python/bitwiseANDofNumbersRange/bitwiseANDofNumbersRange.py) | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./algorithms/cpp/numberofIslands/numberofIslands.cpp), [Python](./algorithms/python/numberofIslands/numberofIslands.py) | Medium |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++](./algorithms/cpp/binaryTreeRightSideView/binaryTreeRightSideView.cpp), [Python](./algorithms/python/binaryTreeRightSideView/binaryTreeRightSideView.py) | Medium |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./algorithms/cpp/houseRobber/houseRobber.cpp), [Python](./algorithms/python/houseRobber/houseRobber.py) | Medium |
