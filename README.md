@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./algorithms/cpp/numberofIslands/numberofIslands.cpp), [Python](./algorithms/python/numberofIslands/numberofIslands.py) | Medium |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++](./algorithms/cpp/binaryTreeRightSideView/binaryTreeRightSideView.cpp), [Python](./algorithms/python/binaryTreeRightSideView/binaryTreeRightSideView.py) | Medium |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./algorithms/cpp/houseRobber/houseRobber.cpp), [Python](./algorithms/python/houseRobber/houseRobber.py) | Medium |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./algorithms/cpp/numberof1Bits/numberof1Bits.cpp), [Python](./algorithms/python/numberof1Bits/numberof1Bits.py) | Easy |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./algorithms/cpp/reverseBits/reverseBits.cpp), [Python](./algorithms/python/reverseBits/reverseBits.py) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./algorithms/cpp/rotateArray/rotateArray.cpp), [Python](./algorithms/python/rotateArray/rotateArray.py) | Medium |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./algorithms/cpp/bestTimetoBuyandSellStockIV/bestTimetoBuyandSellStockIV.cpp), [Python](./algorithms/python/bestTimetoBuyandSellStockIV/bestTimetoBuyandSellStockIV.py) | Hard |
