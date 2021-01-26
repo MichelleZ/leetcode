@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](./algorithms/cpp/courseScheduleII/courseScheduleII.cpp), [Python](./algorithms/python/courseScheduleII/courseScheduleII.py) | Medium |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./algorithms/cpp/minimumSizeSubarraySum/minimumSizeSubarraySum.cpp), [Python](./algorithms/python/minimumSizeSubarraySum/minimumSizeSubarraySum.py) | Medium |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++](./algorithms/cpp/implementTriePrefixTree/implementTriePrefixTree.cpp), [Python](./algorithms/python/implementTriePrefixTree/implementTriePrefixTree.py) | Medium |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [C++](./algorithms/cpp/courseSchedule/courseSchedule.cpp), [Python](./algorithms/python/courseSchedule/courseSchedule.py) | Medium |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./algorithms/cpp/reverseLinkedList/reverseLinkedList.cpp), [Python](./algorithms/python/reverseLinkedList/reverseLinkedList.py) | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./algorithms/cpp/isomorphicStrings/isomorphicStrings.cpp), [Python](./algorithms/python/isomorphicStrings/isomorphicStrings.py) | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./algorithms/cpp/countPrimes/countPrimes.cpp), [Python](./algorithms/python/countPrimes/countPrimes.py) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./algorithms/cpp/removeLinkedListElements/removeLinkedListElements.cpp), [Python](./algorithms/python/removeLinkedListElements/removeLinkedListElements.py) | Easy |
