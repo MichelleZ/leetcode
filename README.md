@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./algorithms/cpp/kthLargestElementinanArray/kthLargestElementinanArray.cpp), [Python](./algorithms/python/kthLargestElementinanArray/kthLargestElementinanArray.py) | Medium |
+| 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [C++](./algorithms/cpp/shortestPalindrome/shortestPalindrome.cpp), [Python](./algorithms/python/shortestPalindrome/shortestPalindrome.py) | Hard |
+| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [C++](./algorithms/cpp/houseRobberII/houseRobberII.cpp), [Python](./algorithms/python/houseRobberII/houseRobberII.py) | Medium |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [C++](./algorithms/cpp/wordSearchII/wordSearchII.cpp), [Python](./algorithms/python/wordSearchII/wordSearchII.py) | Hard |
+| 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [C++](./algorithms/cpp/designAddandSearchWordsDataStructure/designAddandSearchWordsDataStructure.cpp), [Python](./algorithms/python/designAddandSearchWordsDataStructure/designAddandSearchWordsDataStructure.py) | Medium |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](./algorithms/cpp/courseScheduleII/courseScheduleII.cpp), [Python](./algorithms/python/courseScheduleII/courseScheduleII.py) | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./algorithms/cpp/minimumSizeSubarraySum/minimumSizeSubarraySum.cpp), [Python](./algorithms/python/minimumSizeSubarraySum/minimumSizeSubarraySum.py) | Medium |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++](./algorithms/cpp/implementTriePrefixTree/implementTriePrefixTree.cpp), [Python](./algorithms/python/implementTriePrefixTree/implementTriePrefixTree.py) | Medium |
