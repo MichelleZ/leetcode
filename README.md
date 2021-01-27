@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C++](./algorithms/cpp/implementStackusingQueues/implementStackusingQueues.cpp), [Python](./algorithms/python/implementStackusingQueues/implementStackusingQueues.py) | Medium |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [C++](./algorithms/cpp/basicCalculator/basicCalculator.cpp), [Python](./algorithms/python/basicCalculator/basicCalculator.py) | Hard |
+| 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [C++](./algorithms/cpp/rectangleArea/rectangleArea.cpp), [Python](./algorithms/python/rectangleArea/rectangleArea.py) | Medium |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./algorithms/cpp/countCompleteTreeNodes/countCompleteTreeNodes.cpp), [Python](./algorithms/python/countCompleteTreeNodes/countCompleteTreeNodes.py) | Medium |
+| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [C++](./algorithms/cpp/maximalSquare/maximalSquare.cpp), [Python](./algorithms/python/maximalSquare/maximalSquare.py) | Medium |
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [C++](./algorithms/cpp/containsDuplicateIII/containsDuplicateIII.cpp), [Python](./algorithms/python/containsDuplicateIII/containsDuplicateIII.py) | Medium |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./algorithms/cpp/containsDuplicateII/containsDuplicateII.cpp), [Python](./algorithms/python/containsDuplicateII/containsDuplicateII.py) | Easy |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [C++](./algorithms/cpp/theSkylineProblem/theSkylineProblem.cpp), [Python](./algorithms/python/theSkylineProblem/theSkylineProblem.py) | Hard |
