@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [C++](./algorithms/cpp/containsDuplicateIII/containsDuplicateIII.cpp), [Python](./algorithms/python/containsDuplicateIII/containsDuplicateIII.py) | Medium |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./algorithms/cpp/containsDuplicateII/containsDuplicateII.cpp), [Python](./algorithms/python/containsDuplicateII/containsDuplicateII.py) | Easy |
+| 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [C++](./algorithms/cpp/theSkylineProblem/theSkylineProblem.cpp), [Python](./algorithms/python/theSkylineProblem/theSkylineProblem.py) | Hard |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./algorithms/cpp/containsDuplicate/containsDuplicate.cpp), [Python](./algorithms/python/containsDuplicate/containsDuplicate.py) | Easy |
+| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [C++](./algorithms/cpp/combinationSumIII/combinationSumIII.cpp), [Python](./algorithms/python/combinationSumIII/combinationSumIII.py) | Medium |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./algorithms/cpp/kthLargestElementinanArray/kthLargestElementinanArray.cpp), [Python](./algorithms/python/kthLargestElementinanArray/kthLargestElementinanArray.py) | Medium |
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [C++](./algorithms/cpp/shortestPalindrome/shortestPalindrome.cpp), [Python](./algorithms/python/shortestPalindrome/shortestPalindrome.py) | Hard |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [C++](./algorithms/cpp/houseRobberII/houseRobberII.cpp), [Python](./algorithms/python/houseRobberII/houseRobberII.py) | Medium |
