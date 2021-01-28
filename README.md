@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./algorithms/cpp/kthSmallestElementinaBST/kthSmallestElementinaBST.cpp), [Python](./algorithms/python/kthSmallestElementinaBST/kthSmallestElementinaBST.py) | Medium |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./algorithms/cpp/majorityElementII/majorityElementII.cpp), [Python](./algorithms/python/majorityElementII/majorityElementII.py) | Medium |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./algorithms/cpp/summaryRanges/summaryRanges.cpp), [Python](./algorithms/python/summaryRanges/summaryRanges.py) | Easy |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [C++](./algorithms/cpp/basicCalculatorII/basicCalculatorII.cpp), [Python](./algorithms/python/basicCalculatorII/basicCalculatorII.py) | Medium |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./algorithms/cpp/invertBinaryTree/invertBinaryTree.cpp), [Python](./algorithms/python/invertBinaryTree/invertBinaryTree.py) | Easy |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C++](./algorithms/cpp/implementStackusingQueues/implementStackusingQueues.cpp), [Python](./algorithms/python/implementStackusingQueues/implementStackusingQueues.py) | Medium |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [C++](./algorithms/cpp/basicCalculator/basicCalculator.cpp), [Python](./algorithms/python/basicCalculator/basicCalculator.py) | Hard |
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [C++](./algorithms/cpp/rectangleArea/rectangleArea.cpp), [Python](./algorithms/python/rectangleArea/rectangleArea.py) | Medium |
