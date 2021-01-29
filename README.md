@@ -3,6 +3,15 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./algorithms/cpp/missingNumber/missingNumber.cpp), [Python](./algorithms/python/missingNumber/missingNumber.py) | Easy |
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [C++](./algorithms/cpp/uglyNumberII/uglyNumberII.cpp), [Python](./algorithms/python/uglyNumberII/uglyNumberII.py) | Medium |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [C++](./algorithms/cpp/uglyNumber/uglyNumber.cpp), [Python](./algorithms/python/uglyNumber/uglyNumber.py) | Easy |
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [C++](./algorithms/cpp/singleNumberIII/singleNumberIII.cpp), [Python](./algorithms/python/singleNumberIII/singleNumberIII.py) | Medium |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [C++](./algorithms/cpp/addDigits/addDigits.cpp), [Python](./algorithms/python/addDigits/addDigits.py) | Easy |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [C++](./algorithms/cpp/binaryTreePaths/binaryTreePaths.cpp), [Python](./algorithms/python/binaryTreePaths/binaryTreePaths.py) | Easy |
+| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | [C++](./algorithms/cpp/meetingRoomsII/meetingRoomsII.cpp), [Python](./algorithms/python/meetingRoomsII/meetingRoomsII.py) | Medium |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./algorithms/cpp/validAnagram/validAnagram.cpp), [Python](./algorithms/python/validAnagram/validAnagram.py) | Easy |
+| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [C++](./algorithms/cpp/differentWaystoAddParentheses/differentWaystoAddParentheses.cpp), [Python](./algorithms/python/differentWaystoAddParentheses/differentWaystoAddParentheses.py) | Medium |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./algorithms/cpp/searcha2DMatrixII/searcha2DMatrixII.cpp), [Python](./algorithms/python/searcha2DMatrixII/searcha2DMatrixII.py) | Medium |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./algorithms/cpp/slidingWindowMaximum/slidingWindowMaximum.cpp), [Python](./algorithms/python/slidingWindowMaximum/slidingWindowMaximum.py) | Hard |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](./algorithms/cpp/productofArrayExceptSelf/productofArrayExceptSelf.cpp), [Python](./algorithms/python/productofArrayExceptSelf/productofArrayExceptSelf.py) | Medium |
