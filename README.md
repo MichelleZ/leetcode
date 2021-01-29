@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [C++](./algorithms/cpp/h-IndexII/h-IndexII.cpp), [Python](./algorithms/python/h-IndexII/h-IndexII.py) | Medium |
+| 274 | [H-Index](https://leetcode.com/problems/h-index/) | [C++](./algorithms/cpp/h-Index/h-Index.cpp), [Python](./algorithms/python/h-Index/h-Index.py) | Medium |
+| 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [C++](./algorithms/cpp/integertoEnglishWords/integertoEnglishWords.cpp), [Python](./algorithms/python/integertoEnglishWords/integertoEnglishWords.py) | Hard |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./algorithms/cpp/missingNumber/missingNumber.cpp), [Python](./algorithms/python/missingNumber/missingNumber.py) | Easy |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [C++](./algorithms/cpp/uglyNumberII/uglyNumberII.cpp), [Python](./algorithms/python/uglyNumberII/uglyNumberII.py) | Medium |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [C++](./algorithms/cpp/uglyNumber/uglyNumber.cpp), [Python](./algorithms/python/uglyNumber/uglyNumber.py) | Easy |
