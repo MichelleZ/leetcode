@@ -3,6 +3,8 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./algorithms/cpp/perfectSquares/perfectSquares.cpp), [Python](./algorithms/python/perfectSquares/perfectSquares.py) | Medium |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [C++](./algorithms/cpp/firstBadVersion/firstBadVersion.cpp), [Python](./algorithms/python/firstBadVersion/firstBadVersion.py) | Easy |
 | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [C++](./algorithms/cpp/h-IndexII/h-IndexII.cpp), [Python](./algorithms/python/h-IndexII/h-IndexII.py) | Medium |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [C++](./algorithms/cpp/h-Index/h-Index.cpp), [Python](./algorithms/python/h-Index/h-Index.py) | Medium |
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [C++](./algorithms/cpp/integertoEnglishWords/integertoEnglishWords.cpp), [Python](./algorithms/python/integertoEnglishWords/integertoEnglishWords.py) | Hard |
