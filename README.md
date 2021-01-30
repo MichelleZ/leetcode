@@ -3,6 +3,12 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./algorithms/cpp/wordPattern/wordPattern.cpp), [Python](./algorithms/python/wordPattern/wordPattern.py) | Easy |
+| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./algorithms/cpp/gameofLife/gameofLife.cpp), [Python](./algorithms/python/gameofLife/gameofLife.py) | Medium |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./algorithms/cpp/findtheDuplicateNumber/findtheDuplicateNumber.cpp), [Python](./algorithms/python/findtheDuplicateNumber/findtheDuplicateNumber.py) | Medium |
+| 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [C++](./algorithms/cpp/peekingIterator/peekingIterator.cpp), [Python](./algorithms/python/peekingIterator/peekingIterator.py) | Medium |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/cpp/moveZeroes/moveZeroes.cpp), [Python](./algorithms/python/moveZeroes/moveZeroes.py) | Easy |
+| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [C++](./algorithms/cpp/expressionAddOperators/expressionAddOperators.cpp), [Python](./algorithms/python/expressionAddOperators/expressionAddOperators.py) | Hard |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./algorithms/cpp/perfectSquares/perfectSquares.cpp), [Python](./algorithms/python/perfectSquares/perfectSquares.py) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [C++](./algorithms/cpp/firstBadVersion/firstBadVersion.cpp), [Python](./algorithms/python/firstBadVersion/firstBadVersion.py) | Easy |
 | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [C++](./algorithms/cpp/h-IndexII/h-IndexII.cpp), [Python](./algorithms/python/h-IndexII/h-IndexII.py) | Medium |
