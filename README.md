@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](./algorithms/cpp/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp), [Python](./algorithms/python/longestIncreasingSubsequence/longestIncreasingSubsequence.py) | Medium |
+| 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/cpp/bullsandCows/bullsandCows.cpp), [Python](./algorithms/python/bullsandCows/bullsandCows.py) | Medium |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [C++](./algorithms/cpp/serializeandDeserializeBinaryTree/serializeandDeserializeBinaryTree.cpp), [Python](./algorithms/python/serializeandDeserializeBinaryTree/serializeandDeserializeBinaryTree.py) | Hard |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./algorithms/cpp/findMedianfromDataStream/findMedianfromDataStream.cpp), [Python](./algorithms/python/findMedianfromDataStream/findMedianfromDataStream.py) | Hard |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [C++](./algorithms/cpp/nimGame/nimGame.cpp), [Python](./algorithms/python/nimGame/nimGame.py) | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./algorithms/cpp/wordPattern/wordPattern.cpp), [Python](./algorithms/python/wordPattern/wordPattern.py) | Easy |
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./algorithms/cpp/gameofLife/gameofLife.cpp), [Python](./algorithms/python/gameofLife/gameofLife.py) | Medium |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./algorithms/cpp/findtheDuplicateNumber/findtheDuplicateNumber.cpp), [Python](./algorithms/python/findtheDuplicateNumber/findtheDuplicateNumber.py) | Medium |
