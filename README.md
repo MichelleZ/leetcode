@@ -3,6 +3,12 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](./algorithms/cpp/bulbSwitcher/bulbSwitcher.cpp), [Python](./algorithms/python/bulbSwitcher/bulbSwitcher.py) | Medium |
+| 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [C++](./algorithms/cpp/maximumProductofWordLengths/maximumProductofWordLengths.cpp), [Python](./algorithms/python/maximumProductofWordLengths/maximumProductofWordLengths.py) | Medium |
+| 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [C++](./algorithms/cpp/removeDuplicateLetters/removeDuplicateLetters.cpp), [Python](./algorithms/python/removeDuplicateLetters/removeDuplicateLetters.py) | Medium |
+| 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++](./algorithms/cpp/countofSmallerNumbersAfterSelf/countofSmallerNumbersAfterSelf.cpp), [Python](./algorithms/python/countofSmallerNumbersAfterSelf/countofSmallerNumbersAfterSelf.py) | Hard |
+| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [C++](./algorithms/cpp/superUglyNumber/superUglyNumber.cpp), [Python](./algorithms/python/superUglyNumber/superUglyNumber.py) | Medium |
+| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](./algorithms/cpp/burstBalloons/burstBalloons.cpp), [Python](./algorithms/python/burstBalloons/burstBalloons.py) | Hard |
 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [C++](./algorithms/cpp/minimumHeightTrees/minimumHeightTrees.cpp), [Python](./algorithms/python/minimumHeightTrees/minimumHeightTrees.py) | Medium |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./algorithms/cpp/bestTimetoBuyandSellStockwithCooldown/bestTimetoBuyandSellStockwithCooldown.cpp), [Python](./algorithms/python/bestTimetoBuyandSellStockwithCooldown/bestTimetoBuyandSellStockwithCooldown.py) | Medium |
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./algorithms/cpp/rangeSumQuery-Mutable/rangeSumQuery-Mutable.cpp), [Python](./algorithms/python/rangeSumQuery-Mutable/rangeSumQuery-Mutable.py) | Medium |
