@@ -3,6 +3,14 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [C++](./algorithms/cpp/patchingArray/patchingArray.cpp), [Python](./algorithms/python/patchingArray/patchingArray.py) | Hard |
+| 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathinaMatrix/longestIncreasingPathinaMatrix.cpp), [Python](./algorithms/python/longestIncreasingPathinaMatrix/longestIncreasingPathinaMatrix.py) | Hard |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./algorithms/cpp/oddEvenLinkedList/oddEvenLinkedList.cpp), [Python](./algorithms/python/oddEvenLinkedList/oddEvenLinkedList.py) | Medium |
+| 327 | [$\color{#ea4334}{Count of Range Sum}](https://leetcode.com/problems/count-of-range-sum/) | [C++](./algorithms/cpp/countofRangeSum/countofRangeSum.cpp), [Python](./algorithms/python/countofRangeSum/countofRangeSum.py) | Hard |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [C++](./algorithms/cpp/powerofThree/powerofThree.cpp), [Python](./algorithms/python/powerofThree/powerofThree.py) | Easy |
+| 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [C++](./algorithms/cpp/wiggleSortII/wiggleSortII.cpp), [Python](./algorithms/python/wiggleSortII/wiggleSortII.py) | Medium |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./algorithms/cpp/coinChange/coinChange.cpp), [Python](./algorithms/python/coinChange/coinChange.py) | Medium |
+| 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | [C++](./algorithms/cpp/createMaximumNumber/createMaximumNumber.cpp), [Python](./algorithms/python/createMaximumNumber/createMaximumNumber.py) | Hard |
 | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [C++](./algorithms/cpp/bulbSwitcher/bulbSwitcher.cpp), [Python](./algorithms/python/bulbSwitcher/bulbSwitcher.py) | Medium |
 | 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [C++](./algorithms/cpp/maximumProductofWordLengths/maximumProductofWordLengths.cpp), [Python](./algorithms/python/maximumProductofWordLengths/maximumProductofWordLengths.py) | Medium |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [C++](./algorithms/cpp/removeDuplicateLetters/removeDuplicateLetters.cpp), [Python](./algorithms/python/removeDuplicateLetters/removeDuplicateLetters.py) | Medium |
