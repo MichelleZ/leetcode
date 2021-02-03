@@ -3,6 +3,14 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/intersectionofTwoArraysII/intersectionofTwoArraysII.cpp), [Python](./algorithms/python/intersectionofTwoArraysII/intersectionofTwoArraysII.py) | Easy |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./algorithms/cpp/intersectionofTwoArrays/intersectionofTwoArrays.cpp), [Python](./algorithms/python/intersectionofTwoArrays/intersectionofTwoArrays.py) | Easy |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./algorithms/cpp/topKFrequentElements/topKFrequentElements.cpp), [Python](./algorithms/python/topKFrequentElements/topKFrequentElements.py) | Medium |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./algorithms/cpp/reverseVowelsofaString/reverseVowelsofaString.cpp), [Python](./algorithms/python/reverseVowelsofaString/reverseVowelsofaString.py) | Easy |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./algorithms/cpp/reverseString/reverseString.cpp), [Python](./algorithms/python/reverseString/reverseString.py) | Easy |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [C++](./algorithms/cpp/integerBreak/integerBreak.cpp), [Python](./algorithms/python/integerBreak/integerBreak.py) | Medium |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [C++](./algorithms/cpp/powerofFour/powerofFour.cpp), [Python](./algorithms/python/powerofFour/powerofFour.py) | Easy |
+| 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [C++](./algorithms/cpp/flattenNestedListIterator/flattenNestedListIterator.cpp), [Python](./algorithms/python/flattenNestedListIterator/flattenNestedListIterator.py) | Medium |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](./algorithms/cpp/countingBits/countingBits.cpp), [Python](./algorithms/python/countingBits/countingBits.py) | Medium |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [C++](./algorithms/cpp/houseRobberIII/houseRobberIII.cpp), [Python](./algorithms/python/houseRobberIII/houseRobberIII.py) | Medium |
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [C++](./algorithms/cpp/palindromePairs/palindromePairs.cpp), [Python](./algorithms/python/palindromePairs/palindromePairs.py) | Hard |
