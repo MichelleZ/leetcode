@@ -3,6 +3,13 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](./algorithms/cpp/countingBits/countingBits.cpp), [Python](./algorithms/python/countingBits/countingBits.py) | Medium |
+| 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [C++](./algorithms/cpp/houseRobberIII/houseRobberIII.cpp), [Python](./algorithms/python/houseRobberIII/houseRobberIII.py) | Medium |
+| 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [C++](./algorithms/cpp/palindromePairs/palindromePairs.cpp), [Python](./algorithms/python/palindromePairs/palindromePairs.py) | Hard |
+| 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | [C++](./algorithms/cpp/selfCrossing/selfCrossing.cpp), [Python](./algorithms/python/selfCrossing/selfCrossing.py) | Hard |
+| 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](./algorithms/cpp/increasingTripletSubsequence/increasingTripletSubsequence.cpp), [Python](./algorithms/python/increasingTripletSubsequence/increasingTripletSubsequence.py) | Medium |
+| 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [C++](./algorithms/cpp/reconstructItinerary/reconstructItinerary.cpp), [Python](./algorithms/python/reconstructItinerary/reconstructItinerary.py) | Medium |
+| 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [C++](./algorithms/cpp/verifyPreorderSerializationofaBinaryTree/verifyPreorderSerializationofaBinaryTree.cpp), [Python](./algorithms/python/verifyPreorderSerializationofaBinaryTree/verifyPreorderSerializationofaBinaryTree.py) | Medium |
 | 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [C++](./algorithms/cpp/patchingArray/patchingArray.cpp), [Python](./algorithms/python/patchingArray/patchingArray.py) | Hard |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./algorithms/cpp/longestIncreasingPathinaMatrix/longestIncreasingPathinaMatrix.cpp), [Python](./algorithms/python/longestIncreasingPathinaMatrix/longestIncreasingPathinaMatrix.py) | Hard |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./algorithms/cpp/oddEvenLinkedList/oddEvenLinkedList.cpp), [Python](./algorithms/python/oddEvenLinkedList/oddEvenLinkedList.py) | Medium |
