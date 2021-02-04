@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [C++](./algorithms/cpp/largestDivisibleSubset/largestDivisibleSubset.cpp), [Python](./algorithms/python/largestDivisibleSubset/largestDivisibleSubset.py) | Medium |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./algorithms/cpp/validPerfectSquare/validPerfectSquare.cpp), [Python](./algorithms/python/validPerfectSquare/validPerfectSquare.py) | Easy |
+| 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [C++](./algorithms/cpp/waterandJugProblem/waterandJugProblem.cpp), [Python](./algorithms/python/waterandJugProblem/waterandJugProblem.py) | Medium |
+| 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [C++](./algorithms/cpp/maxSumofRectangleNoLargerThanK/maxSumofRectangleNoLargerThanK.cpp), [Python](./algorithms/python/maxSumofRectangleNoLargerThanK/maxSumofRectangleNoLargerThanK.py) | Hard |
 | 357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./algorithms/cpp/countNumberswithUniqueDigits/countNumberswithUniqueDigits.cpp), [Python](./algorithms/python/countNumberswithUniqueDigits/countNumberswithUniqueDigits.py) | Medium |
 | 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [C++](./algorithms/cpp/designTwitter/designTwitter.cpp), [Python](./algorithms/python/designTwitter/designTwitter.py) | Medium |
 | 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [C++](./algorithms/cpp/russianDollEnvelopes/russianDollEnvelopes.cpp), [Python](./algorithms/python/russianDollEnvelopes/russianDollEnvelopes.py) | Hard |
