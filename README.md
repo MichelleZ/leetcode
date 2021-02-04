@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./algorithms/cpp/countNumberswithUniqueDigits/countNumberswithUniqueDigits.cpp), [Python](./algorithms/python/countNumberswithUniqueDigits/countNumberswithUniqueDigits.py) | Medium |
+| 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [C++](./algorithms/cpp/designTwitter/designTwitter.cpp), [Python](./algorithms/python/designTwitter/designTwitter.py) | Medium |
+| 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [C++](./algorithms/cpp/russianDollEnvelopes/russianDollEnvelopes.cpp), [Python](./algorithms/python/russianDollEnvelopes/russianDollEnvelopes.py) | Hard |
+| 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [C++](./algorithms/cpp/dataStreamasDisjointIntervals/dataStreamasDisjointIntervals.cpp), [Python](./algorithms/python/dataStreamasDisjointIntervals/dataStreamasDisjointIntervals.py) | Hard |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/intersectionofTwoArraysII/intersectionofTwoArraysII.cpp), [Python](./algorithms/python/intersectionofTwoArraysII/intersectionofTwoArraysII.py) | Easy |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./algorithms/cpp/intersectionofTwoArrays/intersectionofTwoArrays.cpp), [Python](./algorithms/python/intersectionofTwoArrays/intersectionofTwoArrays.py) | Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./algorithms/cpp/topKFrequentElements/topKFrequentElements.cpp), [Python](./algorithms/python/topKFrequentElements/topKFrequentElements.py) | Medium |
