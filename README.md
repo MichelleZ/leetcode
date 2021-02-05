@@ -3,6 +3,15 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/cpp/insertDeleteGetRandomO1/insertDeleteGetRandomO1.cpp), [Python](./algorithms/python/insertDeleteGetRandomO1/insertDeleteGetRandomO1.py) | Medium |
+| 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [C++](./algorithms/cpp/kthSmallestElementinaSortedMatrix/kthSmallestElementinaSortedMatrix.cpp), [Python](./algorithms/python/kthSmallestElementinaSortedMatrix/kthSmallestElementinaSortedMatrix.py) | Medium |
+| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./algorithms/cpp/combinationSumIV/combinationSumIV.cpp), [Python](./algorithms/python/combinationSumIV/combinationSumIV.py) | Medium |
+| 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](./algorithms/cpp/wiggleSubsequence/wiggleSubsequence.cpp), [Python](./algorithms/python/wiggleSubsequence/wiggleSubsequence.py) | Medium |
+| 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [C++](./algorithms/cpp/guessNumberHigherorLowerII/guessNumberHigherorLowerII.cpp), [Python](./algorithms/python/guessNumberHigherorLowerII/guessNumberHigherorLowerII.py) | Medium |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++](./algorithms/cpp/guessNumberHigherorLower/guessNumberHigherorLower.cpp), [Python](./algorithms/python/guessNumberHigherorLower/guessNumberHigherorLower.py) | Easy |
+| 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [C++](./algorithms/cpp/findKPairswithSmallestSums/findKPairswithSmallestSums.cpp), [Python](./algorithms/python/findKPairswithSmallestSums/findKPairswithSmallestSums.py) | Medium |
+| 372 | [Super Pow](https://leetcode.com/problems/super-pow/) | [C++](./algorithms/cpp/superPow/superPow.cpp), [Python](./algorithms/python/superPow/superPow.py) | Medium |
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./algorithms/cpp/sumofTwoIntegers/sumofTwoIntegers.cpp), [Python](./algorithms/python/sumofTwoIntegers/sumofTwoIntegers.py) | Medium |
 | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [C++](./algorithms/cpp/largestDivisibleSubset/largestDivisibleSubset.cpp), [Python](./algorithms/python/largestDivisibleSubset/largestDivisibleSubset.py) | Medium |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./algorithms/cpp/validPerfectSquare/validPerfectSquare.cpp), [Python](./algorithms/python/validPerfectSquare/validPerfectSquare.py) | Easy |
 | 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [C++](./algorithms/cpp/waterandJugProblem/waterandJugProblem.cpp), [Python](./algorithms/python/waterandJugProblem/waterandJugProblem.py) | Medium |
