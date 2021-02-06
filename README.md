@@ -3,6 +3,15 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./algorithms/cpp/findtheDifference/findtheDifference.cpp), [Python](./algorithms/python/findtheDifference/findtheDifference.py) | Easy |
+| 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [C++](./algorithms/cpp/longestAbsoluteFilePath/longestAbsoluteFilePath.cpp), [Python](./algorithms/python/longestAbsoluteFilePath/longestAbsoluteFilePath.py) | Medium |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./algorithms/cpp/firstUniqueCharacterinaString/firstUniqueCharacterinaString.cpp), [Python](./algorithms/python/firstUniqueCharacterinaString/firstUniqueCharacterinaString.py) | Easy |
+| 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [C++](./algorithms/cpp/lexicographicalNumbers/lexicographicalNumbers.cpp), [Python](./algorithms/python/lexicographicalNumbers/lexicographicalNumbers.py) | Medium |
+| 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/) | [C++](./algorithms/cpp/miniParser/miniParser.cpp), [Python](./algorithms/python/miniParser/miniParser.py) | Medium |
+| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./algorithms/cpp/shuffleanArray/shuffleanArray.cpp), [Python](./algorithms/python/shuffleanArray/shuffleanArray.py) | Medium |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./algorithms/cpp/ransomNote/ransomNote.cpp), [Python](./algorithms/python/ransomNote/ransomNote.py) | Easy |
+| 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [C++](./algorithms/cpp/linkedListRandomNode/linkedListRandomNode.cpp), [Python](./algorithms/python/linkedListRandomNode/linkedListRandomNode.py) | Medium |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [C++](./algorithms/cpp/insertDeleteGetRandomO1-Duplicatesallowed/insertDeleteGetRandomO1-Duplicatesallowed.cpp), [Python](./algorithms/python/insertDeleteGetRandomO1-Duplicatesallowed/insertDeleteGetRandomO1-Duplicatesallowed.py) | Hard |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/cpp/insertDeleteGetRandomO1/insertDeleteGetRandomO1.cpp), [Python](./algorithms/python/insertDeleteGetRandomO1/insertDeleteGetRandomO1.py) | Medium |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [C++](./algorithms/cpp/kthSmallestElementinaSortedMatrix/kthSmallestElementinaSortedMatrix.cpp), [Python](./algorithms/python/kthSmallestElementinaSortedMatrix/kthSmallestElementinaSortedMatrix.py) | Medium |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./algorithms/cpp/combinationSumIV/combinationSumIV.cpp), [Python](./algorithms/python/combinationSumIV/combinationSumIV.py) | Medium |
