@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [C++](./algorithms/cpp/nthDigit/nthDigit.cpp), [Python](./algorithms/python/nthDigit/nthDigit.py) | Medium |
+| 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [C++](./algorithms/cpp/evaluateDivision/evaluateDivision.cpp), [Python](./algorithms/python/evaluateDivision/evaluateDivision.py) | Medium |
+| 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [C++](./algorithms/cpp/randomPickIndex/randomPickIndex.cpp), [Python](./algorithms/python/randomPickIndex/randomPickIndex.py) | Medium |
+| 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [C++](./algorithms/cpp/integerReplacement/integerReplacement.cpp), [Python](./algorithms/python/integerReplacement/integerReplacement.py) | Medium |
+| 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [C++](./algorithms/cpp/rotateFunction/rotateFunction.cpp), [Python](./algorithms/python/rotateFunction/rotateFunction.py) | Medium |
 | 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [C++](./algorithms/cpp/longestSubstringwithAtLeastKRepeatingCharacters/longestSubstringwithAtLeastKRepeatingCharacters.cpp), [Python](./algorithms/python/longestSubstringwithAtLeastKRepeatingCharacters/longestSubstringwithAtLeastKRepeatingCharacters.py) | Medium |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [C++](./algorithms/cpp/decodeString/decodeString.cpp), [Python](./algorithms/python/decodeString/decodeString.py) | Medium |
 | 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [C++](./algorithms/cpp/uTF-8Validation/uTF-8Validation.cpp), [Python](./algorithms/python/uTF-8Validation/uTF-8Validation.py) | Medium |
