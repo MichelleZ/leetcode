@@ -3,6 +3,12 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [C++](./algorithms/cpp/longestSubstringwithAtLeastKRepeatingCharacters/longestSubstringwithAtLeastKRepeatingCharacters.cpp), [Python](./algorithms/python/longestSubstringwithAtLeastKRepeatingCharacters/longestSubstringwithAtLeastKRepeatingCharacters.py) | Medium |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [C++](./algorithms/cpp/decodeString/decodeString.cpp), [Python](./algorithms/python/decodeString/decodeString.py) | Medium |
+| 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [C++](./algorithms/cpp/uTF-8Validation/uTF-8Validation.cpp), [Python](./algorithms/python/uTF-8Validation/uTF-8Validation.py) | Medium |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](./algorithms/cpp/isSubsequence/isSubsequence.cpp), [Python](./algorithms/python/isSubsequence/isSubsequence.py) | Easy |
+| 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [C++](./algorithms/cpp/perfectRectangle/perfectRectangle.cpp), [Python](./algorithms/python/perfectRectangle/perfectRectangle.py) | Hard |
+| 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/) | [C++](./algorithms/cpp/eliminationGame/eliminationGame.cpp), [Python](./algorithms/python/eliminationGame/eliminationGame.py) | Medium |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./algorithms/cpp/findtheDifference/findtheDifference.cpp), [Python](./algorithms/python/findtheDifference/findtheDifference.py) | Easy |
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [C++](./algorithms/cpp/longestAbsoluteFilePath/longestAbsoluteFilePath.cpp), [Python](./algorithms/python/longestAbsoluteFilePath/longestAbsoluteFilePath.py) | Medium |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./algorithms/cpp/firstUniqueCharacterinaString/firstUniqueCharacterinaString.cpp), [Python](./algorithms/python/firstUniqueCharacterinaString/firstUniqueCharacterinaString.py) | Easy |
