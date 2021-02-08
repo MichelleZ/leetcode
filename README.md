@@ -3,6 +3,15 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [C++](./algorithms/cpp/splitArrayLargestSum/splitArrayLargestSum.cpp), [Python](./algorithms/python/splitArrayLargestSum/splitArrayLargestSum.py) | Hard |
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./algorithms/cpp/longestPalindrome/longestPalindrome.cpp), [Python](./algorithms/python/longestPalindrome/longestPalindrome.py) | Easy |
+| 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [C++](./algorithms/cpp/trappingRainWaterII/trappingRainWaterII.cpp), [Python](./algorithms/python/trappingRainWaterII/trappingRainWaterII.py) | Hard |
+| 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./algorithms/cpp/queueReconstructionbyHeight/queueReconstructionbyHeight.cpp), [Python](./algorithms/python/queueReconstructionbyHeight/queueReconstructionbyHeight.py) | Medium |
+| 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [C++](./algorithms/cpp/convertaNumbertoHexadecimal/convertaNumbertoHexadecimal.cpp), [Python](./algorithms/python/convertaNumbertoHexadecimal/convertaNumbertoHexadecimal.py) | Easy |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](./algorithms/cpp/sumofLeftLeaves/sumofLeftLeaves.cpp), [Python](./algorithms/python/sumofLeftLeaves/sumofLeftLeaves.py) | Easy |
+| 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [C++](./algorithms/cpp/frogJump/frogJump.cpp), [Python](./algorithms/python/frogJump/frogJump.py) | Hard |
+| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [C++](./algorithms/cpp/removeKDigits/removeKDigits.cpp), [Python](./algorithms/python/removeKDigits/removeKDigits.py) | Medium |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [C++](./algorithms/cpp/binaryWatch/binaryWatch.cpp), [Python](./algorithms/python/binaryWatch/binaryWatch.py) | Easy |
 | 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [C++](./algorithms/cpp/nthDigit/nthDigit.cpp), [Python](./algorithms/python/nthDigit/nthDigit.py) | Medium |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [C++](./algorithms/cpp/evaluateDivision/evaluateDivision.cpp), [Python](./algorithms/python/evaluateDivision/evaluateDivision.py) | Medium |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [C++](./algorithms/cpp/randomPickIndex/randomPickIndex.cpp), [Python](./algorithms/python/randomPickIndex/randomPickIndex.py) | Medium |
