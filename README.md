@@ -3,6 +3,14 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 420 | [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | [C++](./algorithms/cpp/strongPasswordChecker/strongPasswordChecker.cpp), [Python](./algorithms/python/strongPasswordChecker/strongPasswordChecker.py) | Hard |
+| 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [C++](./algorithms/cpp/battleshipsinaBoard/battleshipsinaBoard.cpp), [Python](./algorithms/python/battleshipsinaBoard/battleshipsinaBoard.py) | Medium |
+| 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [C++](./algorithms/cpp/pacificAtlanticWaterFlow/pacificAtlanticWaterFlow.cpp), [Python](./algorithms/python/pacificAtlanticWaterFlow/pacificAtlanticWaterFlow.py) | Medium |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./algorithms/cpp/partitionEqualSubsetSum/partitionEqualSubsetSum.cpp), [Python](./algorithms/python/partitionEqualSubsetSum/partitionEqualSubsetSum.py) | Medium |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/addStrings/addStrings.cpp), [Python](./algorithms/python/addStrings/addStrings.py) | Easy |
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./algorithms/cpp/thirdMaximumNumber/thirdMaximumNumber.cpp), [Python](./algorithms/python/thirdMaximumNumber/thirdMaximumNumber.py) | Easy |
+| 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./algorithms/cpp/arithmeticSlices/arithmeticSlices.cpp), [Python](./algorithms/python/arithmeticSlices/arithmeticSlices.py) | Medium |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./algorithms/cpp/fizzBuzz/fizzBuzz.cpp), [Python](./algorithms/python/fizzBuzz/fizzBuzz.py) | Easy |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [C++](./algorithms/cpp/splitArrayLargestSum/splitArrayLargestSum.cpp), [Python](./algorithms/python/splitArrayLargestSum/splitArrayLargestSum.py) | Hard |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./algorithms/cpp/longestPalindrome/longestPalindrome.cpp), [Python](./algorithms/python/longestPalindrome/longestPalindrome.py) | Easy |
 | 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [C++](./algorithms/cpp/trappingRainWaterII/trappingRainWaterII.cpp), [Python](./algorithms/python/trappingRainWaterII/trappingRainWaterII.py) | Hard |
