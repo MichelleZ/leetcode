@@ -3,6 +3,16 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [C++](./algorithms/cpp/poorPigs/lFUCache/lFUCache.cpp), [Python](./algorithms/python/lFUCache/lFUCache.py) | Hard |
+| 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [C++](./algorithms/cpp/repeatedSubstringPattern/repeatedSubstringPattern.cpp), [Python](./algorithms/python/repeatedSubstringPattern/repeatedSubstringPattern.py) | Easy |
+| 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [C++](./algorithms/cpp/poorPigs/poorPigs.cpp), [Python](./algorithms/python/poorPigs/poorPigs.py) | Hard |
+| 457 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | [C++](./algorithms/cpp/circularArrayLoop/circularArrayLoop.cpp), [Python](./algorithms/python/circularArrayLoop/circularArrayLoop.py) | Medium |
+| 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | [C++](./algorithms/cpp/132Pattern/132Pattern.cpp), [Python](./algorithms/python/132Pattern/132Pattern.py) | Medium |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](./algorithms/cpp/assignCookies/assignCookies.cpp), [Python](./algorithms/python/assignCookies/assignCookies.py) | Easy |
+| 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./algorithms/cpp/4SumII/4SumII.cpp), [Python](./algorithms/python/4SumII/4SumII.py) | Medium |
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [C++](./algorithms/cpp/minimumMovestoEqualArrayElements/minimumMovestoEqualArrayElements.cpp), [Python](./algorithms/python/minimumMovestoEqualArrayElements/minimumMovestoEqualArrayElements.py) | Easy |
+| 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [C++](./algorithms/cpp/minimumNumberofArrowstoBurstBalloons/minimumNumberofArrowstoBurstBalloons.cpp), [Python](./algorithms/python/minimumNumberofArrowstoBurstBalloons/minimumNumberofArrowstoBurstBalloons.py) | Medium |
+| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./algorithms/cpp/sortCharactersByFrequency/sortCharactersByFrequency.cpp), [Python](./algorithms/python/sortCharactersByFrequency/sortCharactersByFrequency.py) | Medium |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./algorithms/cpp/deleteNodeinaBST/deleteNodeinaBST.cpp), [Python](./algorithms/python/deleteNodeinaBST/deleteNodeinaBST.py) | Medium |
 | 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [C++](./algorithms/cpp/serializeandDeserializeBST/serializeandDeserializeBST.cpp), [Python](./algorithms/python/serializeandDeserializeBST/serializeandDeserializeBST.py) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./algorithms/cpp/findAllNumbersDisappearedinanArray/findAllNumbersDisappearedinanArray.cpp), [Python](./algorithms/python/findAllNumbersDisappearedinanArray/findAllNumbersDisappearedinanArray.py) | Easy |
