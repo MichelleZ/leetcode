@@ -3,7 +3,15 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
-| 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [C++](./algorithms/cpp/poorPigs/lFUCache/lFUCache.cpp), [Python](./algorithms/python/lFUCache/lFUCache.py) | Hard |
+| 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [C++](./algorithms/cpp/implementRand10UsingRand7/implementRand10UsingRand7.cpp), [Python](./algorithms/python/implementRand10UsingRand7/implementRand10UsingRand7.py) | Medium |
+| 468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [C++](./algorithms/cpp/validateIPAddress/validateIPAddress.cpp), [Python](./algorithms/python/validateIPAddress/validateIPAddress.py) | Medium |
+| 467 | [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [C++](./algorithms/cpp/uniqueSubstringsinWraparoundString/uniqueSubstringsinWraparoundString.cpp), [Python](./algorithms/python/uniqueSubstringsinWraparoundString/uniqueSubstringsinWraparoundString.py) | Medium |
+| 466 | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/) | [C++](./algorithms/cpp/countTheRepetitions/countTheRepetitions.cpp), [Python](./algorithms/python/countTheRepetitions/countTheRepetitions.py) | Hard |
+| 464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | [C++](./algorithms/cpp/canIWin/canIWin.cpp), [Python](./algorithms/python/canIWin/canIWin.py) | Medium |
+| 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./algorithms/cpp/islandPerimeter/islandPerimeter.cpp), [Python](./algorithms/python/islandPerimeter/islandPerimeter.py) | Easy |
+| 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [C++](./algorithms/cpp/minimumMovestoEqualArrayElementsII/minimumMovestoEqualArrayElementsII.cpp), [Python](./algorithms/python/minimumMovestoEqualArrayElementsII/minimumMovestoEqualArrayElementsII.py) | Medium |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./algorithms/cpp/hammingDistance/hammingDistance.cpp), [Python](./algorithms/python/hammingDistance/hammingDistance.py) | Easy |
+| 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [C++](./algorithms/cpp/lFUCache/lFUCache.cpp), [Python](./algorithms/python/lFUCache/lFUCache.py) | Hard |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [C++](./algorithms/cpp/repeatedSubstringPattern/repeatedSubstringPattern.cpp), [Python](./algorithms/python/repeatedSubstringPattern/repeatedSubstringPattern.py) | Easy |
 | 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [C++](./algorithms/cpp/poorPigs/poorPigs.cpp), [Python](./algorithms/python/poorPigs/poorPigs.py) | Hard |
 | 457 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | [C++](./algorithms/cpp/circularArrayLoop/circularArrayLoop.cpp), [Python](./algorithms/python/circularArrayLoop/circularArrayLoop.py) | Medium |
