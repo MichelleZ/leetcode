@@ -3,6 +3,15 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [C++](./algorithms/cpp/slidingWindowMedian/slidingWindowMedian.cpp), [Python](./algorithms/python/slidingWindowMedian/slidingWindowMedian.py) | Hard |
+| 479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [C++](./algorithms/cpp/largestPalindromeProduct/largestPalindromeProduct.cpp), [Python](./algorithms/python/largestPalindromeProduct/largestPalindromeProduct.py) | Hard |
+| 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [C++](./algorithms/cpp/generateRandomPointinaCircle/generateRandomPointinaCircle.cpp), [Python](./algorithms/python/generateRandomPointinaCircle/generateRandomPointinaCircle.py) | Medium |
+| 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./algorithms/cpp/totalHammingDistance/totalHammingDistance.cpp), [Python](./algorithms/python/totalHammingDistance/totalHammingDistance.py) | Medium |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./algorithms/cpp/numberComplement/numberComplement.cpp), [Python](./algorithms/python/numberComplement/numberComplement.py) | Easy |
+| 475 | [Heaters](https://leetcode.com/problems/heaters/) | [C++](./algorithms/cpp/heaters/heaters.cpp), [Python](./algorithms/python/heaters/heaters.py) | Medium |
+| 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [C++](./algorithms/cpp/onesandZeroes/onesandZeroes.cpp), [Python](./algorithms/python/onesandZeroes/onesandZeroes.py) | Medium |
+| 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [C++](./algorithms/cpp/matchstickstoSquare/matchstickstoSquare.cpp), [Python](./algorithms/python/matchstickstoSquare/matchstickstoSquare.py) | Medium |
+| 472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [C++](./algorithms/cpp/concatenatedWords/concatenatedWords.cpp), [Python](./algorithms/python/concatenatedWords/concatenatedWords.py) | Hard |
 | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [C++](./algorithms/cpp/implementRand10UsingRand7/implementRand10UsingRand7.cpp), [Python](./algorithms/python/implementRand10UsingRand7/implementRand10UsingRand7.py) | Medium |
 | 468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [C++](./algorithms/cpp/validateIPAddress/validateIPAddress.cpp), [Python](./algorithms/python/validateIPAddress/validateIPAddress.py) | Medium |
 | 467 | [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [C++](./algorithms/cpp/uniqueSubstringsinWraparoundString/uniqueSubstringsinWraparoundString.cpp), [Python](./algorithms/python/uniqueSubstringsinWraparoundString/uniqueSubstringsinWraparoundString.py) | Medium |
