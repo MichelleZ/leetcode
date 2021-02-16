@@ -3,6 +3,12 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [C++](./algorithms/cpp/zumaGame/zumaGame.cpp), [Python](./algorithms/python/zumaGame/zumaGame.py) | Hard |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [C++](./algorithms/cpp/predicttheWinner/predicttheWinner.cpp), [Python](./algorithms/python/predicttheWinner/predicttheWinner.py) | Medium |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [C++](./algorithms/cpp/maxConsecutiveOnes/maxConsecutiveOnes.cpp), [Python](./algorithms/python/maxConsecutiveOnes/maxConsecutiveOnes.py) | Easy |
+| 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [C++](./algorithms/cpp/smallestGoodBase/smallestGoodBase.cpp), [Python](./algorithms/python/smallestGoodBase/smallestGoodBase.py) | Hard |
+| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [C++](./algorithms/cpp/licenseKeyFormatting/licenseKeyFormatting.cpp), [Python](./algorithms/python/licenseKeyFormatting/licenseKeyFormatting.py) | Easy |
+| 481 | [Magical String](https://leetcode.com/problems/magical-string/) | [C++](./algorithms/cpp/magicalString/magicalString.cpp), [Python](./algorithms/python/magicalString/magicalString.py) | Medium |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [C++](./algorithms/cpp/slidingWindowMedian/slidingWindowMedian.cpp), [Python](./algorithms/python/slidingWindowMedian/slidingWindowMedian.py) | Hard |
 | 479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [C++](./algorithms/cpp/largestPalindromeProduct/largestPalindromeProduct.cpp), [Python](./algorithms/python/largestPalindromeProduct/largestPalindromeProduct.py) | Hard |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [C++](./algorithms/cpp/generateRandomPointinaCircle/generateRandomPointinaCircle.cpp), [Python](./algorithms/python/generateRandomPointinaCircle/generateRandomPointinaCircle.py) | Medium |
