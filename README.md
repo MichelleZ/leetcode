@@ -3,6 +3,15 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [C++](./algorithms/cpp/keyboardRow/keyboardRow.cpp), [Python](./algorithms/python/keyboardRow/keyboardRow.py) | Easy |
+| 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [C++](./algorithms/cpp/diagonalTraverse/diagonalTraverse.cpp), [Python](./algorithms/python/diagonalTraverse/diagonalTraverse.py) | Medium |
+| 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [C++](./algorithms/cpp/randomPointinNon-overlappingRectangles/randomPointinNon-overlappingRectangles.cpp), [Python](./algorithms/python/randomPointinNon-overlappingRectangles/randomPointinNon-overlappingRectangles.py) | Medium |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [C++](./algorithms/cpp/nextGreaterElementI/nextGreaterElementI.cpp), [Python](./algorithms/python/nextGreaterElementI/nextGreaterElementI.py) | Easy |
+| 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./algorithms/cpp/teemoAttacking/teemoAttacking.cpp), [Python](./algorithms/python/teemoAttacking/teemoAttacking.py) | Medium |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [C++](./algorithms/cpp/targetSum/targetSum.cpp), [Python](./algorithms/python/targetSum/targetSum.py) | Medium |
+| 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [C++](./algorithms/cpp/reversePairs/reversePairs.cpp), [Python](./algorithms/python/reversePairs/reversePairs.py) | Hard |
+| 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [C++](./algorithms/cpp/constructtheRectangle/constructtheRectangle.cpp), [Python](./algorithms/python/constructtheRectangle/constructtheRectangle.py) | Easy |
+| 491 | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | [C++](./algorithms/cpp/increasingSubsequences/increasingSubsequences.cpp), [Python](./algorithms/python/increasingSubsequences/increasingSubsequences.py) | Medium |
 | 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [C++](./algorithms/cpp/zumaGame/zumaGame.cpp), [Python](./algorithms/python/zumaGame/zumaGame.py) | Hard |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [C++](./algorithms/cpp/predicttheWinner/predicttheWinner.cpp), [Python](./algorithms/python/predicttheWinner/predicttheWinner.py) | Medium |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [C++](./algorithms/cpp/maxConsecutiveOnes/maxConsecutiveOnes.cpp), [Python](./algorithms/python/maxConsecutiveOnes/maxConsecutiveOnes.py) | Easy |
