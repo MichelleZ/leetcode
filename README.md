@@ -3,6 +3,14 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](./algorithms/cpp/fibonacciNumber/fibonacciNumber.cpp), [Python](./algorithms/python/fibonacciNumber/fibonacciNumber.py) | Easy |
+| 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [C++](./algorithms/cpp/mostFrequentSubtreeSum/mostFrequentSubtreeSum.cpp), [Python](./algorithms/python/mostFrequentSubtreeSum/mostFrequentSubtreeSum.py) | Medium |
+| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [C++](./algorithms/cpp/perfectNumber/perfectNumber.cpp), [Python](./algorithms/python/perfectNumber/perfectNumber.py) | Easy |
+| 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [C++](./algorithms/cpp/relativeRanks/relativeRanks.cpp), [Python](./algorithms/python/relativeRanks/relativeRanks.py) | Easy |
+| 504 | [Base 7](https://leetcode.com/problems/base-7/) | [C++](./algorithms/cpp/base7/base7.cpp), [Python](./algorithms/python/base7/base7.py) | Easy |
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [C++](./algorithms/cpp/nextGreaterElementII/nextGreaterElementII.cpp), [Python](./algorithms/python/nextGreaterElementII/nextGreaterElementII.py) | Medium |
+| 502 | [IPO](https://leetcode.com/problems/ipo/) | [C++](./algorithms/cpp/iPO/iPO.cpp), [Python](./algorithms/python/iPO/iPO.py) | Hard |
+| 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [C++](./algorithms/cpp/findModeinBinarySearchTree/findModeinBinarySearchTree.cpp), [Python](./algorithms/python/findModeinBinarySearchTree/findModeinBinarySearchTree.py) | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [C++](./algorithms/cpp/keyboardRow/keyboardRow.cpp), [Python](./algorithms/python/keyboardRow/keyboardRow.py) | Easy |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [C++](./algorithms/cpp/diagonalTraverse/diagonalTraverse.cpp), [Python](./algorithms/python/diagonalTraverse/diagonalTraverse.py) | Medium |
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [C++](./algorithms/cpp/randomPointinNon-overlappingRectangles/randomPointinNon-overlappingRectangles.cpp), [Python](./algorithms/python/randomPointinNon-overlappingRectangles/randomPointinNon-overlappingRectangles.py) | Medium |
