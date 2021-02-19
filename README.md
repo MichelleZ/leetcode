@@ -3,6 +3,14 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](./algorithms/cpp/detectCapital/detectCapital.cpp), [Python](./algorithms/python/detectCapital/detectCapital.py) | Easy |
+| 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/) | [C++](./algorithms/cpp/randomFlipMatrix/randomFlipMatrix.cpp), [Python](./algorithms/python/randomFlipMatrix/randomFlipMatrix.py) | Medium |
+| 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [C++](./algorithms/cpp/coinChange2/coinChange2.cpp), [Python](./algorithms/python/coinChange2/coinChange2.py) | Medium |
+| 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | [C++](./algorithms/cpp/superWashingMachines/superWashingMachines.cpp), [Python](./algorithms/python/superWashingMachines/superWashingMachines.py) | Hard |
+| 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [C++](./algorithms/cpp/longestPalindromicSubsequence/longestPalindromicSubsequence.cpp), [Python](./algorithms/python/longestPalindromicSubsequence/longestPalindromicSubsequence.py) | Medium |
+| 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [C++](./algorithms/cpp/findLargestValueinEachTreeRow/findLargestValueinEachTreeRow.cpp), [Python](./algorithms/python/findLargestValueinEachTreeRow/findLargestValueinEachTreeRow.py) | Medium |
+| 514 | [Freedom Trail](https://leetcode.com/problems/freedom-trail/) | [C++](./algorithms/cpp/freedomTrail/freedomTrail.cpp), [Python](./algorithms/python/freedomTrail/freedomTrail.py) | Hard |
+| 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [C++](./algorithms/cpp/findBottomLeftTreeValue/findBottomLeftTreeValue.cpp), [Python](./algorithms/python/findBottomLeftTreeValue/findBottomLeftTreeValue.py) | Medium |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](./algorithms/cpp/fibonacciNumber/fibonacciNumber.cpp), [Python](./algorithms/python/fibonacciNumber/fibonacciNumber.py) | Easy |
 | 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [C++](./algorithms/cpp/mostFrequentSubtreeSum/mostFrequentSubtreeSum.cpp), [Python](./algorithms/python/mostFrequentSubtreeSum/mostFrequentSubtreeSum.py) | Medium |
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [C++](./algorithms/cpp/perfectNumber/perfectNumber.cpp), [Python](./algorithms/python/perfectNumber/perfectNumber.py) | Easy |
