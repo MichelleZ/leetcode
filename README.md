@@ -3,6 +3,15 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./algorithms/cpp/minimumAbsoluteDifferenceinBST/minimumAbsoluteDifferenceinBST.cpp), [Python](./algorithms/python/minimumAbsoluteDifferenceinBST/minimumAbsoluteDifferenceinBST.py) | Easy |
+| 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [C++](./algorithms/cpp/minesweeper/minesweeper.cpp), [Python](./algorithms/python/minesweeper/minesweeper.py) | Medium |
+| 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [C++](./algorithms/cpp/randomPickwithWeight/randomPickwithWeight.cpp), [Python](./algorithms/python/randomPickwithWeight/randomPickwithWeight.py) | Medium |
+| 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [C++](./algorithms/cpp/beautifulArrangement/beautifulArrangement.cpp), [Python](./algorithms/python/beautifulArrangement/beautifulArrangement.py) | Medium |
+| 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [C++](./algorithms/cpp/contiguousArray/contiguousArray.cpp), [Python](./algorithms/python/contiguousArray/contiguousArray.py) | Medium |
+| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [C++](./algorithms/cpp/longestWordinDictionarythroughDeleting/longestWordinDictionarythroughDeleting.cpp), [Python](./algorithms/python/longestWordinDictionarythroughDeleting/longestWordinDictionarythroughDeleting.py) | Medium |
+| 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [C++](./algorithms/cpp/continuousSubarraySum/continuousSubarraySum.cpp), [Python](./algorithms/python/continuousSubarraySum/continuousSubarraySum.py) | Medium |
+| 522 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [C++](./algorithms/cpp/longestUncommonSubsequenceII/longestUncommonSubsequenceII.cpp), [Python](./algorithms/python/longestUncommonSubsequenceII/longestUncommonSubsequenceII.py) | Medium |
+| 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [C++](./algorithms/cpp/longestUncommonSubsequenceI/longestUncommonSubsequenceI.cpp), [Python](./algorithms/python/longestUncommonSubsequenceI/longestUncommonSubsequenceI.py) | Easy |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](./algorithms/cpp/detectCapital/detectCapital.cpp), [Python](./algorithms/python/detectCapital/detectCapital.py) | Easy |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/) | [C++](./algorithms/cpp/randomFlipMatrix/randomFlipMatrix.cpp), [Python](./algorithms/python/randomFlipMatrix/randomFlipMatrix.py) | Medium |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [C++](./algorithms/cpp/coinChange2/coinChange2.cpp), [Python](./algorithms/python/coinChange2/coinChange2.py) | Medium |
