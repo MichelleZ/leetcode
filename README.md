@@ -3,6 +3,12 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [C++](./algorithms/cpp/singleElementinaSortedArray/singleElementinaSortedArray.cpp), [Python](./algorithms/python/singleElementinaSortedArray/singleElementinaSortedArray.py) | Medium |
+| 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [C++](./algorithms/cpp/minimumTimeDifference/minimumTimeDifference.cpp), [Python](./algorithms/python/minimumTimeDifference/minimumTimeDifference.py) | Medium |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++](./algorithms/cpp/convertBSTtoGreaterTree/convertBSTtoGreaterTree.cpp), [Python](./algorithms/python/convertBSTtoGreaterTree/convertBSTtoGreaterTree.py) | Medium |
+| 537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [C++](./algorithms/cpp/complexNumberMultiplication/complexNumberMultiplication.cpp), [Python](./algorithms/python/complexNumberMultiplication/complexNumberMultiplication.py) | Medium |
+| 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [C++](./algorithms/cpp/encodeandDecodeTinyURL/encodeandDecodeTinyURL.cpp), [Python](./algorithms/python/encodeandDecodeTinyURL/encodeandDecodeTinyURL.py) | Medium |
+| 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./algorithms/cpp/k-diffPairsinanArray/k-diffPairsinanArray.cpp), [Python](./algorithms/python/k-diffPairsinanArray/k-diffPairsinanArray.py) | Medium |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./algorithms/cpp/minimumAbsoluteDifferenceinBST/minimumAbsoluteDifferenceinBST.cpp), [Python](./algorithms/python/minimumAbsoluteDifferenceinBST/minimumAbsoluteDifferenceinBST.py) | Easy |
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [C++](./algorithms/cpp/minesweeper/minesweeper.cpp), [Python](./algorithms/python/minesweeper/minesweeper.py) | Medium |
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [C++](./algorithms/cpp/randomPickwithWeight/randomPickwithWeight.cpp), [Python](./algorithms/python/randomPickwithWeight/randomPickwithWeight.py) | Medium |
