@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [C++](./algorithms/cpp/numberofProvinces/numberofProvinces.cpp), [Python](./algorithms/python/numberofProvinces/numberofProvinces.py) | Medium |
+| 546 | [Remove Boxes](https://leetcode.com/problems/remove-boxes/) | [C++](./algorithms/cpp/removeBoxes/removeBoxes.cpp), [Python](./algorithms/python/removeBoxes/removeBoxes.py) | Hard |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](./algorithms/cpp/diameterofBinaryTree/diameterofBinaryTree.cpp), [Python](./algorithms/python/diameterofBinaryTree/diameterofBinaryTree.py) | Easy |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [C++](./algorithms/cpp/01Matrix/01Matrix.cpp), [Python](./algorithms/python/01Matrix/01Matrix.py) | Medium |
+| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [C++](./algorithms/cpp/reverseStringII/reverseStringII.cpp), [Python](./algorithms/python/reverseStringII/reverseStringII.py) | Easy |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [C++](./algorithms/cpp/singleElementinaSortedArray/singleElementinaSortedArray.cpp), [Python](./algorithms/python/singleElementinaSortedArray/singleElementinaSortedArray.py) | Medium |
 | 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [C++](./algorithms/cpp/minimumTimeDifference/minimumTimeDifference.cpp), [Python](./algorithms/python/minimumTimeDifference/minimumTimeDifference.py) | Medium |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++](./algorithms/cpp/convertBSTtoGreaterTree/convertBSTtoGreaterTree.cpp), [Python](./algorithms/python/convertBSTtoGreaterTree/convertBSTtoGreaterTree.py) | Medium |
