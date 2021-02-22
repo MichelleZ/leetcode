@@ -3,6 +3,15 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./algorithms/cpp/subarraySumEqualsK/subarraySumEqualsK.cpp), [Python](./algorithms/python/subarraySumEqualsK/subarraySumEqualsK.py) | Medium |
+| 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [C++](./algorithms/cpp/maximumDepthofN-aryTree/maximumDepthofN-aryTree.cpp), [Python](./algorithms/python/maximumDepthofN-aryTree/maximumDepthofN-aryTree.py) | Easy |
+| 558 | [Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [C++](./algorithms/cpp/logicalORofTwoBinaryGridsRepresentedasQuad-Trees/logicalORofTwoBinaryGridsRepresentedasQuad-Trees.cpp), [Python](./algorithms/python/logicalORofTwoBinaryGridsRepresentedasQuad-Trees/logicalORofTwoBinaryGridsRepresentedasQuad-Trees.py) | Medium |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](./algorithms/cpp/reverseWordsinaStringIII/reverseWordsinaStringIII.cpp), [Python](./algorithms/python/reverseWordsinaStringIII/reverseWordsinaStringIII.py) | Easy |
+| 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [C++](./algorithms/cpp/nextGreaterElementIII/nextGreaterElementIII.cpp), [Python](./algorithms/python/nextGreaterElementIII/nextGreaterElementIII.py) | Medium |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [C++](./algorithms/cpp/brickWall/brickWall.cpp), [Python](./algorithms/python/brickWall/brickWall.py) | Medium |
+| 553 | [Optimal Division](https://leetcode.com/problems/optimal-division/) | [C++](./algorithms/cpp/optimalDivision/optimalDivision.cpp), [Python](./algorithms/python/optimalDivision/optimalDivision.py) | Medium |
+| 552 [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [C++](./algorithms/cpp/studentAttendanceRecordII/studentAttendanceRecordII.cpp), [Python](./algorithms/python/studentAttendanceRecordII/studentAttendanceRecordII.py) | Hard |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [C++](./algorithms/cpp/studentAttendanceRecordI/studentAttendanceRecordI.cpp), [Python](./algorithms/python/studentAttendanceRecordI/studentAttendanceRecordI.py) | Easy |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [C++](./algorithms/cpp/numberofProvinces/numberofProvinces.cpp), [Python](./algorithms/python/numberofProvinces/numberofProvinces.py) | Medium |
 | 546 | [Remove Boxes](https://leetcode.com/problems/remove-boxes/) | [C++](./algorithms/cpp/removeBoxes/removeBoxes.cpp), [Python](./algorithms/python/removeBoxes/removeBoxes.py) | Hard |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](./algorithms/cpp/diameterofBinaryTree/diameterofBinaryTree.cpp), [Python](./algorithms/python/diameterofBinaryTree/diameterofBinaryTree.py) | Easy |
