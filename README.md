@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [C++](./algorithms/cpp/n-aryTreePostorderTraversal/n-aryTreePostorderTraversal.cpp), [Python](./algorithms/python/n-aryTreePostorderTraversal/n-aryTreePostorderTraversal.py) | Easy |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [C++](./algorithms/cpp/n-aryTreePreorderTraversal/n-aryTreePreorderTraversal.cpp), [Python](./algorithms/python/n-aryTreePreorderTraversal/n-aryTreePreorderTraversal.py) | Easy |
+| 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [C++](./algorithms/cpp/erecttheFence/erecttheFence.cpp), [Python](./algorithms/python/erecttheFence/erecttheFence.py) | Hard |
+| 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [C++](./algorithms/cpp/deleteOperationforTwoStrings/deleteOperationforTwoStrings.cpp), [Python](./algorithms/python/deleteOperationforTwoStrings/deleteOperationforTwoStrings.py) | Medium |
+| 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](./algorithms/cpp/shortestUnsortedContinuousSubarray/shortestUnsortedContinuousSubarray.cpp), [Python](./algorithms/python/shortestUnsortedContinuousSubarray/shortestUnsortedContinuousSubarray.py) | Medium |
 | 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [C++](./algorithms/cpp/outofBoundaryPaths/outofBoundaryPaths.cpp), [Python](./algorithms/python/outofBoundaryPaths/outofBoundaryPaths.py) | Medium |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [C++](./algorithms/cpp/distributeCandies/distributeCandies.cpp), [Python](./algorithms/python/distributeCandies/distributeCandies.py) | Easy |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [C++](./algorithms/cpp/subtreeofAnotherTree/subtreeofAnotherTree.cpp), [Python](./algorithms/python/subtreeofAnotherTree/subtreeofAnotherTree.py) | Easy |
