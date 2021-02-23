@@ -3,6 +3,13 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [C++](./algorithms/cpp/outofBoundaryPaths/outofBoundaryPaths.cpp), [Python](./algorithms/python/outofBoundaryPaths/outofBoundaryPaths.py) | Medium |
+| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [C++](./algorithms/cpp/distributeCandies/distributeCandies.cpp), [Python](./algorithms/python/distributeCandies/distributeCandies.py) | Easy |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [C++](./algorithms/cpp/subtreeofAnotherTree/subtreeofAnotherTree.cpp), [Python](./algorithms/python/subtreeofAnotherTree/subtreeofAnotherTree.py) | Easy |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [C++](./algorithms/cpp/permutationinString/permutationinString.cpp), [Python](./algorithms/python/permutationinString/permutationinString.py) | Medium |
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](./algorithms/cpp/reshapetheMatrix/reshapetheMatrix.cpp), [Python](./algorithms/python/reshapetheMatrix/reshapetheMatrix.py) | Easy |
+| 565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | [C++](./algorithms/cpp/arrayNesting/arrayNesting.cpp), [Python](./algorithms/python/arrayNesting/arrayNesting.py) | Medium |
+| 564 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | [C++](./algorithms/cpp/findtheClosestPalindrome/findtheClosestPalindrome.cpp), [Python](./algorithms/python/findtheClosestPalindrome/findtheClosestPalindrome.py) | Hard |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [C++](./algorithms/cpp/binaryTreeTilt/binaryTreeTilt.cpp), [Python](./algorithms/python/binaryTreeTilt/binaryTreeTilt.py) | Easy |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [C++](./algorithms/cpp/arrayPartitionI/arrayPartitionI.cpp), [Python](./algorithms/python/arrayPartitionI/arrayPartitionI.py) | Easy |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./algorithms/cpp/subarraySumEqualsK/subarraySumEqualsK.cpp), [Python](./algorithms/python/subarraySumEqualsK/subarraySumEqualsK.py) | Medium |
