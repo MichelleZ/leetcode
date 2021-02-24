@@ -3,6 +3,13 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [C++](./algorithms/cpp/non-negativeIntegerswithoutConsecutiveOnes/non-negativeIntegerswithoutConsecutiveOnes.cpp), [Python](./algorithms/python/non-negativeIntegerswithoutConsecutiveOnes/non-negativeIntegerswithoutConsecutiveOnes.py) | Hard |
+| 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [C++](./algorithms/cpp/minimumIndexSumofTwoLists/minimumIndexSumofTwoLists.cpp), [Python](./algorithms/python/minimumIndexSumofTwoLists/minimumIndexSumofTwoLists.py) | Easy |
+| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [C++](./algorithms/cpp/rangeAdditionII/rangeAdditionII.cpp), [Python](./algorithms/python/rangeAdditionII/rangeAdditionII.py) | Easy |
+| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [C++](./algorithms/cpp/longestHarmoniousSubsequence/longestHarmoniousSubsequence.cpp), [Python](./algorithms/python/longestHarmoniousSubsequence/longestHarmoniousSubsequence.py) | Easy |
+| 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [C++](./algorithms/cpp/validSquare/validSquare.cpp), [Python](./algorithms/python/validSquare/validSquare.py) | Medium |
+| 592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [C++](./algorithms/cpp/fractionAdditionandSubtraction/fractionAdditionandSubtraction.cpp), [Python](./algorithms/python/fractionAdditionandSubtraction/fractionAdditionandSubtraction.py) | Medium |
+| 591 | [Tag Validator](https://leetcode.com/problems/tag-validator/) | [C++](./algorithms/cpp/tagValidator/tagValidator.cpp), [Python](./algorithms/python/tagValidator/tagValidator.py) | Hard |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [C++](./algorithms/cpp/n-aryTreePostorderTraversal/n-aryTreePostorderTraversal.cpp), [Python](./algorithms/python/n-aryTreePostorderTraversal/n-aryTreePostorderTraversal.py) | Easy |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [C++](./algorithms/cpp/n-aryTreePreorderTraversal/n-aryTreePreorderTraversal.cpp), [Python](./algorithms/python/n-aryTreePreorderTraversal/n-aryTreePreorderTraversal.py) | Easy |
 | 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [C++](./algorithms/cpp/erecttheFence/erecttheFence.cpp), [Python](./algorithms/python/erecttheFence/erecttheFence.py) | Hard |
