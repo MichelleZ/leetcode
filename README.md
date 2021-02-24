@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [C++](./algorithms/cpp/findDuplicateFileinSystem/findDuplicateFileinSystem.cpp), [Python](./algorithms/python/findDuplicateFileinSystem/findDuplicateFileinSystem.py) | Medium |
+| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [C++](./algorithms/cpp/constructStringfromBinaryTree/constructStringfromBinaryTree.cpp), [Python](./algorithms/python/constructStringfromBinaryTree/constructStringfromBinaryTree.py) | Easy |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](./algorithms/cpp/canPlaceFlowers/canPlaceFlowers.cpp), [Python](./algorithms/python/canPlaceFlowers/canPlaceFlowers.py) | Easy |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [C++](./algorithms/cpp/non-negativeIntegerswithoutConsecutiveOnes/non-negativeIntegerswithoutConsecutiveOnes.cpp), [Python](./algorithms/python/non-negativeIntegerswithoutConsecutiveOnes/non-negativeIntegerswithoutConsecutiveOnes.py) | Hard |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [C++](./algorithms/cpp/minimumIndexSumofTwoLists/minimumIndexSumofTwoLists.cpp), [Python](./algorithms/python/minimumIndexSumofTwoLists/minimumIndexSumofTwoLists.py) | Easy |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [C++](./algorithms/cpp/rangeAdditionII/rangeAdditionII.cpp), [Python](./algorithms/python/rangeAdditionII/rangeAdditionII.py) | Easy |
