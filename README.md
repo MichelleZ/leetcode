@@ -3,6 +3,13 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 640 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation/) | [C++](./algorithms/cpp/solvetheEquation/solvetheEquation.cpp), [Python](./algorithms/python/solvetheEquation/solvetheEquation.py) | Medium |
+| 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [C++](./algorithms/cpp/decodeWaysII/decodeWaysII.cpp), [Python](./algorithms/python/decodeWaysII/decodeWaysII.py) | Hard |
+| 638 | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [C++](./algorithms/cpp/shoppingOffers/shoppingOffers.cpp), [Python](./algorithms/python/shoppingOffers/shoppingOffers.py) | Medium |
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [C++](./algorithms/cpp/averageofLevelsinBinaryTree/averageofLevelsinBinaryTree.cpp), [Python](./algorithms/python/averageofLevelsinBinaryTree/averageofLevelsinBinaryTree.py) | Easy |
+| 636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | [C++](./algorithms/cpp/exclusiveTimeofFunctions/exclusiveTimeofFunctions.cpp), [Python](./algorithms/python/exclusiveTimeofFunctions/exclusiveTimeofFunctions.py) | Medium |
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [C++](./algorithms/cpp/sumofSquareNumbers/sumofSquareNumbers.cpp), [Python](./algorithms/python/sumofSquareNumbers/sumofSquareNumbers.py) | Medium |
+| 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [C++](./algorithms/cpp/smallestRangeCoveringElementsfromKLists/smallestRangeCoveringElementsfromKLists.cpp), [Python](./algorithms/python/smallestRangeCoveringElementsfromKLists/smallestRangeCoveringElementsfromKLists.py) | Hard |
 | 630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [C++](./algorithms/cpp/courseScheduleIII/courseScheduleIII.cpp), [Python](./algorithms/python/courseScheduleIII/courseScheduleIII.py) | Hard |
 | 629 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [C++](./algorithms/cpp/kInversePairsArray/kInversePairsArray.cpp), [Python](./algorithms/python/kInversePairsArray/kInversePairsArray.py) | Hard |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [C++](./algorithms/cpp/maximumProductofThreeNumbers/maximumProductofThreeNumbers.cpp), [Python](./algorithms/python/maximumProductofThreeNumbers/maximumProductofThreeNumbers.py) | Easy |
