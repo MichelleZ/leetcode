@@ -3,6 +3,14 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [C++](./algorithms/cpp/2KeysKeyboard/2KeysKeyboard.cpp), [Python](./algorithms/python/2KeysKeyboard/2KeysKeyboard.py) | Medium |
+| 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [C++](./algorithms/cpp/dota2Senate/dota2Senate.cpp), [Python](./algorithms/python/dota2Senate/dota2Senate.py) | Medium |
+| 648 | [Replace Words](https://leetcode.com/problems/replace-words/) | [C++](./algorithms/cpp/replaceWords/replaceWords.cpp), [Python](./algorithms/python/replaceWords/replaceWords.py) | Medium |
+| 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [C++](./algorithms/cpp/palindromicSubstrings/palindromicSubstrings.cpp), [Python](./algorithms/python/palindromicSubstrings/palindromicSubstrings.py) | Medium |
+| 646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [C++](./algorithms/cpp/maximumLengthofPairChain/maximumLengthofPairChain.cpp), [Python](./algorithms/python/maximumLengthofPairChain/maximumLengthofPairChain.py) | Medium |
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [C++](./algorithms/cpp/setMismatch/setMismatch.cpp), [Python](./algorithms/python/setMismatch/setMismatch.py) | Easy |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](./algorithms/cpp/maximumAverageSubarrayI/maximumAverageSubarrayI.cpp), [Python](./algorithms/python/maximumAverageSubarrayI/maximumAverageSubarrayI.py) | Easy |
+| 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [C++](./algorithms/cpp/designCircularDeque/designCircularDeque.cpp), [Python](./algorithms/python/designCircularDeque/designCircularDeque.py) | Medium |
 | 640 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation/) | [C++](./algorithms/cpp/solvetheEquation/solvetheEquation.cpp), [Python](./algorithms/python/solvetheEquation/solvetheEquation.py) | Medium |
 | 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [C++](./algorithms/cpp/decodeWaysII/decodeWaysII.cpp), [Python](./algorithms/python/decodeWaysII/decodeWaysII.py) | Hard |
 | 638 | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [C++](./algorithms/cpp/shoppingOffers/shoppingOffers.cpp), [Python](./algorithms/python/shoppingOffers/shoppingOffers.py) | Medium |
