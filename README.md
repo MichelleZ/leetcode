@@ -3,6 +3,13 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [C++](./algorithms/cpp/splitArrayintoConsecutiveSubsequences/splitArrayintoConsecutiveSubsequences.cpp), [Python](./algorithms/python/splitArrayintoConsecutiveSubsequences/splitArrayintoConsecutiveSubsequences.py) | Medium |
+| 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [C++](./algorithms/cpp/findKClosestElements/findKClosestElements.cpp), [Python](./algorithms/python/findKClosestElements/findKClosestElements.py) | Medium |
+| 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [C++](./algorithms/cpp/robotReturntoOrigin/robotReturntoOrigin.cpp), [Python](./algorithms/python/robotReturntoOrigin/robotReturntoOrigin.py) | Easy |
+| 655 | [Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [C++](./algorithms/cpp/printBinaryTree/printBinaryTree.cpp), [Python](./algorithms/python/printBinaryTree/printBinaryTree.py) | Medium |
+| 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [C++](./algorithms/cpp/maximumBinaryTree/maximumBinaryTree.cpp), [Python](./algorithms/python/maximumBinaryTree/maximumBinaryTree.py) | Medium |
+| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [C++](./algorithms/cpp/twoSumIV-InputisaBST/twoSumIV-InputisaBST.cpp), [Python](./algorithms/python/twoSumIV-InputisaBST/twoSumIV-InputisaBST.py) | Easy |
+| 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [C++](./algorithms/cpp/findDuplicateSubtrees/findDuplicateSubtrees.cpp), [Python](./algorithms/python/findDuplicateSubtrees/findDuplicateSubtrees.py) | Medium |
 | 650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [C++](./algorithms/cpp/2KeysKeyboard/2KeysKeyboard.cpp), [Python](./algorithms/python/2KeysKeyboard/2KeysKeyboard.py) | Medium |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [C++](./algorithms/cpp/dota2Senate/dota2Senate.cpp), [Python](./algorithms/python/dota2Senate/dota2Senate.py) | Medium |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/) | [C++](./algorithms/cpp/replaceWords/replaceWords.cpp), [Python](./algorithms/python/replaceWords/replaceWords.py) | Medium |
