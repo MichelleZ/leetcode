@@ -3,6 +3,14 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap/) | [C++](./algorithms/cpp/maximumSwap/maximumSwap.cpp), [Python](./algorithms/python/maximumSwap/maximumSwap.py) | Medium |
+| 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [C++](./algorithms/cpp/trimaBinarySearchTree/trimaBinarySearchTree.cpp), [Python](./algorithms/python/trimaBinarySearchTree/trimaBinarySearchTree.py) | Medium |
+| 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [C++](./algorithms/cpp/kthSmallestNumberinMultiplicationTable/kthSmallestNumberinMultiplicationTable.cpp), [Python](./algorithms/python/kthSmallestNumberinMultiplicationTable/kthSmallestNumberinMultiplicationTable.py) | Hard |
+| 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [C++](./algorithms/cpp/beautifulArrangementII/beautifulArrangementII.cpp), [Python](./algorithms/python/beautifulArrangementII/beautifulArrangementII.py) | Medium |
+| 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./algorithms/cpp/non-decreasingArray/non-decreasingArray.cpp), [Python](./algorithms/python/non-decreasingArray/non-decreasingArray.py) | Medium |
+| 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [C++](./algorithms/cpp/strangePrinter/strangePrinter.cpp), [Python](./algorithms/python/strangePrinter/strangePrinter.py) | Hard |
+| 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [C++](./algorithms/cpp/maximumWidthofBinaryTree/maximumWidthofBinaryTree.cpp), [Python](./algorithms/python/maximumWidthofBinaryTree/maximumWidthofBinaryTree.py) | Medium |
+| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [C++](./algorithms/cpp/imageSmoother/imageSmoother.cpp), [Python](./algorithms/python/imageSmoother/imageSmoother.py) | Easy |
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [C++](./algorithms/cpp/splitArrayintoConsecutiveSubsequences/splitArrayintoConsecutiveSubsequences.cpp), [Python](./algorithms/python/splitArrayintoConsecutiveSubsequences/splitArrayintoConsecutiveSubsequences.py) | Medium |
 | 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [C++](./algorithms/cpp/findKClosestElements/findKClosestElements.cpp), [Python](./algorithms/python/findKClosestElements/findKClosestElements.py) | Medium |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [C++](./algorithms/cpp/robotReturntoOrigin/robotReturntoOrigin.cpp), [Python](./algorithms/python/robotReturntoOrigin/robotReturntoOrigin.py) | Easy |
