@@ -24,7 +24,7 @@ class Solution:
 
         right = [0 for _ in range(len(kintervals))]
         best = len(kintervals) - 1
-        for i in range(len(kintervals)):
+        for i in range(len(kintervals) - 1, -1, -1):
             if kintervals[i] >= kintervals[best]: best = i
             right[i] = best
 
