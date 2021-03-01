@@ -3,6 +3,14 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [C++](./algorithms/cpp/employeeImportance/employeeImportance.cpp), [Python](./algorithms/python/employeeImportance/employeeImportance.py) | Easy |
+| 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [C++](./algorithms/cpp/maximumSumof3Non-OverlappingSubarrays/maximumSumof3Non-OverlappingSubarrays.cpp), [Python](./algorithms/python/maximumSumof3Non-OverlappingSubarrays/maximumSumof3Non-OverlappingSubarrays.py) | Hard |
+| 688 | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [C++](./algorithms/cpp/knightProbabilityinChessboard/knightProbabilityinChessboard.cpp), [Python](./algorithms/python/knightProbabilityinChessboard/knightProbabilityinChessboard.py) | Medium |
+| 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [C++](./algorithms/cpp/longestUnivaluePath/longestUnivaluePath.cpp), [Python](./algorithms/python/longestUnivaluePath/longestUnivaluePath.py) | Medium |
+| 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [C++](./algorithms/cpp/repeatedStringMatch/repeatedStringMatch.cpp), [Python](./algorithms/python/repeatedStringMatch/repeatedStringMatch.py) | Medium |
+| 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [C++](./algorithms/cpp/redundantConnectionII/redundantConnectionII.cpp), [Python](./algorithms/python/redundantConnectionII/redundantConnectionII.py) | Hard |
+| 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [C++](./algorithms/cpp/redundantConnection/redundantConnection.cpp), [Python](./algorithms/python/redundantConnection/redundantConnection.py) | Medium |
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [C++](./algorithms/cpp/baseballGame/baseballGame.cpp), [Python](./algorithms/python/baseballGame/baseballGame.py) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [C++](./algorithms/cpp/validPalindromeII/validPalindromeII.cpp), [Python](./algorithms/python/validPalindromeII/validPalindromeII.py) | Easy |
 | 679 | [24 Game](https://leetcode.com/problems/24-game/) | [C++](./algorithms/cpp/24Game/24Game.cpp), [Python](./algorithms/python/24Game/24Game.py) | Hard |
 | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [C++](./algorithms/cpp/validParenthesisString/validParenthesisString.cpp), [Python](./algorithms/python/validParenthesisString/validParenthesisString.py) | Medium |
