@@ -3,6 +3,14 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/) | [C++](./algorithms/cpp/randomPickwithBlacklist/randomPickwithBlacklist.cpp), [Python](./algorithms/python/randomPickwithBlacklist/randomPickwithBlacklist.py) | Hard |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [C++](./algorithms/cpp/toLowerCase/toLowerCase.cpp), [Python](./algorithms/python/toLowerCase/toLowerCase.py) | Easy |
+| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [C++](./algorithms/cpp/designLinkedList/designLinkedList.cpp), [Python](./algorithms/python/designLinkedList/designLinkedList.py) | Medium |
+| 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [C++](./algorithms/cpp/designHashMap/designHashMap.cpp), [Python](./algorithms/python/designHashMap/designHashMap.py) | Easy |
+| 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [C++](./algorithms/cpp/designHashSet/designHashSet.cpp), [Python](./algorithms/python/designHashSet/designHashSet.py) | Easy |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./algorithms/cpp/binarySearch/binarySearch.cpp), [Python](./algorithms/python/binarySearch/binarySearch.py) | Easy |
+| 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [C++](./algorithms/cpp/kthLargestElementinaStream/kthLargestElementinaStream.cpp), [Python](./algorithms/python/kthLargestElementinaStream/kthLargestElementinaStream.py) | Easy |
+| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-in-a-binary-search-tree/) | [C++](./algorithms/cpp/insertintoaBinarySearchTree/insertintoaBinarySearchTree.cpp), [Python](./algorithms/python/insertintoaBinarySearchTree/insertintoaBinarySearchTree.py) | Easy |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C++](./algorithms/cpp/searchinaBinarySearchTree/searchinaBinarySearchTree.cpp), [Python](./algorithms/python/searchinaBinarySearchTree/searchinaBinarySearchTree.py) | Easy |
 | 699 | [Falling Squares](https://leetcode.com/problems/falling-squares/) | [C++](./algorithms/cpp/fallingSquares/fallingSquares.cpp), [Python](./algorithms/python/fallingSquares/fallingSquares.py) | Hard |
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [C++](./algorithms/cpp/partitiontoKEqualSumSubsets/partitiontoKEqualSumSubsets.cpp), [Python](./algorithms/python/partitiontoKEqualSumSubsets/partitiontoKEqualSumSubsets.py) | Medium |
