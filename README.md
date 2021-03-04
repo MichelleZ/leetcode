@@ -3,6 +3,14 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 730 | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [C++](./algorithms/cpp/countDifferentPalindromicSubsequences/countDifferentPalindromicSubsequences.cpp), [Python](./algorithms/python/countDifferentPalindromicSubsequences/countDifferentPalindromicSubsequences.py) | Hard |
+| 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [C++](./algorithms/cpp/myCalendarI/myCalendarI.cpp), [Python](./algorithms/python/myCalendarI/myCalendarI.py) | Medium |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [C++](./algorithms/cpp/selfDividingNumbers/selfDividingNumbers.cpp), [Python](./algorithms/python/selfDividingNumbers/selfDividingNumbers.py) | Easy |
+| 726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [C++](./algorithms/cpp/numberofAtoms/numberofAtoms.cpp), [Python](./algorithms/python/numberofAtoms/numberofAtoms.py) | Hard |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [C++](./algorithms/cpp/splitLinkedListinParts/splitLinkedListinParts.cpp), [Python](./algorithms/python/splitLinkedListinParts/splitLinkedListinParts.py) | Medium |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](./algorithms/cpp/findPivotIndexdex/findPivotIndexdex.cpp), [Python](./algorithms/python/findPivotIndexdex/findPivotIndexdex.py) | Easy |
+| 722 | [Remove Comments](https://leetcode.com/problems/remove-comments/) | [C++](./algorithms/cpp/removeComments/removeComments.cpp), [Python](./algorithms/python/removeComments/removeComments.py) | Medium |
+| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [C++](./algorithms/cpp/accountsMerge/accountsMerge.cpp), [Python](./algorithms/python/accountsMerge/accountsMerge.py) | Medium |
 | 720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [C++](./algorithms/cpp/longestWordinDictionary/longestWordinDictionary.cpp), [Python](./algorithms/python/longestWordinDictionary/longestWordinDictionary.py) | Easy |
 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [C++](./algorithms/cpp/findK-thSmallestPairDistance/findK-thSmallestPairDistance.cpp), [Python](./algorithms/python/findK-thSmallestPairDistance/findK-thSmallestPairDistance.py) | Hard |
 | 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [C++](./algorithms/cpp/maximumLengthofRepeatedSubarray/maximumLengthofRepeatedSubarray.cpp), [Python](./algorithms/python/maximumLengthofRepeatedSubarray/maximumLengthofRepeatedSubarray.py) | Medium |
