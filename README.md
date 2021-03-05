@@ -3,6 +3,13 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [C++](./algorithms/cpp/deleteandEarn/deleteandEarn.cpp), [Python](./algorithms/python/deleteandEarn/deleteandEarn.py) | Medium |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [C++](./algorithms/cpp/dailyTemperatures/dailyTemperatures.cpp), [Python](./algorithms/python/dailyTemperatures/dailyTemperatures.py) | Medium |
+| 738 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | [C++](./algorithms/cpp/monotoneIncreasingDigits/monotoneIncreasingDigits.cpp), [Python](./algorithms/python/monotoneIncreasingDigits/monotoneIncreasingDigits.py) | Medium |
+| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [C++](./algorithms/cpp/asteroidCollision/asteroidCollision.cpp), [Python](./algorithms/python/asteroidCollision/asteroidCollision.py) | Medium |
+| 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [C++](./algorithms/cpp/floodFill/floodFill.cpp), [Python](./algorithms/python/floodFill/floodFill.py) | Easy |
+| 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [C++](./algorithms/cpp/myCalendarIII/myCalendarIII.cpp), [Python](./algorithms/python/myCalendarIII/myCalendarIII.py) | Hard |
+| 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | [C++](./algorithms/cpp/myCalendarII/myCalendarII.cpp), [Python](./algorithms/python/myCalendarII/myCalendarII.py) | Medium |
 | 730 | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [C++](./algorithms/cpp/countDifferentPalindromicSubsequences/countDifferentPalindromicSubsequences.cpp), [Python](./algorithms/python/countDifferentPalindromicSubsequences/countDifferentPalindromicSubsequences.py) | Hard |
 | 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [C++](./algorithms/cpp/myCalendarI/myCalendarI.cpp), [Python](./algorithms/python/myCalendarI/myCalendarI.py) | Medium |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [C++](./algorithms/cpp/selfDividingNumbers/selfDividingNumbers.cpp), [Python](./algorithms/python/selfDividingNumbers/selfDividingNumbers.py) | Easy |
