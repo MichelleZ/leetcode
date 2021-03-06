@@ -3,6 +3,14 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 749 | [Contain Virus](https://leetcode.com/problems/contain-virus/) | [C++](./algorithms/cpp/containVirus/containVirus.cpp), [Python](./algorithms/python/containVirus/containVirus.py) | Hard |
+| 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [C++](./algorithms/cpp/shortestCompletingWord/shortestCompletingWord.cpp), [Python](./algorithms/python/shortestCompletingWord/shortestCompletingWord.py) | Easy |
+| 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [C++](./algorithms/cpp/largestNumberAtLeastTwiceofOthers/largestNumberAtLeastTwiceofOthers.cpp), [Python](./algorithms/python/largestNumberAtLeastTwiceofOthers/largestNumberAtLeastTwiceofOthers.py) | Easy |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](./algorithms/cpp/minCostClimbingStairs/minCostClimbingStairs.cpp), [Python](./algorithms/python/minCostClimbingStairs/minCostClimbingStairs.py) | Easy |
+| 745 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [C++](./algorithms/cpp/prefixandSuffixSearch/prefixandSuffixSearch.cpp), [Python](./algorithms/python/prefixandSuffixSearch/prefixandSuffixSearch.py) | Hard |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [C++](./algorithms/cpp/findSmallestLetterGreaterThanTarget/findSmallestLetterGreaterThanTarget.cpp), [Python](./algorithms/python/findSmallestLetterGreaterThanTarget/findSmallestLetterGreaterThanTarget.py) | Easy |
+| 742 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [C++](./algorithms/cpp/networkDelayTime/networkDelayTime.cpp), [Python](./algorithms/python/networkDelayTime/networkDelayTime.py) | Medium |
+| 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | [C++](./algorithms/cpp/cherryPickup/cherryPickup.cpp), [Python](./algorithms/python/cherryPickup/cherryPickup.py) | Hard |
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [C++](./algorithms/cpp/deleteandEarn/deleteandEarn.cpp), [Python](./algorithms/python/deleteandEarn/deleteandEarn.py) | Medium |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [C++](./algorithms/cpp/dailyTemperatures/dailyTemperatures.cpp), [Python](./algorithms/python/dailyTemperatures/dailyTemperatures.py) | Medium |
 | 738 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | [C++](./algorithms/cpp/monotoneIncreasingDigits/monotoneIncreasingDigits.cpp), [Python](./algorithms/python/monotoneIncreasingDigits/monotoneIncreasingDigits.py) | Medium |
