@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [C++](./algorithms/cpp/setIntersectionSizeAtLeastTwo/setIntersectionSizeAtLeastTwo.cpp), [Python](./algorithms/python/setIntersectionSizeAtLeastTwo/setIntersectionSizeAtLeastTwo.py) | Hard |
+| 756 | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | [C++](./algorithms/cpp/pyramidTransitionMatrix/pyramidTransitionMatrix.cpp), [Python](./algorithms/python/pyramidTransitionMatrix/pyramidTransitionMatrix.py) | Medium |
+| 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [C++](./algorithms/cpp/reachaNumber/reachaNumber.cpp), [Python](./algorithms/python/reachaNumber/reachaNumber.py) | Medium |
+| 753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | [C++](./algorithms/cpp/crackingtheSafe/crackingtheSafe.cpp), [Python](./algorithms/python/crackingtheSafe/crackingtheSafe.py) | Hard |
+| 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [C++](./algorithms/cpp/opentheLock/opentheLock.cpp), [Python](./algorithms/python/opentheLock/opentheLock.py) | Medium |
 | 749 | [Contain Virus](https://leetcode.com/problems/contain-virus/) | [C++](./algorithms/cpp/containVirus/containVirus.cpp), [Python](./algorithms/python/containVirus/containVirus.py) | Hard |
 | 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [C++](./algorithms/cpp/shortestCompletingWord/shortestCompletingWord.cpp), [Python](./algorithms/python/shortestCompletingWord/shortestCompletingWord.py) | Easy |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [C++](./algorithms/cpp/largestNumberAtLeastTwiceofOthers/largestNumberAtLeastTwiceofOthers.cpp), [Python](./algorithms/python/largestNumberAtLeastTwiceofOthers/largestNumberAtLeastTwiceofOthers.py) | Easy |
