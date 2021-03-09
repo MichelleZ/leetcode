@@ -3,6 +3,15 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [C++](./algorithms/cpp/maxChunksToMakeSorted/maxChunksToMakeSorted.cpp), [Python](./algorithms/python/maxChunksToMakeSorted/maxChunksToMakeSorted.py) | Medium |
+| 768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [C++](./algorithms/cpp/maxChunksToMakeSortedII/maxChunksToMakeSortedII.cpp), [Python](./algorithms/python/maxChunksToMakeSortedII/maxChunksToMakeSortedII.py) | Hard |
+| 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [C++](./algorithms/cpp/reorganizeString/reorganizeString.cpp), [Python](./algorithms/python/reorganizeString/reorganizeString.py) | Medium |
+| 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [C++](./algorithms/cpp/toeplitzMatrix/toeplitzMatrix.cpp), [Python](./algorithms/python/toeplitzMatrix/toeplitzMatrix.py) | Easy |
+| 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [C++](./algorithms/cpp/couplesHoldingHands/couplesHoldingHands.cpp), [Python](./algorithms/python/couplesHoldingHands/couplesHoldingHands.py) | Hard |
+| 764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | [C++](./algorithms/cpp/largestPlusSign/largestPlusSign.cpp), [Python](./algorithms/python/largestPlusSign/largestPlusSign.py) | Medium |
+| 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [C++](./algorithms/cpp/partitionLabels/partitionLabels.cpp), [Python](./algorithms/python/partitionLabels/partitionLabels.py) | Medium |
+| 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [C++](./algorithms/cpp/primeNumberofSetBitsinBinaryRepresentation/primeNumberofSetBitsinBinaryRepresentation.cpp), [Python](./algorithms/python/primeNumberofSetBitsinBinaryRepresentation/primeNumberofSetBitsinBinaryRepresentation.py) | Easy |
+| 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [C++](./algorithms/cpp/specialBinaryString/specialBinaryString.cpp), [Python](./algorithms/python/specialBinaryString/specialBinaryString.py) | Hard |
 | 757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [C++](./algorithms/cpp/setIntersectionSizeAtLeastTwo/setIntersectionSizeAtLeastTwo.cpp), [Python](./algorithms/python/setIntersectionSizeAtLeastTwo/setIntersectionSizeAtLeastTwo.py) | Hard |
 | 756 | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | [C++](./algorithms/cpp/pyramidTransitionMatrix/pyramidTransitionMatrix.cpp), [Python](./algorithms/python/pyramidTransitionMatrix/pyramidTransitionMatrix.py) | Medium |
 | 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [C++](./algorithms/cpp/reachaNumber/reachaNumber.cpp), [Python](./algorithms/python/reachaNumber/reachaNumber.py) | Medium |
