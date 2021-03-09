@@ -3,6 +3,12 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [C++](./algorithms/cpp/reachingPoints/reachingPoints.cpp), [Python](./algorithms/python/reachingPoints/reachingPoints.py) | Hard |
+| 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [C++](./algorithms/cpp/swiminRisingWater/swiminRisingWater.cpp), [Python](./algorithms/python/swiminRisingWater/swiminRisingWater.py) | Hard |
+| 777 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | [C++](./algorithms/cpp/swapAdjacentinLRString/swapAdjacentinLRString.cpp), [Python](./algorithms/python/swapAdjacentinLRString/swapAdjacentinLRString.py) | Medium |
+| 775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [C++](./algorithms/cpp/globalandLocalInversions/globalandLocalInversions.cpp), [Python](./algorithms/python/globalandLocalInversions/globalandLocalInversions.py) | Medium |
+| 773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [C++](./algorithms/cpp/slidingPuzzle/slidingPuzzle.cpp), [Python](./algorithms/python/slidingPuzzle/slidingPuzzle.py) | Hard |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](./algorithms/cpp/jewelsandStones/jewelsandStones.cpp), [Python](./algorithms/python/jewelsandStones/jewelsandStones.py) | Easy |
 | 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [C++](./algorithms/cpp/maxChunksToMakeSorted/maxChunksToMakeSorted.cpp), [Python](./algorithms/python/maxChunksToMakeSorted/maxChunksToMakeSorted.py) | Medium |
 | 768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [C++](./algorithms/cpp/maxChunksToMakeSortedII/maxChunksToMakeSortedII.cpp), [Python](./algorithms/python/maxChunksToMakeSortedII/maxChunksToMakeSortedII.py) | Hard |
 | 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [C++](./algorithms/cpp/reorganizeString/reorganizeString.cpp), [Python](./algorithms/python/reorganizeString/reorganizeString.py) | Medium |
