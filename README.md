@@ -3,6 +3,17 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [C++](./algorithms/cpp/dominoandTrominoTiling/dominoandTrominoTiling.cpp), [Python](./algorithms/python/dominoandTrominoTiling/dominoandTrominoTiling.py) | Medium |
+| 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | [C++](./algorithms/cpp/escapeTheGhosts/escapeTheGhosts.cpp), [Python](./algorithms/python/escapeTheGhosts/escapeTheGhosts.py) | Medium |
+| 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | [C++](./algorithms/cpp/rotatedDigits/rotatedDigits.cpp), [Python](./algorithms/python/rotatedDigits/rotatedDigits.py) | Easy |
+| 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [C++](./algorithms/cpp/cheapestFlightsWithinKStops/cheapestFlightsWithinKStops.cpp), [Python](./algorithms/python/cheapestFlightsWithinKStops/cheapestFlightsWithinKStops.py) | Medium |
+| 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [C++](./algorithms/cpp/k-thSmallestPrimeFraction/k-thSmallestPrimeFraction.cpp), [Python](./algorithms/python/k-thSmallestPrimeFraction/k-thSmallestPrimeFraction.py) | Hard |
+| 785 | [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) | [C++](./algorithms/cpp/isGraphBipartite/isGraphBipartite.cpp), [Python](./algorithms/python/isGraphBipartite/isGraphBipartite.py) | Medium |
+| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [C++](./algorithms/cpp/letterCasePermutation/letterCasePermutation.cpp), [Python](./algorithms/python/letterCasePermutation/letterCasePermutation.py) | Medium |
+| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [C++](./algorithms/cpp/minimumDistanceBetweenBSTNodes/minimumDistanceBetweenBSTNodes.cpp), [Python](./algorithms/python/minimumDistanceBetweenBSTNodes/minimumDistanceBetweenBSTNodes.py) | Easy |
+| 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [C++](./algorithms/cpp/transformtoChessboard/transformtoChessboard.cpp), [Python](./algorithms/python/transformtoChessboard/transformtoChessboard.py) | Hard |
+| 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | [C++](./algorithms/cpp/rabbitsinForest/rabbitsinForest.cpp), [Python](./algorithms/python/rabbitsinForest/rabbitsinForest.py) | Medium |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [C++](./algorithms/cpp/reachingPoints/reachingPoints.cpp), [Python](./algorithms/python/reachingPoints/reachingPoints.py) | Hard |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [C++](./algorithms/cpp/swiminRisingWater/swiminRisingWater.cpp), [Python](./algorithms/python/swiminRisingWater/swiminRisingWater.py) | Hard |
 | 777 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | [C++](./algorithms/cpp/swapAdjacentinLRString/swapAdjacentinLRString.cpp), [Python](./algorithms/python/swapAdjacentinLRString/swapAdjacentinLRString.py) | Medium |
