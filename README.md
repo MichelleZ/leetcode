@@ -4,6 +4,12 @@
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | [C++](./algorithms/cpp/busRoutes/busRoutes.cpp), [Python](./algorithms/python/busRoutes/busRoutes.py) | Hard |
+| 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [C++](./algorithms/cpp/binaryTreePruning/binaryTreePruning.cpp), [Python](./algorithms/python/binaryTreePruning/binaryTreePruning.py) | Medium |
+| 813 | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/) | [C++](./algorithms/cpp/largestSumofAverages/largestSumofAverages.cpp), [Python](./algorithms/python/largestSumofAverages/largestSumofAverages.py) | Medium |
+| 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [C++](./algorithms/cpp/largestTriangleArea/largestTriangleArea.cpp), [Python](./algorithms/python/largestTriangleArea/largestTriangleArea.py) | Easy |
+| 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [C++](./algorithms/cpp/subdomainVisitCount/subdomainVisitCount.cpp), [Python](./algorithms/python/subdomainVisitCount/subdomainVisitCount.py) | Easy |
+| 810 | [Chalkboard Xor Game](https://leetcode.com/problems/chalkboard-xor-game/) | [C++](./algorithms/cpp/chalkboardXORGame/chalkboardXORGame.cpp), [Python](./algorithms/python/chalkboardXORGame/chalkboardXORGame.py) | Hard |
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [C++](./algorithms/cpp/expressiveWords/expressiveWords.cpp), [Python](./algorithms/python/expressiveWords/expressiveWords.py) | Medium |
 | 808 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | [C++](./algorithms/cpp/soupServings/soupServings.cpp), [Python](./algorithms/python/soupServings/soupServings.py) | Medium |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [C++](./algorithms/cpp/maxIncreasetoKeepCitySkyline/maxIncreasetoKeepCitySkyline.cpp), [Python](./algorithms/python/maxIncreasetoKeepCitySkyline/maxIncreasetoKeepCitySkyline.py) | Medium |
