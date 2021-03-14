@@ -4,6 +4,11 @@
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [C++](./algorithms/cpp/shortEncodingofWords/shortEncodingofWords.cpp), [Python](./algorithms/python/shortEncodingofWords/shortEncodingofWords.py) | Medium |
+| 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [C++](./algorithms/cpp/mostCommonWord/mostCommonWord.cpp), [Python](./algorithms/python/mostCommonWord/mostCommonWord.py) | Easy |
+| 818 | [Race Car](https://leetcode.com/problems/race-car/) | [C++](./algorithms/cpp/raceCar/raceCar.cpp), [Python](./algorithms/python/raceCar/raceCar.py) | Hard |
+| 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [C++](./algorithms/cpp/linkedListComponents/linkedListComponents.cpp), [Python](./algorithms/python/linkedListComponents/linkedListComponents.py) | Medium |
+| 816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | [C++](./algorithms/cpp/ambiguousCoordinates/ambiguousCoordinates.cpp), [Python](./algorithms/python/ambiguousCoordinates/ambiguousCoordinates.py) | Medium |
 | 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | [C++](./algorithms/cpp/busRoutes/busRoutes.cpp), [Python](./algorithms/python/busRoutes/busRoutes.py) | Hard |
 | 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [C++](./algorithms/cpp/binaryTreePruning/binaryTreePruning.cpp), [Python](./algorithms/python/binaryTreePruning/binaryTreePruning.py) | Medium |
 | 813 | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/) | [C++](./algorithms/cpp/largestSumofAverages/largestSumofAverages.cpp), [Python](./algorithms/python/largestSumofAverages/largestSumofAverages.py) | Medium |
