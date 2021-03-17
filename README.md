@@ -4,6 +4,8 @@
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) | [C++](./algorithms/cpp/magicSquaresInGrid/magicSquaresInGrid.cpp), [Python](./algorithms/python/magicSquaresInGrid/magicSquaresInGrid.py) | Medium |
+| 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [C++](./algorithms/cpp/similarStringGroups/similarStringGroups.cpp), [Python](./algorithms/python/similarStringGroups/similarStringGroups.py) | Hard |
 | 838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [C++](./algorithms/cpp/pushDominoes/pushDominoes.cpp), [Python](./algorithms/python/pushDominoes/pushDominoes.py) | Medium |
 | 837 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | [C++](./algorithms/cpp/new21Game/new21Game.cpp), [Python](./algorithms/python/new21Game/new21Game.py) | Medium |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [C++](./algorithms/cpp/rectangleOverlap/rectangleOverlap.cpp), [Python](./algorithms/python/rectangleOverlap/rectangleOverlap.py) | Easy |
