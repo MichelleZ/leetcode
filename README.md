@@ -4,6 +4,10 @@
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [C++](./algorithms/cpp/maximizeDistancetoClosestPerson/maximizeDistancetoClosestPerson.cpp), [Python](./algorithms/python/maximizeDistancetoClosestPerson/maximizeDistancetoClosestPerson.py) | Medium |
+| 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [C++](./algorithms/cpp/shiftingLetters/shiftingLetters.cpp), [Python](./algorithms/python/shiftingLetters/shiftingLetters.py) | Medium |
+| 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [C++](./algorithms/cpp/shortestPathVisitingAllNodes/shortestPathVisitingAllNodes.cpp), [Python](./algorithms/python/shortestPathVisitingAllNodes/shortestPathVisitingAllNodes.py) | Hard |
+| 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [C++](./algorithms/cpp/handofStraights/handofStraights.cpp), [Python](./algorithms/python/handofStraights/handofStraights.py) | Medium |
 | 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [C++](./algorithms/cpp/longestMountaininArray/longestMountaininArray.cpp), [Python](./algorithms/python/longestMountaininArray/longestMountaininArray.py) | Medium |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [C++](./algorithms/cpp/backspaceStringCompare/backspaceStringCompare.cpp), [Python](./algorithms/python/backspaceStringCompare/backspaceStringCompare.py) | Easy |
 | 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | [C++](./algorithms/cpp/guesstheWord/guesstheWord.cpp), [Python](./algorithms/python/guesstheWord/guesstheWord.py) | Hard |
