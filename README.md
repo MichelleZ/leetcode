@@ -4,6 +4,11 @@
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [C++](./algorithms/cpp/longestMountaininArray/longestMountaininArray.cpp), [Python](./algorithms/python/longestMountaininArray/longestMountaininArray.py) | Medium |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [C++](./algorithms/cpp/backspaceStringCompare/backspaceStringCompare.cpp), [Python](./algorithms/python/backspaceStringCompare/backspaceStringCompare.py) | Easy |
+| 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | [C++](./algorithms/cpp/guesstheWord/guesstheWord.cpp), [Python](./algorithms/python/guesstheWord/guesstheWord.py) | Hard |
+| 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [C++](./algorithms/cpp/splitArrayintoFibonacciSequence/splitArrayintoFibonacciSequence.cpp), [Python](./algorithms/python/splitArrayintoFibonacciSequence/splitArrayintoFibonacciSequence.py) | Medium |
+| 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [C++](./algorithms/cpp/keysandRooms/keysandRooms.cpp), [Python](./algorithms/python/keysandRooms/keysandRooms.py) | Medium |
 | 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) | [C++](./algorithms/cpp/magicSquaresInGrid/magicSquaresInGrid.cpp), [Python](./algorithms/python/magicSquaresInGrid/magicSquaresInGrid.py) | Medium |
 | 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [C++](./algorithms/cpp/similarStringGroups/similarStringGroups.cpp), [Python](./algorithms/python/similarStringGroups/similarStringGroups.py) | Hard |
 | 838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [C++](./algorithms/cpp/pushDominoes/pushDominoes.cpp), [Python](./algorithms/python/pushDominoes/pushDominoes.py) | Medium |
