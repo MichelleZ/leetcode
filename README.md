@@ -4,6 +4,16 @@
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [C++](./algorithms/cpp/lemonadeChange/lemonadeChange.cpp), [Python](./algorithms/python/lemonadeChange/lemonadeChange.py) | Easy |
+| 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [C++](./algorithms/cpp/buddyStrings/buddyStrings.cpp), [Python](./algorithms/python/buddyStrings/buddyStrings.py) | Easy |
+| 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | [C++](./algorithms/cpp/mirrorReflection/mirrorReflection.cpp), [Python](./algorithms/python/mirrorReflection/mirrorReflection.py) | Medium |
+| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [C++](./algorithms/cpp/minimumCosttoHireKWorkers/minimumCosttoHireKWorkers.cpp), [Python](./algorithms/python/minimumCosttoHireKWorkers/minimumCosttoHireKWorkers.py) | Hard |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [C++](./algorithms/cpp/scoreofParentheses/scoreofParentheses.cpp), [Python](./algorithms/python/scoreofParentheses/scoreofParentheses.py) | Medium |
+| 855 | [Exam Room](https://leetcode.com/problems/exam-room/) | [C++](./algorithms/cpp/examRoom/examRoom.cpp), [Python](./algorithms/python/examRoom/examRoom.py) | Medium |
+| 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | [C++](./algorithms/cpp/k-SimilarStrings/k-SimilarStrings.cpp), [Python](./algorithms/python/k-SimilarStrings/k-SimilarStrings.py) | Hard |
+| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [C++](./algorithms/cpp/carFleet/carFleet.cpp), [Python](./algorithms/python/carFleet/carFleet.py) | Medium |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [C++](./algorithms/cpp/peakIndexinaMountainArray/peakIndexinaMountainArray.cpp), [Python](./algorithms/python/peakIndexinaMountainArray/peakIndexinaMountainArray.py) | Easy |
+| 851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | [C++](./algorithms/cpp/loudandRich/loudandRich.cpp), [Python](./algorithms/python/loudandRich/loudandRich.py) | Medium |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [C++](./algorithms/cpp/rectangleAreaII/rectangleAreaII.cpp), [Python](./algorithms/python/rectangleAreaII/rectangleAreaII.py) | Hard |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [C++](./algorithms/cpp/maximizeDistancetoClosestPerson/maximizeDistancetoClosestPerson.cpp), [Python](./algorithms/python/maximizeDistancetoClosestPerson/maximizeDistancetoClosestPerson.py) | Medium |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [C++](./algorithms/cpp/shiftingLetters/shiftingLetters.cpp), [Python](./algorithms/python/shiftingLetters/shiftingLetters.py) | Medium |
