@@ -4,6 +4,7 @@
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [C++](./algorithms/cpp/rectangleAreaII/rectangleAreaII.cpp), [Python](./algorithms/python/rectangleAreaII/rectangleAreaII.py) | Hard |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [C++](./algorithms/cpp/maximizeDistancetoClosestPerson/maximizeDistancetoClosestPerson.cpp), [Python](./algorithms/python/maximizeDistancetoClosestPerson/maximizeDistancetoClosestPerson.py) | Medium |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [C++](./algorithms/cpp/shiftingLetters/shiftingLetters.cpp), [Python](./algorithms/python/shiftingLetters/shiftingLetters.py) | Medium |
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [C++](./algorithms/cpp/shortestPathVisitingAllNodes/shortestPathVisitingAllNodes.cpp), [Python](./algorithms/python/shortestPathVisitingAllNodes/shortestPathVisitingAllNodes.py) | Hard |
