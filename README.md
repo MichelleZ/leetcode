@@ -4,6 +4,11 @@
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [C++](./algorithms/cpp/advantageShuffle/advantageShuffle.cpp), [Python](./algorithms/python/advantageShuffle/advantageShuffle.py) | Medium |
+| 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [C++](./algorithms/cpp/reorderedPowerof2/reorderedPowerof2.cpp), [Python](./algorithms/python/reorderedPowerof2/reorderedPowerof2.py) | Medium |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [C++](./algorithms/cpp/binaryGap/binaryGap.cpp), [Python](./algorithms/python/binaryGap/binaryGap.py) | Easy |
+| 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [C++](./algorithms/cpp/transposeMatrix/transposeMatrix.cpp), [Python](./algorithms/python/transposeMatrix/transposeMatrix.py) | Easy |
+| 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/) | [C++](./algorithms/cpp/primePalindrome/primePalindrome.cpp), [Python](./algorithms/python/primePalindrome/primePalindrome.py) | Medium |
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [C++](./algorithms/cpp/smallestSubtreewithalltheDeepestNodes/smallestSubtreewithalltheDeepestNodes.cpp), [Python](./algorithms/python/smallestSubtreewithalltheDeepestNodes/smallestSubtreewithalltheDeepestNodes.py) | Medium |
 | 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | [C++](./algorithms/cpp/shortestPathtoGetAllKeys/shortestPathtoGetAllKeys.cpp), [Python](./algorithms/python/shortestPathtoGetAllKeys/shortestPathtoGetAllKeys.py) | Hard |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [C++](./algorithms/cpp/allNodesDistanceKinBinaryTree/allNodesDistanceKinBinaryTree.cpp), [Python](./algorithms/python/allNodesDistanceKinBinaryTree/allNodesDistanceKinBinaryTree.py) | Medium |
