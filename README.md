@@ -4,6 +4,11 @@
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [C++](./algorithms/cpp/kokoEatingBananas/kokoEatingBananas.cpp), [Python](./algorithms/python/kokoEatingBananas/kokoEatingBananas.py) | Medium |
+| 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [C++](./algorithms/cpp/walkingRobotSimulation/walkingRobotSimulation.cpp), [Python](./algorithms/python/walkingRobotSimulation/walkingRobotSimulation.py) | Easy |
+| 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [C++](./algorithms/cpp/lengthofLongestFibonacciSubsequence/lengthofLongestFibonacciSubsequence.cpp), [Python](./algorithms/python/lengthofLongestFibonacciSubsequence/lengthofLongestFibonacciSubsequence.py) | Medium |
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](./algorithms/cpp/leaf-SimilarTrees/leaf-SimilarTrees.cpp), [Python](./algorithms/python/leaf-SimilarTrees/leaf-SimilarTrees.py) | Easy |
+| 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [C++](./algorithms/cpp/minimumNumberofRefuelingStops/minimumNumberofRefuelingStops.cpp), [Python](./algorithms/python/minimumNumberofRefuelingStops/minimumNumberofRefuelingStops.py) | Hard |
 | 870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [C++](./algorithms/cpp/advantageShuffle/advantageShuffle.cpp), [Python](./algorithms/python/advantageShuffle/advantageShuffle.py) | Medium |
 | 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [C++](./algorithms/cpp/reorderedPowerof2/reorderedPowerof2.cpp), [Python](./algorithms/python/reorderedPowerof2/reorderedPowerof2.py) | Medium |
 | 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [C++](./algorithms/cpp/binaryGap/binaryGap.cpp), [Python](./algorithms/python/binaryGap/binaryGap.py) | Easy |
