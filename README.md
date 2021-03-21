@@ -4,6 +4,11 @@
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [C++](./algorithms/cpp/decodedStringatIndex/decodedStringatIndex.cpp), [Python](./algorithms/python/decodedStringatIndex/decodedStringatIndex.py) | Medium |
+| 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | [C++](./algorithms/cpp/profitableSchemes/profitableSchemes.cpp), [Python](./algorithms/python/profitableSchemes/profitableSchemes.py) | Hard |
+| 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | [C++](./algorithms/cpp/nthMagicalNumber/nthMagicalNumber.cpp), [Python](./algorithms/python/nthMagicalNumber/nthMagicalNumber.py) | Hard |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [C++](./algorithms/cpp/stoneGame/stoneGame.cpp), [Python](./algorithms/python/stoneGame/stoneGame.py) | Medium |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./algorithms/cpp/middleoftheLinkedList/middleoftheLinkedList.cpp), [Python](./algorithms/python/middleoftheLinkedList/middleoftheLinkedList.py) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [C++](./algorithms/cpp/kokoEatingBananas/kokoEatingBananas.cpp), [Python](./algorithms/python/kokoEatingBananas/kokoEatingBananas.py) | Medium |
 | 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [C++](./algorithms/cpp/walkingRobotSimulation/walkingRobotSimulation.cpp), [Python](./algorithms/python/walkingRobotSimulation/walkingRobotSimulation.py) | Easy |
 | 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [C++](./algorithms/cpp/lengthofLongestFibonacciSubsequence/lengthofLongestFibonacciSubsequence.cpp), [Python](./algorithms/python/lengthofLongestFibonacciSubsequence/lengthofLongestFibonacciSubsequence.py) | Medium |
