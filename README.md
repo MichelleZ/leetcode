@@ -4,6 +4,11 @@
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
+| 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | [C++](./algorithms/cpp/spiralMatrixIII/spiralMatrixIII.cpp), [Python](./algorithms/python/spiralMatrixIII/spiralMatrixIII.py) | Medium |
+| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [C++](./algorithms/cpp/uncommonWordsfromTwoSentences/uncommonWordsfromTwoSentences.cpp), [Python](./algorithms/python/uncommonWordsfromTwoSentences/uncommonWordsfromTwoSentences.py) | Easy |
+| 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [C++](./algorithms/cpp/projectionAreaof3DShapes/projectionAreaof3DShapes.cpp), [Python](./algorithms/python/projectionAreaof3DShapes/projectionAreaof3DShapes.py) | Easy |
+| 882 | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | [C++](./algorithms/cpp/reachableNodesInSubdividedGraph/reachableNodesInSubdividedGraph.cpp), [Python](./algorithms/python/reachableNodesInSubdividedGraph/reachableNodesInSubdividedGraph.py) | Hard |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [C++](./algorithms/cpp/boatstoSavePeople/boatstoSavePeople.cpp), [Python](./algorithms/python/boatstoSavePeople/boatstoSavePeople.py) | Medium |
 | 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [C++](./algorithms/cpp/decodedStringatIndex/decodedStringatIndex.cpp), [Python](./algorithms/python/decodedStringatIndex/decodedStringatIndex.py) | Medium |
 | 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | [C++](./algorithms/cpp/profitableSchemes/profitableSchemes.cpp), [Python](./algorithms/python/profitableSchemes/profitableSchemes.py) | Hard |
 | 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | [C++](./algorithms/cpp/nthMagicalNumber/nthMagicalNumber.cpp), [Python](./algorithms/python/nthMagicalNumber/nthMagicalNumber.py) | Hard |
