@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [C++](./algorithms/cpp/maximumFrequencyStack/maximumFrequencyStack.cpp), [Python](./algorithms/python/maximumFrequencyStack/maximumFrequencyStack.py) | Hard |
+| 894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [C++](./algorithms/cpp/allPossibleFullBinaryTrees/allPossibleFullBinaryTrees.cpp), [Python](./algorithms/python/allPossibleFullBinaryTrees/allPossibleFullBinaryTrees.py) | Medium |
+| 893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [C++](./algorithms/cpp/groupsofSpecial-EquivalentStrings/groupsofSpecial-EquivalentStrings.cpp), [Python](./algorithms/python/groupsofSpecial-EquivalentStrings/groupsofSpecial-EquivalentStrings.py) | Easy |
+| 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) | [C++](./algorithms/cpp/surfaceAreaof3DShapes/surfaceAreaof3DShapes.cpp), [Python](./algorithms/python/surfaceAreaof3DShapes/surfaceAreaof3DShapes.py) | Easy |
+| 891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/) | [C++](./algorithms/cpp/sumofSubsequenceWidths/sumofSubsequenceWidths.cpp), [Python](./algorithms/python/sumofSubsequenceWidths/sumofSubsequenceWidths.py) | Hard |
 | 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [C++](./algorithms/cpp/findandReplacePattern/findandReplacePattern.cpp), [Python](./algorithms/python/findandReplacePattern/findandReplacePattern.py) | Medium |
 | 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [C++](./algorithms/cpp/constructBinaryTreefromPreorderandPostorderTraversal/constructBinaryTreefromPreorderandPostorderTraversal.cpp), [Python](./algorithms/python/constructBinaryTreefromPreorderandPostorderTraversal/constructBinaryTreefromPreorderandPostorderTraversal.py) | Medium |
 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [C++](./algorithms/cpp/fairCandySwap/fairCandySwap.cpp), [Python](./algorithms/python/fairCandySwap/fairCandySwap.py) | Easy |
