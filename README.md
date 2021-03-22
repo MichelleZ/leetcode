@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [C++](./algorithms/cpp/findandReplacePattern/findandReplacePattern.cpp), [Python](./algorithms/python/findandReplacePattern/findandReplacePattern.py) | Medium |
+| 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [C++](./algorithms/cpp/constructBinaryTreefromPreorderandPostorderTraversal/constructBinaryTreefromPreorderandPostorderTraversal.cpp), [Python](./algorithms/python/constructBinaryTreefromPreorderandPostorderTraversal/constructBinaryTreefromPreorderandPostorderTraversal.py) | Medium |
+| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [C++](./algorithms/cpp/fairCandySwap/fairCandySwap.cpp), [Python](./algorithms/python/fairCandySwap/fairCandySwap.py) | Easy |
+| 887 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | [C++](./algorithms/cpp/superEggDrop/superEggDrop.cpp), [Python](./algorithms/python/superEggDrop/superEggDrop.py) | Hard |
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/possibleBipartition/possibleBipartition.cpp), [Python](./algorithms/python/possibleBipartition/possibleBipartition.py) | Medium |
 | 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | [C++](./algorithms/cpp/spiralMatrixIII/spiralMatrixIII.cpp), [Python](./algorithms/python/spiralMatrixIII/spiralMatrixIII.py) | Medium |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [C++](./algorithms/cpp/uncommonWordsfromTwoSentences/uncommonWordsfromTwoSentences.cpp), [Python](./algorithms/python/uncommonWordsfromTwoSentences/uncommonWordsfromTwoSentences.py) | Easy |
