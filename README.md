@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [C++](./algorithms/cpp/smallestRangeII/smallestRangeII.cpp), [Python](./algorithms/python/smallestRangeII/smallestRangeII.py) | Medium |
+| 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [C++](./algorithms/cpp/snakesandLadders/snakesandLadders.cpp), [Python](./algorithms/python/snakesandLadders/snakesandLadders.py) | Medium |
+| 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/) | [C++](./algorithms/cpp/smallestRangeI/smallestRangeI.cpp), [Python](./algorithms/python/smallestRangeI/smallestRangeI.py) | Easy |
+| 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [C++](./algorithms/cpp/sumofSubarrayMinimums/sumofSubarrayMinimums.cpp), [Python](./algorithms/python/sumofSubarrayMinimums/sumofSubarrayMinimums.py) | Medium |
 | 906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | [C++](./algorithms/cpp/superPalindromes/superPalindromes.cpp), [Python](./algorithms/python/superPalindromes/superPalindromes.py) | Hard |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./algorithms/cpp/sortArrayByParity/sortArrayByParity.cpp), [Python](./algorithms/python/sortArrayByParity/sortArrayByParity.py) | Easy |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [C++](./algorithms/cpp/fruitIntoBaskets/fruitIntoBaskets.cpp), [Python](./algorithms/python/fruitIntoBaskets/fruitIntoBaskets.py) | Medium |
