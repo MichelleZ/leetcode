@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/) | [C++](./algorithms/cpp/rLEIterator/rLEIterator.cpp), [Python](./algorithms/python/rLEIterator/rLEIterator.py) | Medium |
+| 899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue/) | [C++](./algorithms/cpp/orderlyQueue/orderlyQueue.cpp), [Python](./algorithms/python/orderlyQueue/orderlyQueue.py) | Hard |
+| 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [C++](./algorithms/cpp/bitwiseORsofSubarrays/bitwiseORsofSubarrays.cpp), [Python](./algorithms/python/bitwiseORsofSubarrays/bitwiseORsofSubarrays.py) | Medium |
+| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [C++](./algorithms/cpp/increasingOrderSearchTree/increasingOrderSearchTree.cpp), [Python](./algorithms/python/increasingOrderSearchTree/increasingOrderSearchTree.py) | Easy |
+| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [C++](./algorithms/cpp/monotonicArray/monotonicArray.cpp), [Python](./algorithms/python/monotonicArray/monotonicArray.py) | Easy |
 | 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [C++](./algorithms/cpp/maximumFrequencyStack/maximumFrequencyStack.cpp), [Python](./algorithms/python/maximumFrequencyStack/maximumFrequencyStack.py) | Hard |
 | 894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [C++](./algorithms/cpp/allPossibleFullBinaryTrees/allPossibleFullBinaryTrees.cpp), [Python](./algorithms/python/allPossibleFullBinaryTrees/allPossibleFullBinaryTrees.py) | Medium |
 | 893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [C++](./algorithms/cpp/groupsofSpecial-EquivalentStrings/groupsofSpecial-EquivalentStrings.cpp), [Python](./algorithms/python/groupsofSpecial-EquivalentStrings/groupsofSpecial-EquivalentStrings.py) | Easy |
