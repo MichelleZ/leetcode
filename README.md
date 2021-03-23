@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | [C++](./algorithms/cpp/superPalindromes/superPalindromes.cpp), [Python](./algorithms/python/superPalindromes/superPalindromes.py) | Hard |
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./algorithms/cpp/sortArrayByParity/sortArrayByParity.cpp), [Python](./algorithms/python/sortArrayByParity/sortArrayByParity.py) | Easy |
+| 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [C++](./algorithms/cpp/fruitIntoBaskets/fruitIntoBaskets.cpp), [Python](./algorithms/python/fruitIntoBaskets/fruitIntoBaskets.py) | Medium |
+| 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | [C++](./algorithms/cpp/numbersAtMostNGivenDigitSet/numbersAtMostNGivenDigitSet.cpp), [Python](./algorithms/python/numbersAtMostNGivenDigitSet/numbersAtMostNGivenDigitSet.py) | Hard |
+| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [C++](./algorithms/cpp/onlineStockSpan/onlineStockSpan.cpp), [Python](./algorithms/python/onlineStockSpan/onlineStockSpan.py) | Medium |
 | 900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/) | [C++](./algorithms/cpp/rLEIterator/rLEIterator.cpp), [Python](./algorithms/python/rLEIterator/rLEIterator.py) | Medium |
 | 899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue/) | [C++](./algorithms/cpp/orderlyQueue/orderlyQueue.cpp), [Python](./algorithms/python/orderlyQueue/orderlyQueue.py) | Hard |
 | 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [C++](./algorithms/cpp/bitwiseORsofSubarrays/bitwiseORsofSubarrays.cpp), [Python](./algorithms/python/bitwiseORsofSubarrays/bitwiseORsofSubarrays.py) | Medium |
