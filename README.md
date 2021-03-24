@@ -3,6 +3,16 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | [C++](./algorithms/cpp/numberofMusicPlaylists/numberofMusicPlaylists.cpp), [Python](./algorithms/python/numberofMusicPlaylists/numberofMusicPlaylists.py) | Hard |
+| 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/) | [C++](./algorithms/cpp/completeBinaryTreeInserter/completeBinaryTreeInserter.cpp), [Python](./algorithms/python/completeBinaryTreeInserter/completeBinaryTreeInserter.py) | Medium |
+| 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [C++](./algorithms/cpp/maximumSumCircularSubarray/maximumSumCircularSubarray.cpp), [Python](./algorithms/python/maximumSumCircularSubarray/maximumSumCircularSubarray.py) | Medium |
+| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [C++](./algorithms/cpp/reverseOnlyLetters/reverseOnlyLetters.cpp), [Python](./algorithms/python/reverseOnlyLetters/reverseOnlyLetters.py) | Easy |
+| 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [C++](./algorithms/cpp/wordSubsets/wordSubsets.cpp), [Python](./algorithms/python/wordSubsets/wordSubsets.py) | Medium |
+| 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [C++](./algorithms/cpp/partitionArrayintoDisjointIntervals/partitionArrayintoDisjointIntervals.cpp), [Python](./algorithms/python/partitionArrayintoDisjointIntervals/partitionArrayintoDisjointIntervals.py) | Medium |
+| 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [C++](./algorithms/cpp/xofaKindinaDeckofCards/xofaKindinaDeckofCards.cpp), [Python](./algorithms/python/xofaKindinaDeckofCards/xofaKindinaDeckofCards.py) | Easy |
+| 913 | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/) | [C++](./algorithms/cpp/catandMouse/catandMouse.cpp), [Python](./algorithms/python/catandMouse/catandMouse.py) | Hard |
+| 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C++](./algorithms/cpp/sortanArray/sortanArray.cpp), [Python](./algorithms/python/sortanArray/sortanArray.py) | Medium |
+| 911 | [Online Election](https://leetcode.com/problems/online-election/) | [C++](./algorithms/cpp/onlineElection/onlineElection.cpp), [Python](./algorithms/python/onlineElection/onlineElection.py) | Medium |
 | 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [C++](./algorithms/cpp/smallestRangeII/smallestRangeII.cpp), [Python](./algorithms/python/smallestRangeII/smallestRangeII.py) | Medium |
 | 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [C++](./algorithms/cpp/snakesandLadders/snakesandLadders.cpp), [Python](./algorithms/python/snakesandLadders/snakesandLadders.py) | Medium |
 | 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/) | [C++](./algorithms/cpp/smallestRangeI/smallestRangeI.cpp), [Python](./algorithms/python/smallestRangeI/smallestRangeI.py) | Easy |
