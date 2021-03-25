@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [C++](./algorithms/cpp/longPressedName/longPressedName.cpp), [Python](./algorithms/python/longPressedName/longPressedName.py) | Easy |
+| 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [C++](./algorithms/cpp/minimizeMalwareSpread/minimizeMalwareSpread.cpp), [Python](./algorithms/python/minimizeMalwareSpread/minimizeMalwareSpread.py) | Hard |
+| 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [C++](./algorithms/cpp/3SumWithMultiplicity/3SumWithMultiplicity.cpp), [Python](./algorithms/python/3SumWithMultiplicity/3SumWithMultiplicity.py) | Medium |
+| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [C++](./algorithms/cpp/sortArrayByParityII/sortArrayByParityII.cpp), [Python](./algorithms/python/sortArrayByParityII/sortArrayByParityII.py) | Easy |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [C++](./algorithms/cpp/minimumAddtoMakeParenthesesValid/minimumAddtoMakeParenthesesValid.cpp), [Python](./algorithms/python/minimumAddtoMakeParenthesesValid/minimumAddtoMakeParenthesesValid.py) | Medium |
 | 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | [C++](./algorithms/cpp/numberofMusicPlaylists/numberofMusicPlaylists.cpp), [Python](./algorithms/python/numberofMusicPlaylists/numberofMusicPlaylists.py) | Hard |
 | 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/) | [C++](./algorithms/cpp/completeBinaryTreeInserter/completeBinaryTreeInserter.cpp), [Python](./algorithms/python/completeBinaryTreeInserter/completeBinaryTreeInserter.py) | Medium |
 | 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [C++](./algorithms/cpp/maximumSumCircularSubarray/maximumSumCircularSubarray.cpp), [Python](./algorithms/python/maximumSumCircularSubarray/maximumSumCircularSubarray.py) | Medium |
