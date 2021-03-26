@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | [C++](./algorithms/cpp/distinctSubsequencesII/distinctSubsequencesII.cpp), [Python](./algorithms/python/distinctSubsequencesII/distinctSubsequencesII.py) | Hard |
+| 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [C++](./algorithms/cpp/minimumAreaRectangle/minimumAreaRectangle.cpp), [Python](./algorithms/python/minimumAreaRectangle/minimumAreaRectangle.py) | Medium |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](./algorithms/cpp/rangeSumofBST/rangeSumofBST.cpp), [Python](./algorithms/python/rangeSumofBST/rangeSumofBST.py) | Easy |
+| 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [C++](./algorithms/cpp/reorderDatainLogFiles/reorderDatainLogFiles.cpp), [Python](./algorithms/python/reorderDatainLogFiles/reorderDatainLogFiles.py) | Easy |
+| 936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [C++](./algorithms/cpp/stampingTheSequence/stampingTheSequence.cpp), [Python](./algorithms/python/stampingTheSequence/stampingTheSequence.py) | Hard |
 | 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [C++](./algorithms/cpp/knightDialer/knightDialer.cpp), [Python](./algorithms/python/knightDialer/knightDialer.py) | Medium |
 | 934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [C++](./algorithms/cpp/shortestBridge/shortestBridge.cpp), [Python](./algorithms/python/shortestBridge/shortestBridge.py) | Medium |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](./algorithms/cpp/numberofRecentCalls/numberofRecentCalls.cpp), [Python](./algorithms/python/numberofRecentCalls/numberofRecentCalls.py) | Easy |
