@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [C++](./algorithms/cpp/knightDialer/knightDialer.cpp), [Python](./algorithms/python/knightDialer/knightDialer.py) | Medium |
+| 934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [C++](./algorithms/cpp/shortestBridge/shortestBridge.cpp), [Python](./algorithms/python/shortestBridge/shortestBridge.py) | Medium |
+| 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](./algorithms/cpp/numberofRecentCalls/numberofRecentCalls.cpp), [Python](./algorithms/python/numberofRecentCalls/numberofRecentCalls.py) | Easy |
+| 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | [C++](./algorithms/cpp/beautifulArray/beautifulArray.cpp), [Python](./algorithms/python/beautifulArray/beautifulArray.py) | Medium |
+| 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](./algorithms/cpp/minimumFallingPathSum/minimumFallingPathSum.cpp), [Python](./algorithms/python/minimumFallingPathSum/minimumFallingPathSum.py) | Medium |
 | 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [C++](./algorithms/cpp/binarySubarraysWithSum/binarySubarraysWithSum.cpp), [Python](./algorithms/python/binarySubarraysWithSum/binarySubarraysWithSum.py) | Medium |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./algorithms/cpp/uniqueEmailAddresses/uniqueEmailAddresses.cpp), [Python](./algorithms/python/uniqueEmailAddresses/uniqueEmailAddresses.py) | Easy |
 | 928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) | [C++](./algorithms/cpp/minimizeMalwareSpreadII/minimizeMalwareSpreadII.cpp), [Python](./algorithms/python/minimizeMalwareSpreadII/minimizeMalwareSpreadII.py) | Hard |
