@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [C++](./algorithms/cpp/binarySubarraysWithSum/binarySubarraysWithSum.cpp), [Python](./algorithms/python/binarySubarraysWithSum/binarySubarraysWithSum.py) | Medium |
+| 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./algorithms/cpp/uniqueEmailAddresses/uniqueEmailAddresses.cpp), [Python](./algorithms/python/uniqueEmailAddresses/uniqueEmailAddresses.py) | Easy |
+| 928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) | [C++](./algorithms/cpp/minimizeMalwareSpreadII/minimizeMalwareSpreadII.cpp), [Python](./algorithms/python/minimizeMalwareSpreadII/minimizeMalwareSpreadII.py) | Hard |
+| 927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | [C++](./algorithms/cpp/threeEqualParts/threeEqualParts.cpp), [Python](./algorithms/python/threeEqualParts/threeEqualParts.py) | Hard |
+| 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | [C++](./algorithms/cpp/flipStringtoMonotoneIncreasing/flipStringtoMonotoneIncreasing.cpp), [Python](./algorithms/python/flipStringtoMonotoneIncreasing/flipStringtoMonotoneIncreasing.py) | Medium |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [C++](./algorithms/cpp/longPressedName/longPressedName.cpp), [Python](./algorithms/python/longPressedName/longPressedName.py) | Easy |
 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [C++](./algorithms/cpp/minimizeMalwareSpread/minimizeMalwareSpread.cpp), [Python](./algorithms/python/minimizeMalwareSpread/minimizeMalwareSpread.py) | Hard |
 | 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [C++](./algorithms/cpp/3SumWithMultiplicity/3SumWithMultiplicity.cpp), [Python](./algorithms/python/3SumWithMultiplicity/3SumWithMultiplicity.py) | Medium |
