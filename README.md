@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [C++](./algorithms/cpp/minimumIncrementtoMakeArrayUnique/minimumIncrementtoMakeArrayUnique.cpp), [Python](./algorithms/python/minimumIncrementtoMakeArrayUnique/minimumIncrementtoMakeArrayUnique.py) | Medium |
+| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [C++](./algorithms/cpp/deleteColumnstoMakeSorted/deleteColumnstoMakeSorted.cpp), [Python](./algorithms/python/deleteColumnstoMakeSorted/deleteColumnstoMakeSorted.py) | Easy |
+| 943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [C++](./algorithms/cpp/findtheShortestSuperstring/findtheShortestSuperstring.cpp), [Python](./algorithms/python/findtheShortestSuperstring/findtheShortestSuperstring.py) | Hard |
+| 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [C++](./algorithms/cpp/dIStringMatch/dIStringMatch.cpp), [Python](./algorithms/python/dIStringMatch/dIStringMatch.py) | Easy |
+| 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [C++](./algorithms/cpp/validMountainArray/validMountainArray.cpp), [Python](./algorithms/python/validMountainArray/validMountainArray.py) | Easy |
 | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | [C++](./algorithms/cpp/distinctSubsequencesII/distinctSubsequencesII.cpp), [Python](./algorithms/python/distinctSubsequencesII/distinctSubsequencesII.py) | Hard |
 | 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [C++](./algorithms/cpp/minimumAreaRectangle/minimumAreaRectangle.cpp), [Python](./algorithms/python/minimumAreaRectangle/minimumAreaRectangle.py) | Medium |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](./algorithms/cpp/rangeSumofBST/rangeSumofBST.cpp), [Python](./algorithms/python/rangeSumofBST/rangeSumofBST.py) | Easy |
