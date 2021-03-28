@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [C++](./algorithms/cpp/deleteColumnstoMakeSortedII/deleteColumnstoMakeSortedII.cpp), [Python](./algorithms/python/deleteColumnstoMakeSortedII/deleteColumnstoMakeSortedII.py) | Medium |
+| 954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++](./algorithms/cpp/arrayofDoubledPairs/arrayofDoubledPairs.cpp), [Python](./algorithms/python/arrayofDoubledPairs/arrayofDoubledPairs.py) | Medium |
+| 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [C++](./algorithms/cpp/verifyinganAlienDictionary/verifyinganAlienDictionary.cpp), [Python](./algorithms/python/verifyinganAlienDictionary/verifyinganAlienDictionary.py) | Easy |
+| 952 | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [C++](./algorithms/cpp/largestComponentSizebyCommonFactor/largestComponentSizebyCommonFactor.cpp), [Python](./algorithms/python/largestComponentSizebyCommonFactor/largestComponentSizebyCommonFactor.py) | Hard |
+| 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [C++](./algorithms/cpp/flipEquivalentBinaryTrees/flipEquivalentBinaryTrees.cpp), [Python](./algorithms/python/flipEquivalentBinaryTrees/flipEquivalentBinaryTrees.py) | Medium |
 | 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [C++](./algorithms/cpp/revealCardsInIncreasingOrder/revealCardsInIncreasingOrder.cpp), [Python](./algorithms/python/revealCardsInIncreasingOrder/revealCardsInIncreasingOrder.py) | Medium |
 | 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [C++](./algorithms/cpp/largestTimeforGivenDigits/largestTimeforGivenDigits.cpp), [Python](./algorithms/python/largestTimeforGivenDigits/largestTimeforGivenDigits.py) | Medium |
 | 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [C++](./algorithms/cpp/bagofTokens/bagofTokens.cpp), [Python](./algorithms/python/bagofTokens/bagofTokens.py) | Medium |
