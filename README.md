@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [C++](./algorithms/cpp/revealCardsInIncreasingOrder/revealCardsInIncreasingOrder.cpp), [Python](./algorithms/python/revealCardsInIncreasingOrder/revealCardsInIncreasingOrder.py) | Medium |
+| 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [C++](./algorithms/cpp/largestTimeforGivenDigits/largestTimeforGivenDigits.cpp), [Python](./algorithms/python/largestTimeforGivenDigits/largestTimeforGivenDigits.py) | Medium |
+| 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [C++](./algorithms/cpp/bagofTokens/bagofTokens.cpp), [Python](./algorithms/python/bagofTokens/bagofTokens.py) | Medium |
+| 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [C++](./algorithms/cpp/mostStonesRemovedwithSameRoworColumn/mostStonesRemovedwithSameRoworColumn.cpp), [Python](./algorithms/python/mostStonesRemovedwithSameRoworColumn/mostStonesRemovedwithSameRoworColumn.py) | Medium |
+| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C++](./algorithms/cpp/validateStackSequences/validateStackSequences.cpp), [Python](./algorithms/python/validateStackSequences/validateStackSequences.py) | Medium |
 | 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [C++](./algorithms/cpp/minimumIncrementtoMakeArrayUnique/minimumIncrementtoMakeArrayUnique.cpp), [Python](./algorithms/python/minimumIncrementtoMakeArrayUnique/minimumIncrementtoMakeArrayUnique.py) | Medium |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [C++](./algorithms/cpp/deleteColumnstoMakeSorted/deleteColumnstoMakeSorted.cpp), [Python](./algorithms/python/deleteColumnstoMakeSorted/deleteColumnstoMakeSorted.py) | Easy |
 | 943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [C++](./algorithms/cpp/findtheShortestSuperstring/findtheShortestSuperstring.cpp), [Python](./algorithms/python/findtheShortestSuperstring/findtheShortestSuperstring.py) | Hard |
