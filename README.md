@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [C++](./algorithms/cpp/powerfulIntegers/powerfulIntegers.cpp), [Python](./algorithms/python/powerfulIntegers/powerfulIntegers.py) | Medium |
+| 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [C++](./algorithms/cpp/pancakeSorting/pancakeSorting.cpp), [Python](./algorithms/python/pancakeSorting/pancakeSorting.py) | Medium |
+| 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | [C++](./algorithms/cpp/binaryTreeCameras/binaryTreeCameras.cpp), [Python](./algorithms/python/binaryTreeCameras/binaryTreeCameras.py) | Hard |
+| 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [C++](./algorithms/cpp/numbersWithSameConsecutiveDifferences/numbersWithSameConsecutiveDifferences.cpp), [Python](./algorithms/python/numbersWithSameConsecutiveDifferences/numbersWithSameConsecutiveDifferences.py) | Medium |
+| 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [C++](./algorithms/cpp/vowelSpellchecker/vowelSpellchecker.cpp), [Python](./algorithms/python/vowelSpellchecker/vowelSpellchecker.py) | Medium |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [C++](./algorithms/cpp/univaluedBinaryTree/univaluedBinaryTree.cpp), [Python](./algorithms/python/univaluedBinaryTree/univaluedBinaryTree.py) | Easy |
 | 964 | [Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number/) | [C++](./algorithms/cpp/leastOperatorstoExpressNumber/leastOperatorstoExpressNumber.cpp), [Python](./algorithms/python/leastOperatorstoExpressNumber/leastOperatorstoExpressNumber.py) | Hard |
 | 963 | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/) | [C++](./algorithms/cpp/minimumAreaRectangleII/minimumAreaRectangleII.cpp), [Python](./algorithms/python/minimumAreaRectangleII/minimumAreaRectangleII.py) | Medium |
