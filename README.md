@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [C++](./algorithms/cpp/univaluedBinaryTree/univaluedBinaryTree.cpp), [Python](./algorithms/python/univaluedBinaryTree/univaluedBinaryTree.py) | Easy |
+| 964 | [Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number/) | [C++](./algorithms/cpp/leastOperatorstoExpressNumber/leastOperatorstoExpressNumber.cpp), [Python](./algorithms/python/leastOperatorstoExpressNumber/leastOperatorstoExpressNumber.py) | Hard |
+| 963 | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/) | [C++](./algorithms/cpp/minimumAreaRectangleII/minimumAreaRectangleII.cpp), [Python](./algorithms/python/minimumAreaRectangleII/minimumAreaRectangleII.py) | Medium |
+| 962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [C++](./algorithms/cpp/maximumWidthRamp/maximumWidthRamp.cpp), [Python](./algorithms/python/maximumWidthRamp/maximumWidthRamp.py) | Medium |
+| 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [C++](./algorithms/cpp/n-RepeatedElementinSize2NArray/n-RepeatedElementinSize2NArray.cpp), [Python](./algorithms/python/n-RepeatedElementinSize2NArray/n-RepeatedElementinSize2NArray.py) | Easy |
 | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [C++](./algorithms/cpp/deleteColumnstoMakeSortedIII/deleteColumnstoMakeSortedIII.cpp), [Python](./algorithms/python/deleteColumnstoMakeSortedIII/deleteColumnstoMakeSortedIII.py) | Hard |
 | 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | [C++](./algorithms/cpp/regionsCutBySlashes/regionsCutBySlashes.cpp), [Python](./algorithms/python/regionsCutBySlashes/regionsCutBySlashes.py) | Medium |
 | 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [C++](./algorithms/cpp/checkCompletenessofaBinaryTree/checkCompletenessofaBinaryTree.cpp), [Python](./algorithms/python/checkCompletenessofaBinaryTree/checkCompletenessofaBinaryTree.py) | Medium |
