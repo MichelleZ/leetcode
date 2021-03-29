@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [C++](./algorithms/cpp/deleteColumnstoMakeSortedIII/deleteColumnstoMakeSortedIII.cpp), [Python](./algorithms/python/deleteColumnstoMakeSortedIII/deleteColumnstoMakeSortedIII.py) | Hard |
+| 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | [C++](./algorithms/cpp/regionsCutBySlashes/regionsCutBySlashes.cpp), [Python](./algorithms/python/regionsCutBySlashes/regionsCutBySlashes.py) | Medium |
+| 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [C++](./algorithms/cpp/checkCompletenessofaBinaryTree/checkCompletenessofaBinaryTree.cpp), [Python](./algorithms/python/checkCompletenessofaBinaryTree/checkCompletenessofaBinaryTree.py) | Medium |
+| 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [C++](./algorithms/cpp/prisonCellsAfterNDays/prisonCellsAfterNDays.cpp), [Python](./algorithms/python/prisonCellsAfterNDays/prisonCellsAfterNDays.py) | Medium |
+| 956 | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [C++](./algorithms/cpp/tallestBillboard/tallestBillboard.cpp), [Python](./algorithms/python/tallestBillboard/tallestBillboard.py) | Hard |
 | 955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [C++](./algorithms/cpp/deleteColumnstoMakeSortedII/deleteColumnstoMakeSortedII.cpp), [Python](./algorithms/python/deleteColumnstoMakeSortedII/deleteColumnstoMakeSortedII.py) | Medium |
 | 954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++](./algorithms/cpp/arrayofDoubledPairs/arrayofDoubledPairs.cpp), [Python](./algorithms/python/arrayofDoubledPairs/arrayofDoubledPairs.py) | Medium |
 | 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [C++](./algorithms/cpp/verifyinganAlienDictionary/verifyinganAlienDictionary.cpp), [Python](./algorithms/python/verifyinganAlienDictionary/verifyinganAlienDictionary.py) | Easy |
