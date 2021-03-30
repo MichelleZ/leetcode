@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 975 | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | [C++](./algorithms/cpp/oddEvenJump/oddEvenJump.cpp), [Python](./algorithms/python/oddEvenJump/oddEvenJump.py) | Hard |
+| 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [C++](./algorithms/cpp/subarraySumsDivisiblebyK/subarraySumsDivisiblebyK.cpp), [Python](./algorithms/python/subarraySumsDivisiblebyK/subarraySumsDivisiblebyK.py) | Medium |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./algorithms/cpp/kClosestPointstoOrigin/kClosestPointstoOrigin.cpp), [Python](./algorithms/python/kClosestPointstoOrigin/kClosestPointstoOrigin.py) | Medium |
+| 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [C++](./algorithms/cpp/equalRationalNumbers/equalRationalNumbers.cpp), [Python](./algorithms/python/equalRationalNumbers/equalRationalNumbers.py) | Hard |
+| 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [C++](./algorithms/cpp/flipBinaryTreeToMatchPreorderTraversal/flipBinaryTreeToMatchPreorderTraversal.cpp), [Python](./algorithms/python/flipBinaryTreeToMatchPreorderTraversal/flipBinaryTreeToMatchPreorderTraversal.py) | Medium |
 | 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [C++](./algorithms/cpp/powerfulIntegers/powerfulIntegers.cpp), [Python](./algorithms/python/powerfulIntegers/powerfulIntegers.py) | Medium |
 | 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [C++](./algorithms/cpp/pancakeSorting/pancakeSorting.cpp), [Python](./algorithms/python/pancakeSorting/pancakeSorting.py) | Medium |
 | 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | [C++](./algorithms/cpp/binaryTreeCameras/binaryTreeCameras.cpp), [Python](./algorithms/python/binaryTreeCameras/binaryTreeCameras.py) | Hard |
