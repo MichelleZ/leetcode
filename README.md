@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [C++](./algorithms/cpp/sumofEvenNumbersAfterQueries/sumofEvenNumbersAfterQueries.cpp), [Python](./algorithms/python/sumofEvenNumbersAfterQueries/sumofEvenNumbersAfterQueries.py) | Easy |
+| 984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [C++](./algorithms/cpp/sumofEvenNumbersAfterQueries/sumofEvenNumbersAfterQueries.cpp), [Python](./algorithms/python/sumofEvenNumbersAfterQueries/sumofEvenNumbersAfterQueries.py) | Medium |
+| 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [C++](./algorithms/cpp/minimumCostForTickets/minimumCostForTickets.cpp), [Python](./algorithms/python/minimumCostForTickets/minimumCostForTickets.py) | Medium |
+| 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [C++](./algorithms/cpp/tripleswithBitwiseANDEqualToZero/tripleswithBitwiseANDEqualToZero.cpp), [Python](./algorithms/python/tripleswithBitwiseANDEqualToZero/tripleswithBitwiseANDEqualToZero.py) | Hard |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [C++](./algorithms/cpp/timeBasedKey-ValueStore/timeBasedKey-ValueStore.cpp), [Python](./algorithms/python/timeBasedKey-ValueStore/timeBasedKey-ValueStore.py) | Medium |
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [C++](./algorithms/cpp/uniquePathsIII/uniquePathsIII.cpp), [Python](./algorithms/python/uniquePathsIII/uniquePathsIII.py) | Hard |
 | 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [C++](./algorithms/cpp/distributeCoinsinBinaryTree/distributeCoinsinBinaryTree.cpp), [Python](./algorithms/python/distributeCoinsinBinaryTree/distributeCoinsinBinaryTree.py) | Medium |
 | 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [C++](./algorithms/cpp/longestTurbulentSubarray/longestTurbulentSubarray.cpp), [Python](./algorithms/python/longestTurbulentSubarray/longestTurbulentSubarray.py) | Medium |
