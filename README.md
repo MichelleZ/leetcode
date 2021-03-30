@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [C++](./algorithms/cpp/uniquePathsIII/uniquePathsIII.cpp), [Python](./algorithms/python/uniquePathsIII/uniquePathsIII.py) | Hard |
+| 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [C++](./algorithms/cpp/distributeCoinsinBinaryTree/distributeCoinsinBinaryTree.cpp), [Python](./algorithms/python/distributeCoinsinBinaryTree/distributeCoinsinBinaryTree.py) | Medium |
+| 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [C++](./algorithms/cpp/longestTurbulentSubarray/longestTurbulentSubarray.cpp), [Python](./algorithms/python/longestTurbulentSubarray/longestTurbulentSubarray.py) | Medium |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./algorithms/cpp/squaresofaSortedArray/squaresofaSortedArray.cpp), [Python](./algorithms/python/squaresofaSortedArray/squaresofaSortedArray.py) | Easy |
+| 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [C++](./algorithms/cpp/largestPerimeterTriangle/largestPerimeterTriangle.cpp), [Python](./algorithms/python/largestPerimeterTriangle/largestPerimeterTriangle.py) | Easy |
 | 975 | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | [C++](./algorithms/cpp/oddEvenJump/oddEvenJump.cpp), [Python](./algorithms/python/oddEvenJump/oddEvenJump.py) | Hard |
 | 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [C++](./algorithms/cpp/subarraySumsDivisiblebyK/subarraySumsDivisiblebyK.cpp), [Python](./algorithms/python/subarraySumsDivisiblebyK/subarraySumsDivisiblebyK.py) | Medium |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./algorithms/cpp/kClosestPointstoOrigin/kClosestPointstoOrigin.cpp), [Python](./algorithms/python/kClosestPointstoOrigin/kClosestPointstoOrigin.py) | Medium |
