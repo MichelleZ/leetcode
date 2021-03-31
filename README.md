@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [C++](./algorithms/cpp/minimumNumberofKConsecutiveBitFlips/minimumNumberofKConsecutiveBitFlips.cpp), [Python](./algorithms/python/minimumNumberofKConsecutiveBitFlips/minimumNumberofKConsecutiveBitFlips.py) | Hard |
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [C++](./algorithms/cpp/rottingOranges/rottingOranges.cpp), [Python](./algorithms/python/rottingOranges/rottingOranges.py) | Medium |
+| 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [C++](./algorithms/cpp/cousinsinBinaryTree/cousinsinBinaryTree.cpp), [Python](./algorithms/python/cousinsinBinaryTree/cousinsinBinaryTree.py) | Easy |
+| 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [C++](./algorithms/cpp/subarrayswithKDifferentIntegers/subarrayswithKDifferentIntegers.cpp), [Python](./algorithms/python/subarrayswithKDifferentIntegers/subarrayswithKDifferentIntegers.py) | Hard |
+| 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [C++](./algorithms/cpp/brokenCalculator/brokenCalculator.cpp), [Python](./algorithms/python/brokenCalculator/brokenCalculator.py) | Medium |
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [C++](./algorithms/cpp/satisfiabilityofEqualityEquations/satisfiabilityofEqualityEquations.cpp), [Python](./algorithms/python/satisfiabilityofEqualityEquations/satisfiabilityofEqualityEquations.py) | Medium |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [C++](./algorithms/cpp/addtoArray-FormofInteger/addtoArray-FormofInteger.cpp), [Python](./algorithms/python/addtoArray-FormofInteger/addtoArray-FormofInteger.py) | Easy |
 | 988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [C++](./algorithms/cpp/smallestStringStartingFromLeaf/smallestStringStartingFromLeaf.cpp), [Python](./algorithms/python/smallestStringStartingFromLeaf/smallestStringStartingFromLeaf.py) | Medium |
