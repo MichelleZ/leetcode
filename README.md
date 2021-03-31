@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [C++](./algorithms/cpp/minimumCosttoMergeStones/minimumCosttoMergeStones.cpp), [Python](./algorithms/python/minimumCosttoMergeStones/minimumCosttoMergeStones.py) | Hard |
+| 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [C++](./algorithms/cpp/availableCapturesforRook/availableCapturesforRook.cpp), [Python](./algorithms/python/availableCapturesforRook/availableCapturesforRook.py) | Easy |
+| 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [C++](./algorithms/cpp/maximumBinaryTreeII/maximumBinaryTreeII.cpp), [Python](./algorithms/python/maximumBinaryTreeII/maximumBinaryTreeII.py) | Medium |
+| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [C++](./algorithms/cpp/findtheTownJudge/findtheTownJudge.cpp), [Python](./algorithms/python/findtheTownJudge/findtheTownJudge.py) | Easy |
+| 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | [C++](./algorithms/cpp/numberofSquarefulArrays/numberofSquarefulArrays.cpp), [Python](./algorithms/python/numberofSquarefulArrays/numberofSquarefulArrays.py) | Hard |
 | 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [C++](./algorithms/cpp/minimumNumberofKConsecutiveBitFlips/minimumNumberofKConsecutiveBitFlips.cpp), [Python](./algorithms/python/minimumNumberofKConsecutiveBitFlips/minimumNumberofKConsecutiveBitFlips.py) | Hard |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [C++](./algorithms/cpp/rottingOranges/rottingOranges.cpp), [Python](./algorithms/python/rottingOranges/rottingOranges.py) | Medium |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [C++](./algorithms/cpp/cousinsinBinaryTree/cousinsinBinaryTree.cpp), [Python](./algorithms/python/cousinsinBinaryTree/cousinsinBinaryTree.py) | Easy |
