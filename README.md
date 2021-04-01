@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [C++](./algorithms/cpp/clumsyFactorial/clumsyFactorial.cpp), [Python](./algorithms/python/clumsyFactorial/clumsyFactorial.py) | Medium |
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [C++](./algorithms/cpp/maximizeSumOfArrayAfterKNegations/maximizeSumOfArrayAfterKNegations.cpp), [Python](./algorithms/python/maximizeSumOfArrayAfterKNegations/maximizeSumOfArrayAfterKNegations.py) | Easy |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](./algorithms/cpp/maxConsecutiveOnesIII/maxConsecutiveOnesIII.cpp), [Python](./algorithms/python/maxConsecutiveOnesIII/maxConsecutiveOnesIII.py) | Medium |
+| 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [C++](./algorithms/cpp/checkIfWordIsValidAfterSubstitutions/checkIfWordIsValidAfterSubstitutions.cpp), [Python](./algorithms/python/checkIfWordIsValidAfterSubstitutions/checkIfWordIsValidAfterSubstitutions.py) | Medium |
+| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [C++](./algorithms/cpp/findCommonCharacters/findCommonCharacters.cpp), [Python](./algorithms/python/findCommonCharacters/findCommonCharacters.py) | Easy |
 | 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [C++](./algorithms/cpp/minimumCosttoMergeStones/minimumCosttoMergeStones.cpp), [Python](./algorithms/python/minimumCosttoMergeStones/minimumCosttoMergeStones.py) | Hard |
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [C++](./algorithms/cpp/availableCapturesforRook/availableCapturesforRook.cpp), [Python](./algorithms/python/availableCapturesforRook/availableCapturesforRook.py) | Easy |
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [C++](./algorithms/cpp/maximumBinaryTreeII/maximumBinaryTreeII.cpp), [Python](./algorithms/python/maximumBinaryTreeII/maximumBinaryTreeII.py) | Medium |
