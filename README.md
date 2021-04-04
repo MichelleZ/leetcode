@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | [C++](./algorithms/cpp/videoStitching/videoStitching.cpp), [Python](./algorithms/python/videoStitching/videoStitching.py) | Medium |
+| 1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [C++](./algorithms/cpp/camelcaseMatching/camelcaseMatching.cpp), [Python](./algorithms/python/camelcaseMatching/camelcaseMatching.py) | Medium |
+| 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [C++](./algorithms/cpp/sumofRootToLeafBinaryNumbers/sumofRootToLeafBinaryNumbers.cpp), [Python](./algorithms/python/sumofRootToLeafBinaryNumbers/sumofRootToLeafBinaryNumbers.py) | Easy |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [C++](./algorithms/cpp/removeOutermostParentheses/removeOutermostParentheses.cpp), [Python](./algorithms/python/removeOutermostParentheses/removeOutermostParentheses.py) | Easy |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [C++](./algorithms/cpp/numberofEnclaves/numberofEnclaves.cpp), [Python](./algorithms/python/numberofEnclaves/numberofEnclaves.py) | Medium |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [C++](./algorithms/cpp/nextGreaterNodeInLinkedList/nextGreaterNodeInLinkedList.cpp), [Python](./algorithms/python/nextGreaterNodeInLinkedList/nextGreaterNodeInLinkedList.py) | Medium |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [C++](./algorithms/cpp/binaryPrefixDivisibleBy5/binaryPrefixDivisibleBy5.cpp), [Python](./algorithms/python/binaryPrefixDivisibleBy5/binaryPrefixDivisibleBy5.py) | Easy |
