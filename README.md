@@ -3,6 +3,12 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [C++](./algorithms/cpp/matrixCellsinDistanceOrder/matrixCellsinDistanceOrder.cpp), [Python](./algorithms/python/matrixCellsinDistanceOrder/matrixCellsinDistanceOrder.py) | Easy |
+| 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [C++](./algorithms/cpp/twoCityScheduling/twoCityScheduling.cpp), [Python](./algorithms/python/twoCityScheduling/twoCityScheduling.py) | Medium |
+| 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [C++](./algorithms/cpp/recoveraTreeFromPreorderTraversal/recoveraTreeFromPreorderTraversal.cpp), [Python](./algorithms/python/recoveraTreeFromPreorderTraversal/recoveraTreeFromPreorderTraversal.py) | Hard |
+| 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [C++](./algorithms/cpp/longestArithmeticSubsequence/longestArithmeticSubsequence.cpp), [Python](./algorithms/python/longestArithmeticSubsequence/longestArithmeticSubsequence.py) | Medium |
+| 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [C++](./algorithms/cpp/maximumDifferenceBetweenNodeandAncestor/maximumDifferenceBetweenNodeandAncestor.cpp), [Python](./algorithms/python/maximumDifferenceBetweenNodeandAncestor/maximumDifferenceBetweenNodeandAncestor.py) | Medium |
+| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [C++](./algorithms/cpp/divisorGame/divisorGame.cpp), [Python](./algorithms/python/divisorGame/divisorGame.py) | Easy |
 | 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | [C++](./algorithms/cpp/videoStitching/videoStitching.cpp), [Python](./algorithms/python/videoStitching/videoStitching.py) | Medium |
 | 1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [C++](./algorithms/cpp/camelcaseMatching/camelcaseMatching.cpp), [Python](./algorithms/python/camelcaseMatching/camelcaseMatching.py) | Medium |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [C++](./algorithms/cpp/sumofRootToLeafBinaryNumbers/sumofRootToLeafBinaryNumbers.cpp), [Python](./algorithms/python/sumofRootToLeafBinaryNumbers/sumofRootToLeafBinaryNumbers.py) | Easy |
