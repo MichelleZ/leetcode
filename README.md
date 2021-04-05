@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [C++](./algorithms/cpp/uncrossedLines/uncrossedLines.cpp), [Python](./algorithms/python/uncrossedLines/uncrossedLines.py) | Medium |
+| 1034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | [C++](./algorithms/cpp/coloringABorder/coloringABorder.cpp), [Python](./algorithms/python/coloringABorder/coloringABorder.py) | Medium |
+| 1033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [C++](./algorithms/cpp/movingStonesUntilConsecutive/movingStonesUntilConsecutive.cpp), [Python](./algorithms/python/movingStonesUntilConsecutive/movingStonesUntilConsecutive.py) | Easy |
+| 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [C++](./algorithms/cpp/streamofCharacters/streamofCharacters.cpp), [Python](./algorithms/python/streamofCharacters/streamofCharacters.py) | Hard |
+| 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [C++](./algorithms/cpp/maximumSumofTwoNon-OverlappingSubarrays/maximumSumofTwoNon-OverlappingSubarrays.cpp), [Python](./algorithms/python/maximumSumofTwoNon-OverlappingSubarrays/maximumSumofTwoNon-OverlappingSubarrays.py) | Medium |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [C++](./algorithms/cpp/matrixCellsinDistanceOrder/matrixCellsinDistanceOrder.cpp), [Python](./algorithms/python/matrixCellsinDistanceOrder/matrixCellsinDistanceOrder.py) | Easy |
 | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [C++](./algorithms/cpp/twoCityScheduling/twoCityScheduling.cpp), [Python](./algorithms/python/twoCityScheduling/twoCityScheduling.py) | Medium |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [C++](./algorithms/cpp/recoveraTreeFromPreorderTraversal/recoveraTreeFromPreorderTraversal.cpp), [Python](./algorithms/python/recoveraTreeFromPreorderTraversal/recoveraTreeFromPreorderTraversal.py) | Hard |
