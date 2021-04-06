@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1040 | [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [C++](./algorithms/cpp/movingStonesUntilConsecutiveII/movingStonesUntilConsecutiveII.cpp), [Python](./algorithms/python/movingStonesUntilConsecutiveII/movingStonesUntilConsecutiveII.py) | Medium |
+| 1039 | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [C++](./algorithms/cpp/minimumScoreTriangulationofPolygon/minimumScoreTriangulationofPolygon.cpp), [Python](./algorithms/python/minimumScoreTriangulationofPolygon/minimumScoreTriangulationofPolygon.py) | Medium |
+| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [C++](./algorithms/cpp/binarySearchTreetoGreaterSumTree/binarySearchTreetoGreaterSumTree.cpp), [Python](./algorithms/python/binarySearchTreetoGreaterSumTree/binarySearchTreetoGreaterSumTree.py) | Medium |
+| 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [C++](./algorithms/cpp/validBoomerang/validBoomerang.cpp), [Python](./algorithms/python/validBoomerang/validBoomerang.py) | Easy |
+| 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | [C++](./algorithms/cpp/escapeaLargeMaze/escapeaLargeMaze.cpp), [Python](./algorithms/python/escapeaLargeMaze/escapeaLargeMaze.py) | Hard |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [C++](./algorithms/cpp/uncrossedLines/uncrossedLines.cpp), [Python](./algorithms/python/uncrossedLines/uncrossedLines.py) | Medium |
 | 1034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | [C++](./algorithms/cpp/coloringABorder/coloringABorder.cpp), [Python](./algorithms/python/coloringABorder/coloringABorder.py) | Medium |
 | 1033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [C++](./algorithms/cpp/movingStonesUntilConsecutive/movingStonesUntilConsecutive.cpp), [Python](./algorithms/python/movingStonesUntilConsecutive/movingStonesUntilConsecutive.py) | Easy |
