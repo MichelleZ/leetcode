@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [C++](./algorithms/cpp/lastStoneWeightII/lastStoneWeightII.cpp), [Python](./algorithms/python/lastStoneWeightII/lastStoneWeightII.py) | Medium |
+| 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [C++](./algorithms/cpp/longestStringChain/longestStringChain.cpp), [Python](./algorithms/python/longestStringChain/longestStringChain.py) | Medium |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](./algorithms/cpp/removeAllAdjacentDuplicatesInString/removeAllAdjacentDuplicatesInString.cpp), [Python](./algorithms/python/removeAllAdjacentDuplicatesInString/removeAllAdjacentDuplicatesInString.py) | Easy |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [C++](./algorithms/cpp/lastStoneWeight/lastStoneWeight.cpp), [Python](./algorithms/python/lastStoneWeight/lastStoneWeight.py) | Easy |
 | 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [C++](./algorithms/cpp/longestDuplicateSubstring/longestDuplicateSubstring.cpp), [Python](./algorithms/python/longestDuplicateSubstring/longestDuplicateSubstring.py) | Hard |
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [C++](./algorithms/cpp/partitionArrayforMaximumSum/partitionArrayforMaximumSum.cpp), [Python](./algorithms/python/partitionArrayforMaximumSum/partitionArrayforMaximumSum.py) | Medium |
