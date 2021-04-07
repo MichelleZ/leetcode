@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | [C++](./algorithms/cpp/distantBarcodes/distantBarcodes.cpp), [Python](./algorithms/python/distantBarcodes/distantBarcodes.py) | Medium |
+| 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [C++](./algorithms/cpp/previousPermutationWithOneSwap/previousPermutationWithOneSwap.cpp), [Python](./algorithms/python/previousPermutationWithOneSwap/previousPermutationWithOneSwap.py) | Medium |
+| 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [C++](./algorithms/cpp/grumpyBookstoreOwner/grumpyBookstoreOwner.cpp), [Python](./algorithms/python/grumpyBookstoreOwner/grumpyBookstoreOwner.py) | Medium |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [C++](./algorithms/cpp/heightChecker/heightChecker.cpp), [Python](./algorithms/python/heightChecker/heightChecker.py) | Easy |
 | 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [C++](./algorithms/cpp/lastStoneWeightII/lastStoneWeightII.cpp), [Python](./algorithms/python/lastStoneWeightII/lastStoneWeightII.py) | Medium |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [C++](./algorithms/cpp/longestStringChain/longestStringChain.cpp), [Python](./algorithms/python/longestStringChain/longestStringChain.py) | Medium |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](./algorithms/cpp/removeAllAdjacentDuplicatesInString/removeAllAdjacentDuplicatesInString.cpp), [Python](./algorithms/python/removeAllAdjacentDuplicatesInString/removeAllAdjacentDuplicatesInString.py) | Easy |
