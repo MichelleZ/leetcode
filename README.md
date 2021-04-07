@@ -3,6 +3,8 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [C++](./algorithms/cpp/insufficientNodesinRoottoLeafPaths/insufficientNodesinRoottoLeafPaths.cpp), [Python](./algorithms/python/insufficientNodesinRoottoLeafPaths/insufficientNodesinRoottoLeafPaths.py) | Medium |
+| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [C++](./algorithms/cpp/letterTilePossibilities/letterTilePossibilities.cpp), [Python](./algorithms/python/letterTilePossibilities/letterTilePossibilities.py) | Medium |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [C++](./algorithms/cpp/occurrencesAfterBigram/occurrencesAfterBigram.cpp), [Python](./algorithms/python/occurrencesAfterBigram/occurrencesAfterBigram.py) | Easy |
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [C++](./algorithms/cpp/numberofSubmatricesThatSumtoTarget/numberofSubmatricesThatSumtoTarget.cpp), [Python](./algorithms/python/numberofSubmatricesThatSumtoTarget/numberofSubmatricesThatSumtoTarget.py) | Hard |
 | 1073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) | [C++](./algorithms/cpp/addingTwoNegabinaryNumbers/addingTwoNegabinaryNumbers.cpp), [Python](./algorithms/python/addingTwoNegabinaryNumbers/addingTwoNegabinaryNumbers.py) | Medium |
