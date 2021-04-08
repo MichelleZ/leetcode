@@ -3,6 +3,12 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | [C++](./algorithms/cpp/braceExpansionII/braceExpansionII.cpp), [Python](./algorithms/python/braceExpansionII/braceExpansionII.py) | Hard |
+| 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [C++](./algorithms/cpp/findinMountainArray/findinMountainArray.cpp), [Python](./algorithms/python/findinMountainArray/findinMountainArray.py) | Hard |
+| 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [C++](./algorithms/cpp/carPooling/carPooling.cpp), [Python](./algorithms/python/carPooling/carPooling.py) | Medium |
+| 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | [C++](./algorithms/cpp/statisticsfromaLargeSample/statisticsfromaLargeSample.cpp), [Python](./algorithms/python/statisticsfromaLargeSample/statisticsfromaLargeSample.py) | Medium |
+| 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [C++](./algorithms/cpp/shortestCommonSupersequence/shortestCommonSupersequence.cpp), [Python](./algorithms/python/shortestCommonSupersequence/shortestCommonSupersequence.py) | Hard |
+| 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [C++](./algorithms/cpp/shortestPathinBinaryMatrix/shortestPathinBinaryMatrix.cpp), [Python](./algorithms/python/shortestPathinBinaryMatrix/shortestPathinBinaryMatrix.py) | Medium |
 | 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [C++](./algorithms/cpp/largestValuesFromLabels/largestValuesFromLabels.cpp), [Python](./algorithms/python/largestValuesFromLabels/largestValuesFromLabels.py) | Medium |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [C++](./algorithms/cpp/duplicateZeros/duplicateZeros.cpp), [Python](./algorithms/python/duplicateZeros/duplicateZeros.py) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [C++](./algorithms/cpp/smallestSubsequenceofDistinctCharacters/smallestSubsequenceofDistinctCharacters.cpp), [Python](./algorithms/python/smallestSubsequenceofDistinctCharacters/smallestSubsequenceofDistinctCharacters.py) | Medium |
