@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [C++](./algorithms/cpp/largestValuesFromLabels/largestValuesFromLabels.cpp), [Python](./algorithms/python/largestValuesFromLabels/largestValuesFromLabels.py) | Medium |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [C++](./algorithms/cpp/duplicateZeros/duplicateZeros.cpp), [Python](./algorithms/python/duplicateZeros/duplicateZeros.py) | Easy |
+| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [C++](./algorithms/cpp/smallestSubsequenceofDistinctCharacters/smallestSubsequenceofDistinctCharacters.cpp), [Python](./algorithms/python/smallestSubsequenceofDistinctCharacters/smallestSubsequenceofDistinctCharacters.py) | Medium |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [C++](./algorithms/cpp/insufficientNodesinRoottoLeafPaths/insufficientNodesinRoottoLeafPaths.cpp), [Python](./algorithms/python/insufficientNodesinRoottoLeafPaths/insufficientNodesinRoottoLeafPaths.py) | Medium |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [C++](./algorithms/cpp/letterTilePossibilities/letterTilePossibilities.cpp), [Python](./algorithms/python/letterTilePossibilities/letterTilePossibilities.py) | Medium |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [C++](./algorithms/cpp/occurrencesAfterBigram/occurrencesAfterBigram.cpp), [Python](./algorithms/python/occurrencesAfterBigram/occurrencesAfterBigram.py) | Easy |
