@@ -3,6 +3,13 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [C++](./algorithms/cpp/deleteNodesAndReturnForest/deleteNodesAndReturnForest.cpp), [Python](./algorithms/python/deleteNodesAndReturnForest/deleteNodesAndReturnForest.py) | Medium |
+| 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [C++](./algorithms/cpp/corporateFlightBookings/corporateFlightBookings.cpp), [Python](./algorithms/python/corporateFlightBookings/corporateFlightBookings.py) | Medium |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](./algorithms/cpp/defanginganIPAddress/defanginganIPAddress.cpp), [Python](./algorithms/python/defanginganIPAddress/defanginganIPAddress.py) | Easy |
+| 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [C++](./algorithms/cpp/parsingABooleanExpression/parsingABooleanExpression.cpp), [Python](./algorithms/python/parsingABooleanExpression/parsingABooleanExpression.py) | Hard |
+| 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [C++](./algorithms/cpp/fillingBookcaseShelves/fillingBookcaseShelves.cpp), [Python](./algorithms/python/fillingBookcaseShelves/fillingBookcaseShelves.py) | Medium |
+| 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [C++](./algorithms/cpp/pathInZigzagLabelledBinaryTree/pathInZigzagLabelledBinaryTree.cpp), [Python](./algorithms/python/pathInZigzagLabelledBinaryTree/pathInZigzagLabelledBinaryTree.py) | Medium |
+| 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [C++](./algorithms/cpp/distributeCandiestoPeople/distributeCandiestoPeople.cpp), [Python](./algorithms/python/distributeCandiestoPeople/distributeCandiestoPeople.py) | Easy |
 | 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | [C++](./algorithms/cpp/braceExpansionII/braceExpansionII.cpp), [Python](./algorithms/python/braceExpansionII/braceExpansionII.py) | Hard |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [C++](./algorithms/cpp/findinMountainArray/findinMountainArray.cpp), [Python](./algorithms/python/findinMountainArray/findinMountainArray.py) | Hard |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [C++](./algorithms/cpp/carPooling/carPooling.cpp), [Python](./algorithms/python/carPooling/carPooling.py) | Medium |
