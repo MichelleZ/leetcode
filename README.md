@@ -3,6 +3,11 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [C++](./algorithms/cpp/stoneGameII/stoneGameII.cpp), [Python](./algorithms/python/stoneGameII/stoneGameII.py) | Medium |
+| 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [C++](./algorithms/cpp/largest1-BorderedSquare/largest1-BorderedSquare.cpp), [Python](./algorithms/python/largest1-BorderedSquare/largest1-BorderedSquare.py) | Medium |
+| 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [C++](./algorithms/cpp/alphabetBoardPath/alphabetBoardPath.cpp), [Python](./algorithms/python/alphabetBoardPath/alphabetBoardPath.py) | Medium |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [C++](./algorithms/cpp/n-thTribonacciNumber/n-thTribonacciNumber.cpp), [Python](./algorithms/python/n-thTribonacciNumber/n-thTribonacciNumber.py) | Easy |
+| 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [C++](./algorithms/cpp/maximumofAbsoluteValueExpression/maximumofAbsoluteValueExpression.cpp), [Python](./algorithms/python/maximumofAbsoluteValueExpression/maximumofAbsoluteValueExpression.py) | Medium |
 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [C++](./algorithms/cpp/minimumCostTreeFromLeafValues/minimumCostTreeFromLeafValues.cpp), [Python](./algorithms/python/minimumCostTreeFromLeafValues/minimumCostTreeFromLeafValues.py) | Medium |
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [C++](./algorithms/cpp/shortestPathwithAlternatingColors/shortestPathwithAlternatingColors.cpp), [Python](./algorithms/python/shortestPathwithAlternatingColors/shortestPathwithAlternatingColors.py) | Medium |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [C++](./algorithms/cpp/numberofEquivalentDominoPairs/numberofEquivalentDominoPairs.cpp), [Python](./algorithms/python/numberofEquivalentDominoPairs/numberofEquivalentDominoPairs.py) | Easy |
