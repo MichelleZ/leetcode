@@ -3,6 +3,12 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [C++](./algorithms/cpp/dayoftheYear/dayoftheYear.cpp), [Python](./algorithms/python/dayoftheYear/dayoftheYear.py) | Easy |
+| 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [C++](./algorithms/cpp/longestChunkedPalindromeDecomposition/longestChunkedPalindromeDecomposition.cpp), [Python](./algorithms/python/longestChunkedPalindromeDecomposition/longestChunkedPalindromeDecomposition.py) | Hard |
+| 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [C++](./algorithms/cpp/snapshotArray/snapshotArray.cpp), [Python](./algorithms/python/snapshotArray/snapshotArray.py) | Medium |
+| 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [C++](./algorithms/cpp/binaryTreeColoringGame/binaryTreeColoringGame.cpp), [Python](./algorithms/python/binaryTreeColoringGame/binaryTreeColoringGame.py) | Medium |
+| 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [C++](./algorithms/cpp/decreaseElementsToMakeArrayZigzag/decreaseElementsToMakeArrayZigzag.cpp), [Python](./algorithms/python/decreaseElementsToMakeArrayZigzag/decreaseElementsToMakeArrayZigzag.py) | Medium |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](./algorithms/cpp/longestCommonSubsequence/longestCommonSubsequence.cpp), [Python](./algorithms/python/longestCommonSubsequence/longestCommonSubsequence.py) | Medium |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [C++](./algorithms/cpp/stoneGameII/stoneGameII.cpp), [Python](./algorithms/python/stoneGameII/stoneGameII.py) | Medium |
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [C++](./algorithms/cpp/largest1-BorderedSquare/largest1-BorderedSquare.cpp), [Python](./algorithms/python/largest1-BorderedSquare/largest1-BorderedSquare.py) | Medium |
 | 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [C++](./algorithms/cpp/alphabetBoardPath/alphabetBoardPath.cpp), [Python](./algorithms/python/alphabetBoardPath/alphabetBoardPath.py) | Medium |
