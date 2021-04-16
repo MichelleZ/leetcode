@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [C++](./algorithms/cpp/minimumAbsoluteDifference/minimumAbsoluteDifference.cpp), [Python](./algorithms/python/minimumAbsoluteDifference/minimumAbsoluteDifference.py) | Easy |
+| 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | [C++](./algorithms/cpp/fizzBuzzMultithreaded/fizzBuzzMultithreaded.cpp), [Python](./algorithms/python/fizzBuzzMultithreaded/fizzBuzzMultithreaded.py) | Medium |
+| 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [C++](./algorithms/cpp/criticalConnectionsinaNetwork/criticalConnectionsinaNetwork.cpp), [Python](./algorithms/python/criticalConnectionsinaNetwork/criticalConnectionsinaNetwork.py) | Hard |
+| 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [C++](./algorithms/cpp/k-ConcatenationMaximumSum/k-ConcatenationMaximumSum.cpp), [Python](./algorithms/python/k-ConcatenationMaximumSum/k-ConcatenationMaximumSum.py) | Medium |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [C++](./algorithms/cpp/reverseSubstringsBetweenEachPairofParentheses/reverseSubstringsBetweenEachPairofParentheses.cpp), [Python](./algorithms/python/reverseSubstringsBetweenEachPairofParentheses/reverseSubstringsBetweenEachPairofParentheses.py) | Medium |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [C++](./algorithms/cpp/maximumNumberofBalloons/maximumNumberofBalloons.cpp), [Python](./algorithms/python/maximumNumberofBalloons/maximumNumberofBalloons.py) | Easy |
 | 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [C++](./algorithms/cpp/makeArrayStrictlyIncreasing/makeArrayStrictlyIncreasing.cpp), [Python](./algorithms/python/makeArrayStrictlyIncreasing/makeArrayStrictlyIncreasing.py) | Hard |
