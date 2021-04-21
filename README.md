@@ -3,6 +3,8 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [C++](./algorithms/cpp/convertBinaryNumberinaLinkedListtoInteger/convertBinaryNumberinaLinkedListtoInteger.cpp), [Python](./algorithms/python/convertBinaryNumberinaLinkedListtoInteger/convertBinaryNumberinaLinkedListtoInteger.py) | Easy |
+| 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | [C++](./algorithms/cpp/minimumFallingPathSumII/minimumFallingPathSumII.cpp), [Python](./algorithms/python/minimumFallingPathSumII/minimumFallingPathSumII.py) | Hard |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [C++](./algorithms/cpp/removeCoveredIntervals/removeCoveredIntervals.cpp), [Python](./algorithms/python/removeCoveredIntervals/removeCoveredIntervals.py) | Medium |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [C++](./algorithms/cpp/elementAppearingMoreThan25InSortedArray/elementAppearingMoreThan25InSortedArray.cpp), [Python](./algorithms/python/elementAppearingMoreThan25InSortedArray/elementAppearingMoreThan25InSortedArray.py) | Easy |
 | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [C++](./algorithms/cpp/iteratorforCombination/iteratorforCombination.cpp), [Python](./algorithms/python/iteratorforCombination/iteratorforCombination.py) | Medium |
