@@ -1,7 +1,7 @@
 # leetcode
 =====================================================================
 
-| SN | </div style="width:400px">Title</div> | Solution | Difficulty |
+| SN | <div style="width:400px">Title</div> | Solution | Difficulty |
 |----|-------|----------|------------|
 | 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | [C++](./algorithms/cpp/sumofMutatedArrayClosesttoTarget/sumofMutatedArrayClosesttoTarget.cpp), [Python](./algorithms/python/sumofMutatedArrayClosesttoTarget/sumofMutatedArrayClosesttoTarget.py) | Medium |
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [C++](./algorithms/cpp/replaceElementswithGreatestElementonRightSide/replaceElementswithGreatestElementonRightSide.cpp), [Python](./algorithms/python/replaceElementswithGreatestElementonRightSide/replaceElementswithGreatestElementonRightSide.py) | Easy |
