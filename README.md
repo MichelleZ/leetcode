@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1330 | [Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) | [C++](./algorithms/cpp/reverseSubarrayToMaximizeArrayValue/reverseSubarrayToMaximizeArrayValue.cpp), [Python](./algorithms/python/reverseSubarrayToMaximizeArrayValue/reverseSubarrayToMaximizeArrayValue.py) | Hard |
+| 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [C++](./algorithms/cpp/sorttheMatrixDiagonally/sorttheMatrixDiagonally.cpp), [Python](./algorithms/python/sorttheMatrixDiagonally/sorttheMatrixDiagonally.py) | Medium |
+| 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [C++](./algorithms/cpp/breakaPalindrome/breakaPalindrome.cpp), [Python](./algorithms/python/breakaPalindrome/breakaPalindrome.py) | Medium |
 | 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [C++](./algorithms/cpp/minimumNumberofTapstoOpentoWateraGarden/minimumNumberofTapstoOpentoWateraGarden.cpp), [Python](./algorithms/python/minimumNumberofTapstoOpentoWateraGarden/minimumNumberofTapstoOpentoWateraGarden.py) | Hard |
 | 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [C++](./algorithms/cpp/deleteLeavesWithaGivenValue/deleteLeavesWithaGivenValue.cpp), [Python](./algorithms/python/deleteLeavesWithaGivenValue/deleteLeavesWithaGivenValue.py) | Medium |
 | 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | [C++](./algorithms/cpp/printWordsVertically/printWordsVertically.cpp), [Python](./algorithms/python/printWordsVertically/printWordsVertically.py) | Medium |
