@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [C++](./algorithms/cpp/fourDivisors/fourDivisors.cpp), [Python](./algorithms/python/fourDivisors/fourDivisors.py) | Medium |
+| 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [C++](./algorithms/cpp/createTargetArrayintheGivenOrder/createTargetArrayintheGivenOrder.cpp), [Python](./algorithms/python/createTargetArrayintheGivenOrder/createTargetArrayintheGivenOrder.py) | Easy |
+| 1388 | [Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/) | [C++](./algorithms/cpp/pizzaWith3nSlices/pizzaWith3nSlices.cpp), [Python](./algorithms/python/pizzaWith3nSlices/pizzaWith3nSlices.py) | Hard |
+| 1387 | [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [C++](./algorithms/cpp/sortIntegersbyThePowerValue/sortIntegersbyThePowerValue.cpp), [Python](./algorithms/python/sortIntegersbyThePowerValue/sortIntegersbyThePowerValue.py) | Medium |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | [C++](./algorithms/cpp/cinemaSeatAllocation/cinemaSeatAllocation.cpp), [Python](./algorithms/python/cinemaSeatAllocation/cinemaSeatAllocation.py) | Medium |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [C++](./algorithms/cpp/findtheDistanceValueBetweenTwoArrays/findtheDistanceValueBetweenTwoArrays.cpp), [Python](./algorithms/python/findtheDistanceValueBetweenTwoArrays/findtheDistanceValueBetweenTwoArrays.py) | Easy |
 | 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [C++](./algorithms/cpp/maximumPerformanceofaTeam/maximumPerformanceofaTeam.cpp), [Python](./algorithms/python/maximumPerformanceofaTeam/maximumPerformanceofaTeam.py) | Hard |
