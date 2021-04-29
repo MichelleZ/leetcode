@@ -3,6 +3,13 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [C++](./algorithms/cpp/constructKPalindromeStrings/constructKPalindromeStrings.cpp), [Python](./algorithms/python/constructKPalindromeStrings/constructKPalindromeStrings.py) | Medium |
+| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [C++](./algorithms/cpp/countLargestGroup/countLargestGroup.cpp), [Python](./algorithms/python/countLargestGroup/countLargestGroup.py) | Easy |
+| 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [C++](./algorithms/cpp/designUndergroundSystem/designUndergroundSystem.cpp), [Python](./algorithms/python/designUndergroundSystem/designUndergroundSystem.py) | Medium |
+| 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [C++](./algorithms/cpp/countNumberofTeams/countNumberofTeams.cpp), [Python](./algorithms/python/countNumberofTeams/countNumberofTeams.py) | Medium |
+| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [C++](./algorithms/cpp/findLuckyIntegerinanArray/findLuckyIntegerinanArray.cpp), [Python](./algorithms/python/findLuckyIntegerinanArray/findLuckyIntegerinanArray.py) | Easy |
+| 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [C++](./algorithms/cpp/longestHappyPrefix/longestHappyPrefix.cpp), [Python](./algorithms/python/longestHappyPrefix/longestHappyPrefix.py) | Hard |
+| 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [C++](./algorithms/cpp/checkifThereisaValidPathinaGrid/checkifThereisaValidPathinaGrid.cpp), [Python](./algorithms/python/checkifThereisaValidPathinaGrid/checkifThereisaValidPathinaGrid.py) | Medium |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [C++](./algorithms/cpp/fourDivisors/fourDivisors.cpp), [Python](./algorithms/python/fourDivisors/fourDivisors.py) | Medium |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [C++](./algorithms/cpp/createTargetArrayintheGivenOrder/createTargetArrayintheGivenOrder.cpp), [Python](./algorithms/python/createTargetArrayintheGivenOrder/createTargetArrayintheGivenOrder.py) | Easy |
 | 1388 | [Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/) | [C++](./algorithms/cpp/pizzaWith3nSlices/pizzaWith3nSlices.cpp), [Python](./algorithms/python/pizzaWith3nSlices/pizzaWith3nSlices.py) | Hard |
