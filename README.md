@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | [C++](./algorithms/cpp/hTMLEntityParser/hTMLEntityParser.cpp), [Python](./algorithms/python/hTMLEntityParser/hTMLEntityParser.py) | Medium |
+| 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [C++](./algorithms/cpp/queriesonaPermutationWithKey/queriesonaPermutationWithKey.cpp), [Python](./algorithms/python/queriesonaPermutationWithKey/queriesonaPermutationWithKey.py) | Medium |
+| 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [C++](./algorithms/cpp/stringMatchinginanArray/stringMatchinginanArray.cpp), [Python](./algorithms/python/stringMatchinginanArray/stringMatchinginanArray.py) | Easy |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [C++](./algorithms/cpp/stoneGameIII/stoneGameIII.cpp), [Python](./algorithms/python/stoneGameIII/stoneGameIII.py) | Hard |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [C++](./algorithms/cpp/longestHappyString/longestHappyString.cpp), [Python](./algorithms/python/longestHappyString/longestHappyString.py) | Medium |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [C++](./algorithms/cpp/numberofStepstoReduceaNumberinBinaryRepresentationtoOne/numberofStepstoReduceaNumberinBinaryRepresentationtoOne.cpp), [Python](./algorithms/python/numberofStepstoReduceaNumberinBinaryRepresentationtoOne/numberofStepstoReduceaNumberinBinaryRepresentationtoOne.py) | Medium |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [C++](./algorithms/cpp/minimumSubsequenceinNon-IncreasingOrder/minimumSubsequenceinNon-IncreasingOrder.cpp), [Python](./algorithms/python/minimumSubsequenceinNon-IncreasingOrder/minimumSubsequenceinNon-IncreasingOrder.py) | Easy |
