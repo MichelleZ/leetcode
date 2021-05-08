@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [C++](./algorithms/cpp/cherryPickupII/cherryPickupII.cpp), [Python](./algorithms/python/cherryPickupII/cherryPickupII.py) | Hard |
+| 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | [C++](./algorithms/cpp/courseScheduleIV/courseScheduleIV.cpp), [Python](./algorithms/python/courseScheduleIV/courseScheduleIV.py) | Medium |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [C++](./algorithms/cpp/checkIfaStringContainsAllBinaryCodesofSizeK/checkIfaStringContainsAllBinaryCodesofSizeK.cpp), [Python](./algorithms/python/checkIfaStringContainsAllBinaryCodesofSizeK/checkIfaStringContainsAllBinaryCodesofSizeK.py) | Medium |
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [C++](./algorithms/cpp/makeTwoArraysEqualbyReversingSub-arrays/makeTwoArraysEqualbyReversingSub-arrays.cpp), [Python](./algorithms/python/makeTwoArraysEqualbyReversingSub-arrays/makeTwoArraysEqualbyReversingSub-arrays.py) | Easy |
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [C++](./algorithms/cpp/maxDotProductofTwoSubsequences/maxDotProductofTwoSubsequences.cpp), [Python](./algorithms/python/maxDotProductofTwoSubsequences/maxDotProductofTwoSubsequences.py) | Hard |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [C++](./algorithms/cpp/pseudo-PalindromicPathsinaBinaryTree/pseudo-PalindromicPathsinaBinaryTree.cpp), [Python](./algorithms/python/pseudo-PalindromicPathsinaBinaryTree/pseudo-PalindromicPathsinaBinaryTree.py) | Medium |
