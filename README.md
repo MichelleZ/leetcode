@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](./algorithms/cpp/runningSumof1dArray/runningSumof1dArray.cpp), [Python](./algorithms/python/runningSumof1dArray/runningSumof1dArray.py) | Easy |
+| 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/) | [C++](./algorithms/cpp/allocateMailboxes/allocateMailboxes.cpp), [Python](./algorithms/python/allocateMailboxes/allocateMailboxes.py) | Hard |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [C++](./algorithms/cpp/findTwoNon-overlappingSub-arraysEachWithTargetSum/findTwoNon-overlappingSub-arraysEachWithTargetSum.cpp), [Python](./algorithms/python/findTwoNon-overlappingSub-arraysEachWithTargetSum/findTwoNon-overlappingSub-arraysEachWithTargetSum.py) | Medium |
+| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [C++](./algorithms/cpp/subrectangleQueries/subrectangleQueries.cpp), [Python](./algorithms/python/subrectangleQueries/subrectangleQueries.py) | Medium |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [C++](./algorithms/cpp/finalPricesWithaSpecialDiscountinaShop/finalPricesWithaSpecialDiscountinaShop.cpp), [Python](./algorithms/python/finalPricesWithaSpecialDiscountinaShop/finalPricesWithaSpecialDiscountinaShop.py) | Easy |
 | 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [C++](./algorithms/cpp/paintHouseIII/paintHouseIII.cpp), [Python](./algorithms/python/paintHouseIII/paintHouseIII.py) | Hard |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [C++](./algorithms/cpp/designBrowserHistory/designBrowserHistory.cpp), [Python](./algorithms/python/designBrowserHistory/designBrowserHistory.py) | Medium |
