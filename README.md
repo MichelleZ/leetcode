@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [C++](./algorithms/cpp/findCriticalandPseudo-CriticalEdgesinMinimumSpanningTree/findCriticalandPseudo-CriticalEdgesinMinimumSpanningTree.cpp), [Python](./algorithms/python/findCriticalandPseudo-CriticalEdgesinMinimumSpanningTree/findCriticalandPseudo-CriticalEdgesinMinimumSpanningTree.py) | Hard |
+| 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [C++](./algorithms/cpp/avoidFloodinTheCity/avoidFloodinTheCity.cpp), [Python](./algorithms/python/avoidFloodinTheCity/avoidFloodinTheCity.py) | Medium |
+| 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [C++](./algorithms/cpp/makingFileNamesUnique/makingFileNamesUnique.cpp), [Python](./algorithms/python/makingFileNamesUnique/makingFileNamesUnique.py) | Medium |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [C++](./algorithms/cpp/xOROperationinanArray/xOROperationinanArray.cpp), [Python](./algorithms/python/xOROperationinanArray/xOROperationinanArray.py) | Easy |
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [C++](./algorithms/cpp/kthAncestorofaTreeNode/kthAncestorofaTreeNode.cpp), [Python](./algorithms/python/kthAncestorofaTreeNode/kthAncestorofaTreeNode.py) | Hard |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [C++](./algorithms/cpp/minimumNumberofDaystoMakemBouquets/minimumNumberofDaystoMakemBouquets.cpp), [Python](./algorithms/python/minimumNumberofDaystoMakemBouquets/minimumNumberofDaystoMakemBouquets.py) | Medium |
