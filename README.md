@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [C++](./algorithms/cpp/maxValueofEquation/maxValueofEquation.cpp), [Python](./algorithms/python/maxValueofEquation/maxValueofEquation.py) | Hard |
+| 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [C++](./algorithms/cpp/checkIfArrayPairsAreDivisiblebyk/checkIfArrayPairsAreDivisiblebyk.cpp), [Python](./algorithms/python/checkIfArrayPairsAreDivisiblebyk/checkIfArrayPairsAreDivisiblebyk.py) | Medium |
+| 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [C++](./algorithms/cpp/pathCrossing/pathCrossing.cpp), [Python](./algorithms/python/pathCrossing/pathCrossing.py) | Easy |
 | 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/) | [C++](./algorithms/cpp/parallelCoursesII/parallelCoursesII.cpp), [Python](./algorithms/python/parallelCoursesII/parallelCoursesII.py) | Hard |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [C++](./algorithms/cpp/longestSubarrayof1sAfterDeletingOneElement/longestSubarrayof1sAfterDeletingOneElement.cpp), [Python](./algorithms/python/longestSubarrayof1sAfterDeletingOneElement/longestSubarrayof1sAfterDeletingOneElement.py) | Medium |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [C++](./algorithms/cpp/thekthFactorofn/thekthFactorofn.cpp), [Python](./algorithms/python/thekthFactorofn/thekthFactorofn.py) | Medium |
