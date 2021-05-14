@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [C++](./algorithms/cpp/threeConsecutiveOdds/threeConsecutiveOdds.cpp), [Python](./algorithms/python/threeConsecutiveOdds/threeConsecutiveOdds.py) | Easy |
+| 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [C++](./algorithms/cpp/minimumCosttoCutaStick/minimumCosttoCutaStick.cpp), [Python](./algorithms/python/minimumCosttoCutaStick/minimumCosttoCutaStick.py) | Hard |
+| 1546 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [C++](./algorithms/cpp/maximumNumberofNon-OverlappingSubarraysWithSumEqualsTarget/maximumNumberofNon-OverlappingSubarraysWithSumEqualsTarget.cpp), [Python](./algorithms/python/maximumNumberofNon-OverlappingSubarraysWithSumEqualsTarget/maximumNumberofNon-OverlappingSubarraysWithSumEqualsTarget.py) | Medium |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [C++](./algorithms/cpp/findKthBitinNthBinaryString/findKthBitinNthBinaryString.cpp), [Python](./algorithms/python/findKthBitinNthBinaryString/findKthBitinNthBinaryString.py) | Medium |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [C++](./algorithms/cpp/makeTheStringGreat/makeTheStringGreat.cpp), [Python](./algorithms/python/makeTheStringGreat/makeTheStringGreat.py) | Easy |
 | 1542 | [Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/) | [C++](./algorithms/cpp/findLongestAwesomeSubstring/findLongestAwesomeSubstring.cpp), [Python](./algorithms/python/findLongestAwesomeSubstring/findLongestAwesomeSubstring.py) | Hard |
