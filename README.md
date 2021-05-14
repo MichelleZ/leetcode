@@ -3,6 +3,13 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | [C++](./algorithms/cpp/canConvertStringinKMoves/canConvertStringinKMoves.cpp), [Python](./algorithms/python/canConvertStringinKMoves/canConvertStringinKMoves.py) | Medium |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [C++](./algorithms/cpp/kthMissingPositiveNumber/kthMissingPositiveNumber.cpp), [Python](./algorithms/python/kthMissingPositiveNumber/kthMissingPositiveNumber.py) | Easy |
+| 1537 | [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/) | [C++](./algorithms/cpp/gettheMaximumScore/gettheMaximumScore.cpp), [Python](./algorithms/python/gettheMaximumScore/gettheMaximumScore.py) | Hard |
+| 1536 | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [C++](./algorithms/cpp/minimumSwapstoArrangeaBinaryGrid/minimumSwapstoArrangeaBinaryGrid.cpp), [Python](./algorithms/python/minimumSwapstoArrangeaBinaryGrid/minimumSwapstoArrangeaBinaryGrid.py) | Medium |
+| 1535 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | [C++](./algorithms/cpp/findtheWinnerofanArrayGame/findtheWinnerofanArrayGame.cpp), [Python](./algorithms/python/findtheWinnerofanArrayGame/findtheWinnerofanArrayGame.py) | Medium |
+| 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [C++](./algorithms/cpp/countGoodTriplets/countGoodTriplets.cpp), [Python](./algorithms/python/countGoodTriplets/countGoodTriplets.py) | Easy |
+| 1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [C++](./algorithms/cpp/stringCompressionII/stringCompressionII.cpp), [Python](./algorithms/python/stringCompressionII/stringCompressionII.py) | Hard |
 | 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | [C++](./algorithms/cpp/numberofGoodLeafNodesPairs/numberofGoodLeafNodesPairs.cpp), [Python](./algorithms/python/numberofGoodLeafNodesPairs/numberofGoodLeafNodesPairs.py) | Medium |
 | 1529 | [Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv/) | [C++](./algorithms/cpp/bulbSwitcherIV/bulbSwitcherIV.cpp), [Python](./algorithms/python/bulbSwitcherIV/bulbSwitcherIV.py) | Medium |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [C++](./algorithms/cpp/shuffleString/shuffleString.cpp), [Python](./algorithms/python/shuffleString/shuffleString.py) | Easy |
