@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [C++](./algorithms/cpp/findKthBitinNthBinaryString/findKthBitinNthBinaryString.cpp), [Python](./algorithms/python/findKthBitinNthBinaryString/findKthBitinNthBinaryString.py) | Medium |
+| 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [C++](./algorithms/cpp/makeTheStringGreat/makeTheStringGreat.cpp), [Python](./algorithms/python/makeTheStringGreat/makeTheStringGreat.py) | Easy |
+| 1542 | [Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/) | [C++](./algorithms/cpp/findLongestAwesomeSubstring/findLongestAwesomeSubstring.cpp), [Python](./algorithms/python/findLongestAwesomeSubstring/findLongestAwesomeSubstring.py) | Hard |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [C++](./algorithms/cpp/minimumInsertionstoBalanceaParenthesesString/minimumInsertionstoBalanceaParenthesesString.cpp), [Python](./algorithms/python/minimumInsertionstoBalanceaParenthesesString/minimumInsertionstoBalanceaParenthesesString.py) | Medium |
 | 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | [C++](./algorithms/cpp/canConvertStringinKMoves/canConvertStringinKMoves.cpp), [Python](./algorithms/python/canConvertStringinKMoves/canConvertStringinKMoves.py) | Medium |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [C++](./algorithms/cpp/kthMissingPositiveNumber/kthMissingPositiveNumber.cpp), [Python](./algorithms/python/kthMissingPositiveNumber/kthMissingPositiveNumber.py) | Easy |
 | 1537 | [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/) | [C++](./algorithms/cpp/gettheMaximumScore/gettheMaximumScore.cpp), [Python](./algorithms/python/gettheMaximumScore/gettheMaximumScore.py) | Hard |
