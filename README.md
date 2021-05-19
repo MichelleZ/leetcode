@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | [C++](./algorithms/cpp/makeSumDivisiblebyP/makeSumDivisiblebyP.cpp), [Python](./algorithms/python/makeSumDivisiblebyP/makeSumDivisiblebyP.py) | Medium |
+| 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [C++](./algorithms/cpp/maximumSumObtainedofAnyPermutation/maximumSumObtainedofAnyPermutation.cpp), [Python](./algorithms/python/maximumSumObtainedofAnyPermutation/maximumSumObtainedofAnyPermutation.py) | Medium |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [C++](./algorithms/cpp/sumofAllOddLengthSubarrays/sumofAllOddLengthSubarrays.cpp), [Python](./algorithms/python/sumofAllOddLengthSubarrays/sumofAllOddLengthSubarrays.py) | Easy |
 | 1585 | [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | [C++](./algorithms/cpp/checkIfStringIsTransformableWithSubstringSortOperations/checkIfStringIsTransformableWithSubstringSortOperations.cpp), [Python](./algorithms/python/checkIfStringIsTransformableWithSubstringSortOperations/checkIfStringIsTransformableWithSubstringSortOperations.py) | Hard |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [C++](./algorithms/cpp/minCosttoConnectAllPoints/minCosttoConnectAllPoints.cpp), [Python](./algorithms/python/minCosttoConnectAllPoints/minCosttoConnectAllPoints.py) | Medium |
 | 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | [C++](./algorithms/cpp/countUnhappyFriends/countUnhappyFriends.cpp), [Python](./algorithms/python/countUnhappyFriends/countUnhappyFriends.py) | Medium |
