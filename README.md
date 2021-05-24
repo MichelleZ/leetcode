@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [C++](./algorithms/cpp/sortArraybyIncreasingFrequency/sortArraybyIncreasingFrequency.cpp), [Python](./algorithms/python/sortArraybyIncreasingFrequency/sortArraybyIncreasingFrequency.py) | Easy |
+| 1632 | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/) | [C++](./algorithms/cpp/rankTransformofaMatrix/rankTransformofaMatrix.cpp), [Python](./algorithms/python/rankTransformofaMatrix/rankTransformofaMatrix.py) | Hard |
+| 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | [C++](./algorithms/cpp/pathWithMinimumEffort/pathWithMinimumEffort.cpp), [Python](./algorithms/python/pathWithMinimumEffort/pathWithMinimumEffort.py) | Medium |
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | [C++](./algorithms/cpp/arithmeticSubarrays/arithmeticSubarrays.cpp), [Python](./algorithms/python/arithmeticSubarrays/arithmeticSubarrays.py) | Medium |
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key/) | [C++](./algorithms/cpp/slowestKey/slowestKey.cpp), [Python](./algorithms/python/slowestKey/slowestKey.py) | Easy |
 | 1627 | [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [C++](./algorithms/cpp/graphConnectivityWithThreshold/graphConnectivityWithThreshold.cpp), [Python](./algorithms/python/graphConnectivityWithThreshold/graphConnectivityWithThreshold.py) | Hard |
