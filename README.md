@@ -3,6 +3,10 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1659 | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) | [C++](./algorithms/cpp/maximizeGridHappiness/maximizeGridHappiness.cpp), [Python](./algorithms/python/maximizeGridHappiness/maximizeGridHappiness.py) | Hard |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [C++](./algorithms/cpp/minimumOperationstoReduceXtoZero/minimumOperationstoReduceXtoZero.cpp), [Python](./algorithms/python/minimumOperationstoReduceXtoZero/minimumOperationstoReduceXtoZero.py) | Medium |
+| 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [C++](./algorithms/cpp/determineifTwoStringsAreClose/determineifTwoStringsAreClose.cpp), [Python](./algorithms/python/determineifTwoStringsAreClose/determineifTwoStringsAreClose.py) | Medium |
+| 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [C++](./algorithms/cpp/designanOrderedStream/designanOrderedStream.cpp), [Python](./algorithms/python/designanOrderedStream/designanOrderedStream.py) | Easy |
 | 1655 | [Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/) | [C++](./algorithms/cpp/distributeRepeatingIntegers/distributeRepeatingIntegers.cpp), [Python](./algorithms/python/distributeRepeatingIntegers/distributeRepeatingIntegers.py) | Hard |
 | 1654 | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [C++](./algorithms/cpp/minimumJumpstoReachHome/minimumJumpstoReachHome.cpp), [Python](./algorithms/python/minimumJumpstoReachHome/minimumJumpstoReachHome.py) | Medium |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [C++](./algorithms/cpp/minimumDeletionstoMakeStringBalanced/minimumDeletionstoMakeStringBalanced.cpp), [Python](./algorithms/python/minimumDeletionstoMakeStringBalanced/minimumDeletionstoMakeStringBalanced.py) | Medium |
