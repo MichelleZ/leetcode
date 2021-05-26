@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | [C++](./algorithms/cpp/designFrontMiddleBackQueue/designFrontMiddleBackQueue.cpp), [Python](./algorithms/python/designFrontMiddleBackQueue/designFrontMiddleBackQueue.py) | Medium |
+| 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [C++](./algorithms/cpp/mergeInBetweenLinkedLists/mergeInBetweenLinkedLists.cpp), [Python](./algorithms/python/mergeInBetweenLinkedLists/mergeInBetweenLinkedLists.py) | Medium |
+| 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [C++](./algorithms/cpp/maximumRepeatingSubstring/maximumRepeatingSubstring.cpp), [Python](./algorithms/python/maximumRepeatingSubstring/maximumRepeatingSubstring.py) | Easy |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [C++](./algorithms/cpp/minimumInitialEnergytoFinishTasks/minimumInitialEnergytoFinishTasks.cpp), [Python](./algorithms/python/minimumInitialEnergytoFinishTasks/minimumInitialEnergytoFinishTasks.py) | Hard |
 | 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | [C++](./algorithms/cpp/waystoMakeaFairArray/waystoMakeaFairArray.cpp), [Python](./algorithms/python/waystoMakeaFairArray/waystoMakeaFairArray.py) | Medium |
 | 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [C++](./algorithms/cpp/smallestStringWithAGivenNumericValue/smallestStringWithAGivenNumericValue.cpp), [Python](./algorithms/python/smallestStringWithAGivenNumericValue/smallestStringWithAGivenNumericValue.py) | Medium |
