@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [C++](./algorithms/cpp/sumofAbsoluteDifferencesinaSortedArray/sumofAbsoluteDifferencesinaSortedArray.cpp), [Python](./algorithms/python/sumofAbsoluteDifferencesinaSortedArray/sumofAbsoluteDifferencesinaSortedArray.py) | Medium |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [C++](./algorithms/cpp/counttheNumberofConsistentStrings/counttheNumberofConsistentStrings.cpp), [Python](./algorithms/python/counttheNumberofConsistentStrings/counttheNumberofConsistentStrings.py) | Easy |
+| 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | [C++](./algorithms/cpp/minimumIncompatibility/minimumIncompatibility.cpp), [Python](./algorithms/python/minimumIncompatibility/minimumIncompatibility.py) | Hard |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [C++](./algorithms/cpp/concatenationofConsecutiveBinaryNumbers/concatenationofConsecutiveBinaryNumbers.cpp), [Python](./algorithms/python/concatenationofConsecutiveBinaryNumbers/concatenationofConsecutiveBinaryNumbers.py) | Medium |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [C++](./algorithms/cpp/maxNumberofK-SumPairs/maxNumberofK-SumPairs.cpp), [Python](./algorithms/python/maxNumberofK-SumPairs/maxNumberofK-SumPairs.py) | Medium |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [C++](./algorithms/cpp/goalParserInterpretation/goalParserInterpretation.cpp), [Python](./algorithms/python/goalParserInterpretation/goalParserInterpretation.py) | Easy |
