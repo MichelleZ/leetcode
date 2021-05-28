@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [C++](./algorithms/cpp/maximumErasureValue/maximumErasureValue.cpp), [Python](./algorithms/python/maximumErasureValue/maximumErasureValue.py) | Medium |
+| 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [C++](./algorithms/cpp/reformatPhoneNumber/reformatPhoneNumber.cpp), [Python](./algorithms/python/reformatPhoneNumber/reformatPhoneNumber.py) | Easy |
+| 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [C++](./algorithms/cpp/maximumHeightbyStackingCuboids/maximumHeightbyStackingCuboids.cpp), [Python](./algorithms/python/maximumHeightbyStackingCuboids/maximumHeightbyStackingCuboids.py) | Hard |
 | 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [C++](./algorithms/cpp/stoneGameVII/stoneGameVII.cpp), [Python](./algorithms/python/stoneGameVII/stoneGameVII.py) | Medium |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [C++](./algorithms/cpp/partitioningIntoMinimumNumberOfDeci-BinaryNumbers/partitioningIntoMinimumNumberOfDeci-BinaryNumbers.cpp), [Python](./algorithms/python/partitioningIntoMinimumNumberOfDeci-BinaryNumbers/partitioningIntoMinimumNumberOfDeci-BinaryNumbers.py) | Medium |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [C++](./algorithms/cpp/countofMatchesinTournament/countofMatchesinTournament.cpp), [Python](./algorithms/python/countofMatchesinTournament/countofMatchesinTournament.py) | Easy |
