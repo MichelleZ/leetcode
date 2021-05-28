@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [C++](./algorithms/cpp/numberofStudentsUnabletoEatLunch/numberofStudentsUnabletoEatLunch.cpp), [Python](./algorithms/python/numberofStudentsUnabletoEatLunch/numberofStudentsUnabletoEatLunch.py) | Easy |
+| 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [C++](./algorithms/cpp/checkingExistenceofEdgeLengthLimitedPaths/checkingExistenceofEdgeLengthLimitedPaths.cpp), [Python](./algorithms/python/checkingExistenceofEdgeLengthLimitedPaths/checkingExistenceofEdgeLengthLimitedPaths.py) | Hard |
+| 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [C++](./algorithms/cpp/jumpGameVI/jumpGameVI.cpp), [Python](./algorithms/python/jumpGameVI/jumpGameVI.py) | Medium |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [C++](./algorithms/cpp/maximumErasureValue/maximumErasureValue.cpp), [Python](./algorithms/python/maximumErasureValue/maximumErasureValue.py) | Medium |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [C++](./algorithms/cpp/reformatPhoneNumber/reformatPhoneNumber.cpp), [Python](./algorithms/python/reformatPhoneNumber/reformatPhoneNumber.py) | Easy |
 | 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [C++](./algorithms/cpp/maximumHeightbyStackingCuboids/maximumHeightbyStackingCuboids.cpp), [Python](./algorithms/python/maximumHeightbyStackingCuboids/maximumHeightbyStackingCuboids.py) | Hard |
