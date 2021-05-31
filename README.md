@@ -3,6 +3,9 @@
 
 | SN | Title | Solution | Difficulty |
 |----|-------|----------|------------|
+| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [C++](./algorithms/cpp/maximumUnitsonaTruck/maximumUnitsonaTruck.cpp), [Python](./algorithms/python/maximumUnitsonaTruck/maximumUnitsonaTruck.py) | Easy |
+| 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [C++](./algorithms/cpp/maximumXORWithanElementFromArray/maximumXORWithanElementFromArray.cpp), [Python](./algorithms/python/maximumXORWithanElementFromArray/maximumXORWithanElementFromArray.py) | Hard |
+| 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [C++](./algorithms/cpp/whereWilltheBallFall/whereWilltheBallFall.cpp), [Python](./algorithms/python/whereWilltheBallFall/whereWilltheBallFall.py) | Medium |
 | 1705 | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | [C++](./algorithms/cpp/maximumNumberofEatenApples/maximumNumberofEatenApples.cpp), [Python](./algorithms/python/maximumNumberofEatenApples/maximumNumberofEatenApples.py) | Medium |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [C++](./algorithms/cpp/determineifStringHalvesAreAlike/determineifStringHalvesAreAlike.cpp), [Python](./algorithms/python/determineifStringHalvesAreAlike/determineifStringHalvesAreAlike.py) | Easy |
 | 1703 | [Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/) | [C++](./algorithms/cpp/minimumAdjacentSwapsforKConsecutiveOnes/minimumAdjacentSwapsforKConsecutiveOnes.cpp), [Python](./algorithms/python/minimumAdjacentSwapsforKConsecutiveOnes/minimumAdjacentSwapsforKConsecutiveOnes.py) | Hard |
