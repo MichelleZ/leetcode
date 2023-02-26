@@ -3,8 +3,53 @@
 
 # Source: https://leetcode.com/problems/word-search-ii/
 # Author: Miao Zhang
-# Date:   2021-01-26
+# Date:   2023-02-26
 
+class Trie:
+    def __init__(self):
+        self.root = {}
+    
+    def insert(self, word: str) -> None:
+        node = self.root
+        for c in word:
+            node = node.setdefault(c, {})
+        node['#'] = word
+
+
+class Solution:
+    def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
+        def dfs(i: int, j: int, root: Trie) -> None:
+            ch = board[i][j]
+            nxt = root[ch]
+            word = nxt.pop('#', False)
+            if word:
+                res.append(word)
+            board[i][j] = '*'
+            dirs = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+            for dx, dy in dirs:
+                x, y = i + dx, j + dy
+                if 0 <= x < m and 0 <= y < n and board[x][y] in nxt:
+                    dfs(x, y, nxt)
+            board[i][j] = ch
+            if not nxt:
+                root.pop(ch)
+        
+        trie = Trie()
+        node = trie.root
+        for word in words:
+            trie.insert(word)
+        
+        m, n = len(board), len(board[0])
+        res = []
+        for i in range(m):
+            for j in range(n):
+                if board[i][j] in node:
+                    dfs(i, j, node)
+                
+        return res
+
+
+'''
 class TrieNode:
     def __init__(self):
         self.children = {}
@@ -56,3 +101,4 @@ class Solution:
         for dx, dy in dirs:
             self.dfs(board, node, i + dx, j + dy, path + tmp, res)
         board[i][j] = tmp
+'''
